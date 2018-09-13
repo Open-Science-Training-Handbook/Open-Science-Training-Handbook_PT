@@ -1,3 +1,3 @@
 # Open-Science-Training-Handbook_PT
-Portuguese for Prtugal, useful for Brazil, Angola, Moçambique, Cabo Verde, etc.
+Portuguese for Portugal, useful for Brazil, Angola, Moçambique, Cabo Verde, etc.
 
