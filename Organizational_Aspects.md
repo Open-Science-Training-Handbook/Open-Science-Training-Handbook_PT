@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Organizational aspects
+## Aspetos organizacionais
 
-This chapter will guide you through the main practical aspects of organizing a training event. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
+Este capítulo vai guiá-lo através dos principais aspetos práticos da organização de um evento de formação. Of course, what you need and will use will depend on the type of event you’ll organize! The checklist should be adjusted accordingly. You will get information on preparation steps and necessary organizational tasks. This will provide you not only with valuable knowledge about event organization, but will reassure you while preparing your training. Note that most of the material in this chapter, and the whole handbook, is focused on training regarding practical workshops. Running a different type of event may require different decisions than the recommendations that follow.
 
 ## Training event basics
 
