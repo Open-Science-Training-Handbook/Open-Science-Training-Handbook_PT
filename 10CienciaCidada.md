@@ -26,7 +26,7 @@ A ciência cidadã é simultaneamente um objetivo e um instrumento facilitador d
 
 3. Gestão da propriedade intelectual em projetos de ciência cidadã. Guia disponível  [aqui](https://www.wilsoncenter.org/sites/default/files/research_brief_guide_for_researchers.pdf).
 
-4. Gestão de [dados de ciência cidadã](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf)..
+4. Gestão de [dados de ciência cidadã](http://www.ukeof.org.uk/documents/DataAdviceNote2.pdf).
 
 5. Identificar as melhores estratégias para comunicar princípios científicos de forma clara e concisa.
 
