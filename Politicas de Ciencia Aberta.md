@@ -60,7 +60,7 @@ Um equívoco comum em relação à política de disponibilização de dados de i
 Ao planear uma política é importante saber o que se pretende alcançar ou resolver. Às vezes, as políticas são criadas seguindo outras iniciativas sem pensar se há necessidade de outra e se a nova política se sobrepõe a outras existentes. O principal desafio ao criar uma política é alinhá-la com outras iniciativas e evitar contradições com leis ou regulamentos.
 
 ## <img src="/Images/Icons/output.png" width="150" height="150" />
-### Objetivos de aprendizagem
+### Resultados de aprendizagem
 
 1. Os formandos deverão poder identificar os requisitos de qualquer política que possa afetá-los ao pôr em prática a Ciência Aberta.
 2. Deverão ser capazes de distinguir entre políticas gerais, como direitos de autor ou proteção de dados, e políticas específicas relacionadas com a Ciência Aberta, por exemplo, sobre como disseminar os resultados de investigação.
