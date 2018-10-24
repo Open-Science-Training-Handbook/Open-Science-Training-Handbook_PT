@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# Sobre os tradutores e revisores
+# Sobre os tradutores e revisores coordenadores da versão portuguesa do Manual
 
 ## Tradutores da versão portuguesa do Manual
 
