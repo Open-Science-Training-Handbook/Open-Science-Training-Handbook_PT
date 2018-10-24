@@ -65,7 +65,7 @@ Associada da Associação Portuguesa de Bibliotecários, Arquivistas e Documenta
  É bibliotecária e investigadora, licenciada em Letras, pós graduada em Ciências Documentais, Mestre em Educação e Leitura e Doutora em Educação. Trabalhou em bibliotecas públicas entre 1993 e 2007, quando passou para as bibliotecas universitárias. Atualmente é Chefe de Divisão de Documentação na Faculdade de Psicologia e Instituto de Educação da Universidade de Lisboa. Investigadora da UIDEF - Instituto de Educação, ULisboa e ainda investigadora colaboradora no ISPA, Centro ApPsy, é autora de diversas publicações nacionais e internacionais. Formadora na BAD e Membro do Grupo de Trabalho das Bibliotecas de Ensino Superior.
 
 
-## Coordenares e revisores da versão portuguesa do Manual
+## Coordenadores e revisores da versão portuguesa do Manual
 
 
 ### Eloy Rodrigues
