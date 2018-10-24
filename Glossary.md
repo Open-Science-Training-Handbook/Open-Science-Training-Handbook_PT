@@ -129,7 +129,7 @@
 
 * Formatos não proprietários que seguem padrões internacionais documentados, são comummente usados pela comunidade de investigadores, usam codificação padronizada de caracteres (e.g., ASCII, UTF-8) e onde a compressão, quando usada, não implica a perda de dados. 
 
-**Pré-impressão**
+**Preprint**
 
 * Versão de um manuscrito que ainda não foi submetido a revisão formal por pares, não foi distribuído nem recebeu um parecer antecipado dos pares. 
 
