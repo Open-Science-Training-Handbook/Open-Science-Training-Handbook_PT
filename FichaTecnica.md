@@ -81,8 +81,8 @@ Eloy has been working on repositories, Open Access and Open Science since 2003, 
 At European level, he is member of the European University Association Expert Group on Science 2.0/Open Science and has been coordinating the participation of UMinho in several EU funded projects (like the OpenAIRE projects, and FOSTER and FOSTERPlus where he is the project coordinator), related with repositories, Open Access and Open Science.
 Eloy is currently the Chair of the Executive Board of COAR, the Confederation of Open Access Repositories.
 He is member of the Working Group for the National Open Science Policy, established by the Portuguese Ministry of Science, Technology and Higher Education.
-In the last years he has been presenting, as invited speaker, in more than fifty events in Europe (Portugal, Spain, UK, Check Republic, Germany, Italy, France, Bulgaria, Turkey, Belgium, Hungary, Netherlands, Malta), in Africa (Mozambique, South Africa and Ethiopia),  America (Brazil, Argentina, Colombia, México, Chile, Peru and  Costa Rica) and in Asia (China and Japan).
-He has authored dozens of publications (articles, books and book chapters, etc.). Full list at: http://goo.gl/clZjTd
+In the last decade he has been presenting, as invited speaker, and advocating for Open Access and Open Science in more than fifty events in Europe, Africa,  America and Asia.
+He has authored dozens of publications (articles, books and book chapters, etc.) on this matters. Full list at: http://goo.gl/clZjTd
 
 
 ### Pedro L. Fernandes
