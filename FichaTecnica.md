@@ -70,7 +70,7 @@ Associada da Associação Portuguesa de Bibliotecários, Arquivistas e Documenta
 
 ### Eloy Rodrigues
 
-* Universiidade do Minho Portugal
+* Universidade do Minho Portugal
 * [eloy@sdum.uminho.pt](mailto:eloy@sdum.uminho.pt)
 * [@cibertecario02](https://twitter.com/cibertecario02)
 * [0000-0002-7862-2681](https://orcid.org/0000-0002-7862-2681)
@@ -107,7 +107,7 @@ Open Science is an attitude that requires a large but feasible education step. A
 
 ### Antónia Correia
 
-* Universiidade do Minho Portugal
+* Universidade do Minho Portugal
 * [antoniacorreia@sdum.uminho.pt](mailto:antoniacorreia@sdum.uminho.pt)
 * [@antoniamcorreia](https://twitter.com/antoniamcorreia)
 * [0000-0002-6610-8853](https://orcid.org/0000-0002-6610-8853)
