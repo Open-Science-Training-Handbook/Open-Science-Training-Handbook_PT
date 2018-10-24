@@ -65,7 +65,7 @@ Associada da Associação Portuguesa de Bibliotecários, Arquivistas e Documenta
  É bibliotecária e investigadora, licenciada em Letras, pós graduada em Ciências Documentais, Mestre em Educação e Leitura e Doutora em Educação. Trabalhou em bibliotecas públicas entre 1993 e 2007, quando passou para as bibliotecas universitárias. Atualmente é Chefe de Divisão de Documentação na Faculdade de Psicologia e Instituto de Educação da Universidade de Lisboa. Investigadora da UIDEF - Instituto de Educação, ULisboa e ainda investigadora colaboradora no ISPA, Centro ApPsy, é autora de diversas publicações nacionais e internacionais. Formadora na BAD e Membro do Grupo de Trabalho das Bibliotecas de Ensino Superior.
 
 
-## Revisores coordenadores da versão portuguesa do Manual
+## Coordenadores e revisores da versão portuguesa do Manual
 
 
 ### Eloy Rodrigues
@@ -85,7 +85,7 @@ Ao nível europeu,  é presentemente membro do EUA Expert Group on Science 2.0/O
 Foi eleito em abril de 2015 como Presidente do Conselho Executivo da Confederation of Open Access Repositories (COAR), para o mandato de 2015 a 2018.
 
 É membro do Grupo de Trabalho – Política Nacional de Ciência Aberta, criado pelo Ministério da Ciência, Tecnologia e Ensino Superior de Portugal.
-Nos últimos sete anos realizou, a convite de várias organizações,  mais de meia centena de conferências, palestras, seminários e outras acções de divulgação ou formação sobre o acesso aberto ao conhecimento e os repositórios institucionais, na Europa (Portugal, Espanha, Reino Unido, República Checa, Alemanha, Itália, França, Bulgária, Turquia, Bélgica, Hungria, Holanda, Malta), em África (Moçambique, África do Sul e Etiópia), na América (Brasil, Argentina, Colômbia, México, Chile, Perú e Costa Rica) e na Ásia (China e Japão).
+Na última década realizou, a convite de várias organizações,  mais de meia centena de conferências, palestras, seminários e outras acções de divulgação ou formação sobre o acesso aberto ao conhecimento e os repositórios institucionais, na Europa, em África, na América e na Ásia.
 
 É autor de dezenas de publicações (artigos, livros e capítulos de livros, etc.) . Lista completa em: http://goo.gl/clZjTd
 
