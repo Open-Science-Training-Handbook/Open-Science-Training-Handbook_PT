@@ -1,5 +1,10 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
-# Sobre os tradutores e revisores coordenadores da versão portuguesa do Manual
+# Sobre a presente versão do Manual de Formação em Ciência Aberta
+
+Esta versão do Manual de Formação em Ciência Aberta (que ainda se encontra em fase de revisão) resuta da tradução do [Open Science Training Handbook](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN)
+
+
+s tradutores e revisores coordenadores da versão portuguesa do Manual
 
 ## Tradutores 
 
