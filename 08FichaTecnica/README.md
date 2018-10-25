@@ -13,6 +13,9 @@ A presente tradução foi realizada por um grupo de 23 tradutores voluntários, 
 ### Ana Maria Eva Miguéis
 Desenvolve a sua atividade no âmbito da Ciência da Informação. Esteve ligada às Bibliotecas da Saúde, estando atualmente a coordenar o Serviço Integrado das Bibliotecas da Universidade de Coimbra, estrutura de apoio técnico e coordenação das bibliotecas desta Universidade. Lecionou na Faculdade de Letras da UC, tendo aí concluído o seu Mestrado subordinado ao tema dos repositórios e do Acesso Aberto. Tem vindo a participar em diferentes projetos e atividades, entre a quais, a coordenação do Grupo de Trabalho de Divulgação do RCAAP, que promove a realização da Semana Internacional do Acesso Aberto em Portugal.
 
+### Bella Nolasco
+Licenciada pela Universidade de Coimbra em Ciência da Informação Arquivística e Biblioteconómica, é técnica superior nas Bibliotecas da Universidade de Aveiro, desde abril de 2009. Na Área de Recursos Eletrónicos e Apoio ao Utilizador, desempenha funções ligadas à gestão de informação e helpdesk no RIA – Repositório Institucional da UA e no PROA-UA, plataforma de revistas científicas/académicas da UA; à criação e disponibilização de conteúdos e tutoriais Web de apoio ao utilizador; à formação de utilizadores e ao serviço de referência e apoio a pesquisas.
+
 ### Carla Marques
 É licenciada em Ciência da Informação Arquivística e Biblioteconómica e possui mestrado em Informação, Comunicação e Novos Media pela Universidade de Coimbra.
 Em 2010 e 2011 exerceu funções de Arquivista. De 2012 a 2017, trabalhou na Imprensa da Universidade de Coimbra, onde efetuou trabalhos de assistência editorial, projetos Open Access na área da edição de monografias e apoiou revistas científicas e investigadores no melhoramento formal de publicações académicas, com o objetivo da submissão e aceitação em bases de dados internacionais prestigiadas. Desde outubro de 2017 que exerce funções na Universidade do Minho, no Gabinete de Projetos Open Access.
@@ -20,14 +23,26 @@ Em 2010 e 2011 exerceu funções de Arquivista. De 2012 a 2017, trabalhou na Imp
 ### Carlos Lopes
 É Professor Auxiliar no ISPA e Professor convidado na Universidade Nova de Lisboa. Diretor da pós-graduação em Literacia em Saúde (ISPA-Instituto Universitário). Diretor do Centro de Documentação e Diretor Executivo do Centro de Edições do ISPA.. investigador na APPsyCI - Applied Psychology Research Center Capabilities &  Inclusión.
 
+### Cecília Reis
+Licenciada em Ciências da Informação e da Documentação na Universidade Aberta, é Assistente Técnica nas Bibliotecas da Universidade de Aveiro, desde novembro de 1995.
+Na Área de Recursos Eletrónicos e Apoio ao Utilizador, desempenha funções ligadas à
+à criação e respetiva divulgação de informação relacionada com recursos informacionais, científicos e técnicos, coleções, serviços e eventos das bibliotecas da UA e restantes áreas SBIDM; à seleção, análise e criação de conteúdos informacionais estruturados e adaptados às áreas em curso na UA e aos diferentes tipos de utilizadores; à formação de utilizadores e ao serviço de referência e apoio a pesquisas.
+
 ### Clara Parente Boavida
 Colabora atualmente com os Serviços de Informação e Documentação do ISCTE-Instituto Universitário de Lisboa. Integrou a equipa de projetos da Universidade do Minho onde trabalhou nos projetos MedOAnet e PASTEUR4OA. Desempenhou funções como Open Access Advisor na University of Nottingham, Reino Unido, integrando a equipa de projetos do OpenAIRE e NECOBELAC. Anteriormente desempenhou funções como gestora do repositório da Universidade Nova de Lisboa e participou no projeto Blimunda. Licenciada em Ensino das Ciências da Natureza, mestre em Ciências da Educação e pós-graduada em Gestão de Projetos pela Universidade Nova de Lisboa.
 
 ### Cristina Sousa Lopes
 Cristina Sousa Lopes, tem como experiência profissional as bibliotecas académicas e as bibliotecas de leitura pública, sendo atualmente responsável pelos serviços ao utilizador no Serviço de Documentação e Informação da Faculdade de Engenharia da Universidade do Porto, desde 2005. Anteriormente, desempenhou funções de bibliotecária na Biblioteca Municipal Almeida Garrett (1999-2005) e na Biblioteca da Escola Superior de Biotecnologia da Universidade Católica (1995-1998). Desenvolve trabalho de investigação, como estudante de doutoramento em Ciência da Informação na Universidade de Coimbra, desde 2015, centrando os seus interesses nas áreas de literacia da informação, serviços de referência, publicação científica, comunicação da ciência, entre outras.
 
+### Diana Silva
+É bibliotecária nos Serviços de Biblioteca, Informação Documental e Museologia da Universidade de Aveiro desde Outubro de 2002.
+Trabalha há cerca de 16 anos com informação científica e técnica e tem desenvolvido no seu percurso profissional um conjunto de atividades ligadas à gestão de sistemas de informação, criação e disponibilização de conteúdos Web de apoio ao utilizador no uso das fontes de informação e desenvolvimento de iniciativas e projetos de promoção de competências de literacia de informação em contexto de ensino superior e de investigação.
+
 ### Filomena Maria da Silva Borba
 Licenciada em História, pós-graduada em Relações Interculturais e em Estudos do Património. Frequenta o Mestrado em Gestão e Empreendedorismo, fase de dissertação. Exerce funções como Técnica Superior na Biblioteca do ISCAL, na área da Promoção da Leitura e Gestão de Coleções. Responsável pela dinamização do Fundo Antigo do ISCAL e pelo depósito da produção científica do ISCAL no Repositório Científico do IPL. Desde 2016 realiza várias formações na área das TIC, leitura digital e promoção da leitura. Trabalhou na Biblioteca e no Museu Nacional do Desporto e na organização do arquivo da empresa Jerónimo Martins.
+
+### Gonçalo Praça
+É licenciado em Antropologia Social e Cultural (FCSH-Universidade Nova de Lisboa), e mestre em Antropologia Social (ISCTE). Enquanto antropólogo, fez trabalho etnográfico sobre instituições científicas e sobre controvérsias entre público e autoridades científicas e políticas. É gestor de projectos na Ciência Viva, onde tem trabalhado especialmente em projectos europeus de ciência sociedade, envolvimento do público na ciência, e investigação e inovação responsáveis (por exemplo, Sea for Society, NERRI, RRI Tools, FIT4RRI, SISCODE). 
 
 ### Graça Gabriel
 Iniciou a sua carreira profissional como professora de línguas, mas desde 2001 tem vindo a trabalhar em bibliotecas universitárias portuguesas e inglesas. 
