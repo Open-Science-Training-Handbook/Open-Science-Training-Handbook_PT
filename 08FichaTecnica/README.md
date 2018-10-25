@@ -24,7 +24,7 @@ Em 2010 e 2011 exerceu funções de Arquivista. De 2012 a 2017, trabalhou na Imp
 É Professor Auxiliar no ISPA e Professor convidado na Universidade Nova de Lisboa. Diretor da pós-graduação em Literacia em Saúde (ISPA-Instituto Universitário). Diretor do Centro de Documentação e Diretor Executivo do Centro de Edições do ISPA.. investigador na APPsyCI - Applied Psychology Research Center Capabilities &  Inclusión.
 
 ### Cecília Reis
-Licenciada em Ciências da Informação e da Documentação na Universidade Aberta, é Assistente Técnica nas Bibliotecas da Universidade de Aveiro, desde novembro de 1995.
+Licenciada em Ciências da Informação e da Documentação na Universidade Aberta, é Técnica Superior nas Bibliotecas da Universidade de Aveiro, desde novembro de 1995.
 Na Área de Recursos Eletrónicos e Apoio ao Utilizador, desempenha funções ligadas à
 à criação e respetiva divulgação de informação relacionada com recursos informacionais, científicos e técnicos, coleções, serviços e eventos das bibliotecas da UA e restantes áreas SBIDM; à seleção, análise e criação de conteúdos informacionais estruturados e adaptados às áreas em curso na UA e aos diferentes tipos de utilizadores; à formação de utilizadores e ao serviço de referência e apoio a pesquisas.
 
