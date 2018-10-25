@@ -76,18 +76,13 @@ Associada da Associação Portuguesa de Bibliotecários, Arquivistas e Documenta
 * [0000-0002-7862-2681](https://orcid.org/0000-0002-7862-2681)
 
 
-Eloy Rodrigues, licenciou-se em História, variante em Arqueologia, pela Faculdade de Letras da Universidade do Porto, e concluiu o Curso de Especialização em Ciências Documentais, opção de Biblioteca e Documentação, na Faculdade de Letras da Universidade de Lisboa.
-É Diretor dos Serviços de Documentação da Universidade do Minho desde 2002. 	
-Em 2003, liderou a criação do RepositoriUM - o repositório institucional da Universidade de Minho. Desde Julho de 2008 lidera a equipa da Universidade do Minho que desenvolve o projecto Repositório Científico de Acesso Aberto de Portugal (www.rcaap.pt).
+Eloy Rodrigues é Diretor dos Serviços de Documentação da Universidade do Minho desde 2002. Em 2003, liderou a criação do RepositoriUM - o repositório institucional da Universidade de Minho. Desde Julho de 2008 lidera a equipa da Universidade do Minho que desenvolve o projecto Repositório Científico de Acesso Aberto de Portugal (www.rcaap.pt).
 
-Ao nível europeu,  é presentemente membro do EUA Expert Group on Science 2.0/Open Science, em representação do Conselho de Reitores das Universidades Portuguesas (CRUP), e tem coordenado a participação da Universidade do Minho em mais de uma dezena de projetos (entre as quais se destacam os diversos projetos OpenAIRE e os projetos FOSTER e FOSTERPlus de que é coordenador) financiados pela UE relacionados com os repositórios, o acesso aberto e a ciência aberta.  
+É membro do EUA Expert Group on Science 2.0/Open Science, em representação do Conselho de Reitores das Universidades Portuguesas (CRUP), e tem coordenado a participação da Universidade do Minho em mais de uma dezena de projetos (entre as quais se destacam os diversos projetos OpenAIRE e os projetos FOSTER e FOSTERPlus de que é coordenador) europeus relacionados com os repositórios, o acesso aberto e a ciência aberta.  
 
-Foi eleito em abril de 2015 como Presidente do Conselho Executivo da Confederation of Open Access Repositories (COAR), para o mandato de 2015 a 2018.
+Foi re-eleito em abril de 2015 como Presidente do Conselho Executivo da Confederation of Open Access Repositories (COAR), para o mandato de 2015 a 2018.
 
-É membro do Grupo de Trabalho – Política Nacional de Ciência Aberta, criado pelo Ministério da Ciência, Tecnologia e Ensino Superior de Portugal.
-Na última década realizou, a convite de várias organizações,  mais de meia centena de conferências, palestras, seminários e outras acções de divulgação ou formação sobre o acesso aberto ao conhecimento e os repositórios institucionais, na Europa, em África, na América e na Ásia.
-
-É autor de dezenas de publicações (artigos, livros e capítulos de livros, etc.) . Lista completa em: http://goo.gl/clZjTd
+É membro do Grupo de Trabalho – Política Nacional de Ciência Aberta, criado pelo Ministério da Ciência, Tecnologia e Ensino Superior de Portugal. Na última década realizou mais de meia centena de conferências, palestras, seminários e outras acções de divulgação ou formação sobre o acesso aberto ao conhecimento e os repositórios institucionais, na Europa, em África, na América e na Ásia. É autor de dezenas de publicações (artigos, livros e capítulos de livros, etc.) . Lista completa em: http://goo.gl/clZjTd
 
 
 
