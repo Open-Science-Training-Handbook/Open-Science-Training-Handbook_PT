@@ -69,7 +69,7 @@ Os princípios de código aberto descritos anteriormente estendem-se ao hardware
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competências
 
-* Criar um repositório no GitHub e permitir a integração com o Zenodo. Use o software Mint como ferramenta analítica para a primeira versão do software.
+* Criar um repositório no GitHub e permitir a integração com o Zenodo. Registar a primeira versão do software.
 
 * Escolher uma licença de software usando, por exemplo, [choosealicense](https://choosealicense.com) ou [Open Source Initiative](https://opensource.org/licenses).
 
