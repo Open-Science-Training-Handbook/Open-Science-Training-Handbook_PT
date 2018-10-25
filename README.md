@@ -27,7 +27,7 @@ Por favor considere fazer a referência bibliográfica quando usar o conteúdo d
 
 ## Os autores e colaboradores deste manual colaborativo
 
-Saiba mais sobre os autores e facilitadores do livro, suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, no [último capítulo do Manual](./08AboutAuthors&Facilitators) .  
+Saiba mais sobre os autores e facilitadores do livro, suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, no [último capítulo do Manual](./08AbouttheAuthors&Facilitators) .  
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
