@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
-##References
+##Referências
 
-> *Note:* This bibliography is collaboratively maintained by the *Open Science Training Handbook* community at https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
+> *Nota:* Esta bibliografia é mantida colaborativamente pela comunidade do *Open Science Training Handbook* em  https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
 
 Balasegaram, Manica, Peter Kolb, John McKew, Jaykumar Menon, Piero Olliaro,
 Tomasz Sablinski, Zakir Thomas, Matthew H. Todd, Els Torreele, and John
