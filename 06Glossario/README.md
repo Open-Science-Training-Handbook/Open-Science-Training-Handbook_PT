@@ -129,6 +129,10 @@
 
 * Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
 
+**Partilha**
+
+* Uso conjunto de um recurso ou espaço. Trata-se de um aspeto fundamental da investigação colaborativa. Como a maioria da investigação tem uma autoria digital e é publicada digitalmente, o conteúdo digital resultante não é concorrencial e pode ser partilhado sem qualquer prejuízo para o criador original. 
+
 **Preprint**
 
 * Versão de um manuscrito que ainda não foi submetido a revisão formal por pares, não foi distribuído nem recebeu um parecer antecipado dos pares. 
@@ -140,6 +144,10 @@
 **Propriedade Intelectual**
 
 * Um termo legal que se refere a criações próprias. Exemplos de propriedade intelectual incluem música, literatura, pintura, escultura, vídeo e outros trabalhos artísticos; descobertas e invenções; e frases, símbolos e designs.
+
+**Relato de Viéses**
+
+* O relato de viéses ocorre quando certas características de um estudo não são sistematicamente relatadas de forma transparente, gerando desperdício e redundância através de relatos seletivos ou da não publicação.
 
 **Revisão por Pares**
 
@@ -163,18 +171,9 @@
 * Disponibilidade de código-fonte para um software, juntamente com uma licença de código aberto que permita a reutilização, adaptação e distribuição adicional. 
 
 
-**Relato de Viéses**
-
-* O relato de viéses ocorre quando certas características de um estudo não são sistematicamente relatadas de forma transparente, gerando desperdício e redundância através de relatos seletivos ou da não publicação.
-
 **Repositório**
 
 * O repositório é definido como a infraestrutura e o serviço correspondente que permite o armazenamento persistente, eficiente e sustentável de objetos digitais (como documentos, dados e códigos). 
-
-
-**Partilha**
-
-* Uso conjunto de um recurso ou espaço. Trata-se de um aspeto fundamental da investigação colaborativa. Como a maioria da investigação tem uma autoria digital e é publicada digitalmente, o conteúdo digital resultante não é concorrencial e pode ser partilhado sem qualquer prejuízo para o criador original. 
 
 
 **Formador**
