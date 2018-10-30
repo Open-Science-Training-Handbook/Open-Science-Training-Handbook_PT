@@ -27,23 +27,25 @@
 
 * Uma forma regular de escrever em investigação, em que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
 
+**Ciência Aberta**
+
+* Ciência Aberta é o movimento que torna acessível a investigação científica, os dados e a disseminação a todos os níveis de uma sociedade inquiridora.
+
 **Cognitivismo**
 
 * Cognitivismo é baseado na interação entre o mundo exterior e o que o cérebro reflexivo faz a partir da informação percebida em conjugação com o conhecimento que já armazenou. O cognitivismo concentra-se, portanto, na resolução de problemas.
 
-**Connectivismo**
+**Conectivismo**
 
 * Connectivismo é a integração de princípios explorados pelas teorias do caos, de rede, da complexidade e da auto-organização. O conectivismo é impulsionado pelo entendimento de que as decisões são baseadas em fundamentos que mudam rapidamente, à medida que nova informação é continuamente adquirida. 
-
-**Construtivismo**
-
-* Construtivismo, em sentido estrito, significa que o mundo não é como é. Em vez disso, o mundo é principalmente o produto das nossas experiências individuais e das nossas mentes. Em contexto de ensino e aprendizagem significa que os estudantes criam eles própios o caminho da aprendizagem. O foco está, portanto, na criatividade do estudante, sendo que a avaliação do seu progresso não se baseia na diferenciação entre certo e errado.
 
 **Copyright**
 
 * O elemento da propriedade intelectual que confere aos criadores o direito de permitir (ou não permitir) a reprodução das suas criações. É distinto dos direitos das marcas registadas ou dos direitos morais.
 
+**Construtivismo**
 
+* Construtivismo, em sentido estrito, significa que o mundo não é como é. Em vez disso, o mundo é principalmente o produto das nossas experiências individuais e das nossas mentes. Em contexto de ensino e aprendizagem significa que os estudantes criam eles própios o caminho da aprendizagem. O foco está, portanto, na criatividade do estudante, sendo que a avaliação do seu progresso não se baseia na diferenciação entre certo e errado.
 
 **Currículo**
 
@@ -73,14 +75,24 @@
 
 * Uma sequência de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
 
+**Fator de Impactor**
 
+* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua transferência para o impacto de artigos individuais publicados numa revista. 
+
+**Ficheiro README**
+
+* Ficheiro onde são documentados os dados de investigação. A documentação deve ser suficiente para permitir que outros investigadores entendam, repliquem ou reproduzam os dados ou reutilizá-los de qualquer outra forma. 
+
+**Formatos de Ficheiros Preferidos/Persistentes**
+
+* Formatos não proprietários que seguem padrões internacionais documentados, são comummente usados pela comunidade de investigadores, usam codificação padronizada de caracteres (e.g., ASCII, UTF-8) e onde a compressão, quando usada, não implica a perda de dados. 
 **Gamificação**
 
 * Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um compromisso extra.
 
-**Fator de Impactor**
+**Identificador Persistente (PID - Persistent Identifier)**
 
-* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua transferência para o impacto de artigos individuais publicados numa revista. 
+* Um identificador persistente (também PID) é uma denominação (referência) única e estável de um recurso digital (e.g., dados de investigação) por meio da atribuição de um código que pode ser referenciado de forma persistente e explícita na Internet. 
 
 **Licença**
 
@@ -90,67 +102,13 @@
 
 * Um conjunto de licenças padronizadas que permite aos detendores de direitos de autor a concessão, por defeito,  de alguns direitos aos utilizadores. As licenças CC são amplamente utilizadas, simples de usar, legíveis por máquina e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são compatíveis com o Acesso Aberto, de acordo cno sentido de Budapeste (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não (detentoras da cláusula NC). 
 
-**Metadados**
-
-* Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
-
-**RGPD**
-
-* RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
-
-
-**Propriedade Intelectual**
-
-* Um termo legal que se refere a criações próprias. Exemplos de propriedade intelectual incluem música, literatura, pintura, escultura, vídeo e outros trabalhos artísticos; descobertas e invenções; e frases, símbolos e designs.
-
-**Revista**
-
-* Série de artigos de investigação publicados. Historicamente divide-se em volumes e números.
-
-
-**Acesso Aberto**
-
-* Acesso Aberto refere-se ao acesso gratuito e em linha a conteúdos científicos revistos pelos pares com reutilização gratuita relativamente a restrições de direitos de autor.
-
-**Dados Abertos**
-
-* Dados Abertos são dados gratuitos e acessíveis em linha que podem ser usados, reutilizados e distribuídos, assegurando a identificação da fonte de dados. 
-
-**Avaliação Aberta**
-
-* O desenvolvimento de um sistema de avaliação justo ou de um protocolo para propostas de investigação baseado na transparência do processo e dos envolvidos. 
-
-**Cadernos de Laboratório Abertos**
-
-* Uma forma regular de escrever em investigação, em que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
-
 **Materiais Abertos**
 
 * A partilha de materiais de investigação, por exemplo, amostras biológicas e geológicas, é outra prática da Ciência Aberta. 
 
-**Revisão Aberta pelos Pares**
+**Metadados**
 
-* Um termo abrangente para várias formas de sobreposição em que os modelos de revisão por pares podem ser adaptados de acordo com os objetivos da Ciência Aberta, incluindo a identidade aberta de revisores e autores e a publicação de relatórios de revisão, possibilitando uma maior participação no processo de revisão pelos pares. 
-
-**Ciência Aberta**
-
-* Ciência Aberta é o movimento que torna acessível a investigação científica, os dados e a disseminação a todos os níveis de uma sociedade inquiridora.
-
-**Fontes Abertas**
-
-* Disponibilidade de código-fonte para um software, juntamente com uma licença de código aberto que permita a reutilização, adaptação e distribuição adicional. 
-
-**Revisão pelos Pares**
-
-* Processo em que um artigo de investigação é examinado por especialistas da comunidade antes da sua publicação. 
-
-**Identificador Persistente (IP)**
-
-* Um identificador persistente (também IP) é uma denominação (referência) única e estável de um recurso digital (e.g., dados de investigação) por meio da atribuição de um código que pode ser referenciado de forma persistente e explícita na Internet. 
-
-**Formatos de Ficheiros Preferidos/Persistentes**
-
-* Formatos não proprietários que seguem padrões internacionais documentados, são comummente usados pela comunidade de investigadores, usam codificação padronizada de caracteres (e.g., ASCII, UTF-8) e onde a compressão, quando usada, não implica a perda de dados. 
+* Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
 
 **Preprint**
 
@@ -160,9 +118,35 @@
 
 * Os investigadores têm a opção ou são convidados a enviar informação relevante sobre o seu estudo (e.g., fundamentos da investigação, hipóteses, desenho e estratégia analítica) para um registo público antes de iniciar o estudo. O pré-registo pode ajudar a combater o viés do estudo. 
 
-**Ficheiro README**
+**Propriedade Intelectual**
 
-* Ficheiro onde são documentados os dados de investigação. A documentação deve ser suficiente para permitir que outros investigadores entendam, repliquem ou reproduzam os dados ou reutilizá-los de qualquer outra forma. 
+* Um termo legal que se refere a criações próprias. Exemplos de propriedade intelectual incluem música, literatura, pintura, escultura, vídeo e outros trabalhos artísticos; descobertas e invenções; e frases, símbolos e designs.
+
+
+**RGPD**
+
+* RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
+
+**Revisão por Pares**
+
+* Processo em que um artigo de investigação é examinado por especialistas da comunidade antes da sua publicação. 
+
+**Revisão por pares Aberta**
+
+* Um termo abrangente para várias formas de sobreposição em que os modelos de revisão por pares podem ser adaptados de acordo com os objetivos da Ciência Aberta, incluindo a identidade aberta de revisores e autores e a publicação de relatórios de revisão, possibilitando uma maior participação no processo de revisão pelos pares. 
+
+**Revista**
+
+* Série de artigos de investigação publicados. Historicamente divide-se em volumes e números.
+
+
+
+
+
+**Software de Código Aberto**
+
+* Disponibilidade de código-fonte para um software, juntamente com uma licença de código aberto que permita a reutilização, adaptação e distribuição adicional. 
+
 
 **Relato de Viéses**
 
