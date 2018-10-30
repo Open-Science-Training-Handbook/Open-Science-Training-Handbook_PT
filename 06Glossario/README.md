@@ -1,17 +1,31 @@
 ## <img src="/Images/Icons/idea.png" width="200" height="200" />
-## Glossary
+## Glossário
+
+**Acesso Aberto**
+
+* Acesso Aberto refere-se ao acesso gratuito e em linha a conteúdos científicos revistos peor pares com reutilização livre relativamente a restrições de direitos de autor.
+
+**Avaliação Aberta**
+
+* O desenvolvimento de um sistema justo de avaliação ou protocolo para propostas de investigação baseado na transparência do processo e dos envolvidos. 
+
 
 **Altmetrics ou Métricas Alternativas**
 
-* Altmetrics (ou métricas alternativas) são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (e.g., Facebook, Twitter, blogues, wikis, etc.), o download de documentos, os links de publicação e de investigação em vias de publicação, bem como outra utilização da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
+* Altmetrics (ou métricas alternativas) são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (e.g., Facebook, Twitter, blogues, wikis, etc.), o download de documentos, os links para publicação e investigação em vias de publicação, bem como outra utilização da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
 
 **Audiência**
 
-* O grupo-alvo de uma comunicação (e.g., aqueles que participam numa formação sobre Ciência Aberta). O público-alvo é um grupo de indivíduos que receberá a formação.
+* O grupo-alvo de uma comunicação (por exemplo, aqueles que participam numa formação sobre Ciência Aberta). A audiência alvo é um grupo de indivíduos a quem se destina a formação.
+
 
 **Behaviorismo (Teoria da Aprendizagem)**
 
-* Behaviorismo significa que a aprendizagem é realizada através de exercícios e resulta melhor mediante o uso de estímulos aos quais os estudantes respondem. Genericamente significa que se pede ao estudante que faça um exercício para o qual exista uma resposta clara ou um caminho claro a seguir. A avaliação é clara e pode ser facilmente realizada com a ajuda de métricas simples.
+* Behaviorismo significa que a aprendizagem é realizada através de exercícios de repetição (drill-and-practice) e resulta melhor mediante o uso de estímulos aos quais os estudantes respondem. Genericamente significa que se pede ao estudante que faça um exercício para o qual exista uma resposta clara ou um caminho claro a seguir. A avaliação é clara e pode ser facilmente realizada com a ajuda de métricas simples.
+
+**Cadernos de Laboratório Abertos**
+
+* Uma forma regular de escrever em investigação, em que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
 
 **Cognitivismo**
 
@@ -19,19 +33,17 @@
 
 **Connectivismo**
 
-* Connectivismo é a integração de princípios explorados pela teoria do caos, da rede, da complexidade e da auto-organização. O conectivismo é impulsionado pelo entendimento de que as decisões são baseadas em fundamentos que mudam rapidamente, à medida que nova informação é continuamente adquirida. 
+* Connectivismo é a integração de princípios explorados pelas teorias do caos, de rede, da complexidade e da auto-organização. O conectivismo é impulsionado pelo entendimento de que as decisões são baseadas em fundamentos que mudam rapidamente, à medida que nova informação é continuamente adquirida. 
 
 **Construtivismo**
 
 * Construtivismo, em sentido estrito, significa que o mundo não é como é. Em vez disso, o mundo é principalmente o produto das nossas experiências individuais e das nossas mentes. Em contexto de ensino e aprendizagem significa que os estudantes criam eles própios o caminho da aprendizagem. O foco está, portanto, na criatividade do estudante, sendo que a avaliação do seu progresso não se baseia na diferenciação entre certo e errado.
 
-**Direiros de Autor**
+**Copyright**
 
-* A qualidade da propriedade intelectual que confere aos criadores o direito de permitir (ou não permitir) a reprodução das suas criações. É distinto dos direitos das marcas registadas ou dos direitos morais.
+* O elemento da propriedade intelectual que confere aos criadores o direito de permitir (ou não permitir) a reprodução das suas criações. É distinto dos direitos das marcas registadas ou dos direitos morais.
 
-**Licença Creative Commons**
 
-* Um conjunto de licenças padronizadas que permite aos detendores de direitos autorais a concessão de alguns direitos aos utilizadores por omissão. As licenças CC são amplamente utilizadas, simples de usar, legíveis através de vários dispositivos e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são compatíveis com o Acesso Aberto, de acordo com as prerrogativas de Budapeste (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não (detentoras da cláusula NC). 
 
 **Currículo**
 
@@ -41,33 +53,51 @@
 
 * Dados, no contexto do presente documento, são todos os objetos disponíveis digitalmente (simples ou complexos) em resultado, ou não, do processo de investigação.
 
-**Data Mining**
+**Dados Abertos**
 
-* Um processo analítico projetado para explorar dados na pesquisa de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
-
-**Identificador de Objeto Digital (DOI)**
-
-* Uma sequência de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (IP). 
-
-**Documentação**
-
-* Documentação é uma informação detalhada, bem como um histórico e uma abordagem metodológica sobre dados ou códigos (e.g., descrição de projeto, variáveis e instrumentos de medida).  
+* Dados Abertos são dados gratuitos e acessíveis em linha que podem ser usados, reutilizados e distribuídos, assegurando a identificação da fonte de dados. 
 
 **Dados FAIR**
 
-* Dados FAIR (de acordo com [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) e publicados em [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) são Localizáveis, Acessíveis, Interoperáveis e Reutilizáveis, de modo a facilitar a descoberta do conhecimento, auxiliando homens e máquinas nas suas pesquisas, também no acesso e na integração, de análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
+* Dados FAIR (de acordo com [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) e publicados em [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a facilitar a descoberta do conhecimento, auxiliando homens e máquinas na descoberta,acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
+
+**Data Mining ou mineração de dados**
+
+* Um processo analítico projetado para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
+
+**Documentação**
+
+* Documentação é informação detalhada, bem como contexto e abordagem metodológica sobre dados ou código (e.g., descrição de projeto, variáveis e instrumentos de medida).  
+
+**DOI (Digital Object Identifier /Identificador de Objeto Digital)**
+
+* Uma sequência de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
+
 
 **Gamificação**
 
 * Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um compromisso extra.
 
+**Fator de Impactor**
+
+* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua transferência para o impacto de artigos individuais publicados numa revista. 
+
+**Licença**
+
+* Uma licença permite que terceiros executem determinadas ações com um trabalho ou dados. A licença informa sobre os direitos de uso de um recurso (e.g., texto, dados, códigos-fonte).
+
+**Licença Creative Commons**
+
+* Um conjunto de licenças padronizadas que permite aos detendores de direitos de autor a concessão, por defeito,  de alguns direitos aos utilizadores. As licenças CC são amplamente utilizadas, simples de usar, legíveis por máquina e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são compatíveis com o Acesso Aberto, de acordo cno sentido de Budapeste (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não (detentoras da cláusula NC). 
+
+**Metadados**
+
+* Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
+
 **RGPD**
 
 * RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
 
-**Fator de Impactor**
-
-* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua transferência para o impacto de artigos individuais publicados numa revista. 
 
 **Propriedade Intelectual**
 
@@ -77,13 +107,6 @@
 
 * Série de artigos de investigação publicados. Historicamente divide-se em volumes e números.
 
-**Licença**
-
-* Uma licença permite que terceiros executem determinadas ações com um trabalho ou dados. A licença informa sobre os direitos de uso de um recurso (e.g., texto, dados, códigos-fonte).
-
-**Metadados**
-
-* Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
 
 **Acesso Aberto**
 
