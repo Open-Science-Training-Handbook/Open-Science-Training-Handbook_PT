@@ -9,6 +9,10 @@
 
 * Altmetrics (ou métricas alternativas) são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (e.g., Facebook, Twitter, blogues, wikis, etc.), o download de documentos, os links para publicação e investigação em vias de publicação, bem como outra utilização da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
 
+**Assinatura**
+
+* Uma forma de modelo de negócio em que uma taxa é paga para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
+
 **Audiência**
 
 * O grupo-alvo de uma comunicação (por exemplo, aqueles que participam numa formação sobre Ciência Aberta). A audiência alvo é um grupo de indivíduos a quem se destina a formação.
@@ -32,6 +36,10 @@
 **Cognitivismo**
 
 * Cognitivismo é baseado na interação entre o mundo exterior e o que o cérebro reflexivo faz a partir da informação percebida em conjugação com o conhecimento que já armazenou. O cognitivismo concentra-se, portanto, na resolução de problemas.
+
+**Comunicação Académica**
+
+* Criação, transformação, disseminação e preservação do conhecimento relacionado com o ensino, investigação e outros contributos académicos; processo em que docentes, estudantes e investigadores partilham e publicam os resultados da sua investigação de modo a que estejam disponíveis para a comunidade académica em geral. 
 
 **Conectivismo**
 
@@ -81,9 +89,14 @@
 
 * Ficheiro onde são documentados os dados de investigação. A documentação deve ser suficiente para permitir que outros investigadores entendam, repliquem ou reproduzam os dados ou reutilizá-los de qualquer outra forma. 
 
+**Financiador de Investigação**
+
+* Instituto, organização ou órgão governamental que providencia apoio financeiro destinado à investigação. 
+
 **Formatos de Ficheiros Preferidos/Persistentes**
 
 * Formatos não proprietários que seguem padrões internacionais documentados, são comummente usados pela comunidade de investigadores, usam codificação padronizada de caracteres (e.g., ASCII, UTF-8) e onde a compressão, quando usada, não implica a perda de dados. 
+
 **Gamificação**
 
 * Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um compromisso extra.
@@ -91,6 +104,14 @@
 **Identificador Persistente (PID - Persistent Identifier)**
 
 * Um identificador persistente (também PID) é uma denominação (referência) única e estável de um recurso digital (e.g., dados de investigação) por meio da atribuição de um código que pode ser referenciado de forma persistente e explícita na Internet. 
+
+**Impacto da Investigação**
+
+* Envolve aspetos académicos, económicos e sociais ou ainda uma combinação dos três. O impacto é o contributo demonstrável de que a investigação altera a compreensão e o avanço científico, o método, a teoria e aplicação através e dentro das disciplinas, e o papel mais amplo que desempenha fora do sistema de investigação. 
+
+**Investigação Reprodutível**
+
+* A reprodutibilidade é um espectro e os investigadores devem escolher a definição mais usada pelo seu público. De um modo geral, a investigação reprodutível possibilita obter resultados semelhantes de um estudo ou experiência e resultados independentes obtidos com os mesmos métodos, mas sob condições diferentes (i.e., aplicáveis aos resultados). A definição pode ser decomposta ao nível da reprodutibilidade, incluindo a reprodução ao nível computacional (também designada «reproduzível»), em que o código e os dados podem ser analisados de maneira semelhante à investigação original de modo a obter os mesmos resultados; e ao nível do empiricamente reproduzível (também designado «replicável») , em que um investigador independente pode repetir um estudo usando os mesmos métodos, mas criando novos dados. 
 
 **Licença**
 
@@ -137,11 +158,6 @@
 * RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
 
 
-
-
-
-
-
 **Software de Código Aberto**
 
 * Disponibilidade de código-fonte para um software, juntamente com uma licença de código aberto que permita a reutilização, adaptação e distribuição adicional. 
@@ -155,29 +171,11 @@
 
 * O repositório é definido como a infraestrutura e o serviço correspondente que permite o armazenamento persistente, eficiente e sustentável de objetos digitais (como documentos, dados e códigos). 
 
-**Investigação Reprodutível**
-
-* A reprodutibilidade é um espectro e os investigadores devem escolher a definição mais usada pelo seu público. De um modo geral, a investigação reprodutível possibilita obter resultados semelhantes de um estudo ou experiência e resultados independentes obtidos com os mesmos métodos, mas sob condições diferentes (i.e., aplicáveis aos resultados). A definição pode ser decomposta ao nível da reprodutibilidade, incluindo a reprodução ao nível computacional (também designada «reproduzível»), em que o código e os dados podem ser analisados de maneira semelhante à investigação original de modo a obter os mesmos resultados; e ao nível do empiricamente reproduzível (também designado «replicável») , em que um investigador independente pode repetir um estudo usando os mesmos métodos, mas criando novos dados. 
-
-**Impacto da Investigação**
-
-* Envolve aspetos académicos, económicos e sociais ou ainda uma combinação dos três. O impacto é o contributo demonstrável de que a investigação altera a compreensão e o avanço científico, o método, a teoria e aplicação através e dentro das disciplinas, e o papel mais amplo que desempenha fora do sistema de investigação. 
-
-**Financiador de Investigação**
-
-* Instituto, organização ou órgão governamental que providencia apoio financeiro destinado à investigação. 
-
-**Comunicação Académica**
-
-* Criação, transformação, disseminação e preservação do conhecimento relacionado com o ensino, investigação e outros contributos académicos; processo em que docentes, estudantes e investigadores partilham e publicam os resultados da sua investigação de modo a que estejam disponíveis para a comunidade académica em geral. 
 
 **Partilha**
 
 * Uso conjunto de um recurso ou espaço. Trata-se de um aspeto fundamental da investigação colaborativa. Como a maioria da investigação tem uma autoria digital e é publicada digitalmente, o conteúdo digital resultante não é concorrencial e pode ser partilhado sem qualquer prejuízo para o criador original. 
 
-**Assinatura**
-
-* Uma forma de modelo de negócio em que uma taxa é paga para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
 
 **Formador**
 
