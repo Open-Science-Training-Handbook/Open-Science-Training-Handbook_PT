@@ -120,11 +120,6 @@
 
 * Um termo legal que se refere a criações próprias. Exemplos de propriedade intelectual incluem música, literatura, pintura, escultura, vídeo e outros trabalhos artísticos; descobertas e invenções; e frases, símbolos e designs.
 
-
-**RGPD**
-
-* RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
-
 **Revisão por Pares**
 
 * Processo em que um artigo de investigação é examinado por especialistas da comunidade antes da sua publicação. 
@@ -136,6 +131,12 @@
 **Revista**
 
 * Série de artigos de investigação publicados. Historicamente divide-se em volumes e números.
+
+**RGPD**
+
+* RGPD (Regulamento Geral de Proteção de Dados) visa criar um quadro legislativo harmonizado em matéria de proteção de dados em toda a União Europeia. Destina-se a restituir o controlo de dados pessoais aos cidadãos, impondo regras restritas aos que albergam e «processam» esses dados em qualquer lugar do mundo. O regulamento também introduz regras  relativas à livre circulação de dados pessoais dentro e fora da União Europeia.
+
+
 
 
 
