@@ -31,7 +31,7 @@
 
 **Ciência Aberta**
 
-* Ciência Aberta é o movimento que torna acessível a investigação científica, os dados e a disseminação a todos os níveis de uma sociedade inquiridora.
+* Ciência Aberta é o movimento para fazer com que a investigação científica, os dados e a disseminação sejam acessíveis a todos os níveis de uma sociedade inquiridora.
 
 **Cognitivismo**
 
@@ -39,7 +39,7 @@
 
 **Comunicação Académica**
 
-* Criação, transformação, disseminação e preservação do conhecimento relacionado com o ensino, investigação e outros contributos académicos; processo em que docentes, estudantes e investigadores partilham e publicam os resultados da sua investigação de modo a que estejam disponíveis para a comunidade académica em geral. 
+* A criação, transformação, disseminação e preservação do conhecimento relacionado com o ensino, investigação e outras atividades académicas; o processo em através do qual os académicos e investigadores partilham e publicam os resultados da sua investigação de modo a que estejam disponíveis para a comunidade académica em geral. 
 
 **Conectivismo**
 
