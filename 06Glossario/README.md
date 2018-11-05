@@ -69,19 +69,19 @@
 
 **Dados FAIR**
 
-* Dados FAIR (de acordo com [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) e publicados em [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a facilitar a descoberta do conhecimento, auxiliando homens e máquinas na descoberta,acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
+* Dados FAIR (de acordo com [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) e publicados em [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a facilitar a descoberta de conhecimento, auxiliando homens e máquinas na descoberta, acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
 
 **Data Mining ou mineração de dados**
 
-* Um processo analítico projetado para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
+* Um processo analítico concebido para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
 
 **Documentação**
 
-* Documentação é informação detalhada, bem como contexto e abordagem metodológica sobre dados ou código (e.g., descrição de projeto, variáveis e instrumentos de medida).  
+* Documentação é informação detalhada, bem como contexto e abordagem metodológica sobre os dados ou código (por exemplo, descrição de projeto, variáveis e instrumentos de medida).  
 
 **DOI (Digital Object Identifier /Identificador de Objeto Digital)**
 
-* Uma sequência de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
+* Uma cadeia de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
 
 **Fator de Impactor**
 
