@@ -1,4 +1,4 @@
-##<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
+<img src="/Images/Icons/open_source_software.png" width="150" height="150" /> <img src="/Images/Icons/publish.png" width="150" height="150" />
 ## 3. Software Aberto Usado na Investigação e Software de Código Aberto
 
 ### O que é?
@@ -57,7 +57,7 @@ Apesar de a partilha de software em qualquer formato ser melhor que não o parti
 
 As barreiras mais comuns à reutilização e reprodutibilidade são a inexistência ou inacessibilidade de dependências, ou documentação insuficiente sobre o ambiente computacional. Uma hipótese para lidar com estas barreiras é partilhar o seu código juntamente com o ambiente computacional usando a tecnologia de contentores. Os contentores empacotam o código com as respetivas dependências e ambiente computacional, de forma a que outros possam mais facilmente executar a sua análise. O [Rocker](https://arxiv.org/abs/1710.03675), [Binder](https://mybinder.readthedocs.io/en/latest/), e o [Code Ocean](https://codeocean.com/) são exemplo de implementação de contentores na investigação. 
 
-Quando usar um software – quer o tenha escrito ou outra pessoa o tenha feito e o tenha disponibilizado – a respetiva citação apropriada é importante para efeitos de reprodutibilidade \( discutido na [Secção 4](#heading=h.jy7n9xm9zn9o); em resumo, a versão usada poderá mudar os seus resultados ou a sua interpretação\) e como reconhecimento aos programadores do software \(Niemeyer 2016, Smith 2016\). A decisão de quando citar o software é sua como investigador, mas recomendamos uma citação sempre que o software tenha contribuído para os seus resultados, interpretação ou conclusões. A melhor forma de tornar o  _seu_ código facilmente citável é usar a integração GitHub-Zenodo descrita anteriormente e providenciar o DOI resultante num sítio óbvio tal como o README do software, incluindo talvez uma sugestão de  formato de referenciação. Sempre que referenciar um software deverá incluir no mínimo o\(s\) nome\(s\) do\(s\) autor\(es\),o título do software, o número da versão e o identificador/localizador único \(Smith 2016\). Se usar software de outra pessoa e este proporciona um DOI, poderá facilmente usá-lo para identificar e apontar para o software; se os autores não arquivaram o software, então deverá incluir o URL do local onde o software pode ser encontrado e o número da versão ou, por exemplo, um registo de mudanças no ficheiro \("commit hash"\).
+Quando usar um software – quer o tenha escrito ou outra pessoa o tenha feito e o tenha disponibilizado – a respetiva citação apropriada é importante para efeitos de reprodutibilidade \( discutido na [Secção 4](#heading=h.jy7n9xm9zn9o); em resumo, a versão usada poderá mudar os seus resultados ou a sua interpretação\) e como reconhecimento aos programadores do software \(Niemeyer 2016, Smith 2016\). A decisão de quando citar o software é sua como investigador, mas recomendamos uma citação sempre que o software tenha contribuído para os seus resultados, interpretação ou conclusões. A melhor forma de tornar o  _seu_ código facilmente citável é usar a integração GitHub-Zenodo descrita anteriormente e providenciar o DOI resultante num sítio óbvio tal como o README do software, incluindo talvez uma sugestão de  formato de referenciação. Sempre que referenciar um software deverá incluir no mínimo o\(s\) nome\(s\) do\(s\) autor\(es\),o título do software, o número da versão e o identificador/localizador único \(Smith 2016\). Se usar software de outra pessoa e este proporciona um DOI, poderá facilmente usá-lo para identificar e apontar para o software; se os autores não arquivaram o software, então deverá incluir o URL do local onde o software pode ser encontrado e o número da versão ou, por exemplo, um registo de mudanças no ficheiro \(_commit hash_\).
 
 Adicionalmente, há conceitos mais complicados que incluem testes automáticos e integração continua de software, empacotamento do software em formatos binários, e governação e gestão de projetos do código aberto com vários participantes \(ex.: códigos de conduta, guias para contribuição\). Alguns destes tópicos são descritos por Scopatz and Huff \(2015\). Wilson et al. \(2017\) também providenciam um guia prático de boas práticas de computação científica que inclui conselhos específicos para o desenvolvimento de software usado em investigação.
 
@@ -86,7 +86,7 @@ R: Os criadores de software usado em investigação por todo o mundo identificam
 
 Q: "E se alguém se apropria do código que eu partilhei e usa-o para fins nefastos, ou afirma que o escreveu?"
 
-A: A seleção de uma licença apropriada para o seu software ajudá-lo-á a proteger-se de qualquer uso desse software por outras pessoas; por exemplo, a licença comum [MIT License](https://choosealicense.com/licenses/mit/) inclui limitações de responsabilidade e estabelece que não se proporciona nenhuma garantia. Se alguém tentar reclamar a autoria do seu software que disponibilizou, pode assinalar as marcas de tempo (_timestamps_) no seu repositório ou versões arquivadas como prova do seu trabalho anterior.
+A: A seleção de uma licença apropriada para o seu software ajudá-lo-á a proteger-se de qualquer uso desse software por outras pessoas; por exemplo, a licença comum [Licença MIT](https://choosealicense.com/licenses/mit/) inclui limitações de responsabilidade e estabelece que não se proporciona nenhuma garantia. Se alguém tentar reclamar a autoria do seu software que disponibilizou, pode assinalar as marcas de tempo (_timestamps_) no seu repositório ou versões arquivadas como prova do seu trabalho anterior.
 
 
 Q: Se eu partilhar o meu código num repositório online serei inundado(a) de pedidos de apoio ao utilizador.”
@@ -109,7 +109,7 @@ Equívoco comum: colocar simplesmente o código online torna-o software de códi
 
 * [The Future of Research in Free/Open Source Software Development](http://www.ics.uci.edu/~wscacchi/Papers/New/FoSER-Scacchi-2010.pdf) \(Scacchi, 2010\).
 
-* [The Scientific Method in Practice: Reproducibility in the Computational Sciences](http://datascienceassn.org/sites/default/files/The Scientific Method in Practice - Reproducibility in the Computational Sciences.pdf) \(Stodden, 2010\).
+* [The Scientific Method in Practice: Reproducibility in the Computational Sciences](http://datascienceassn.org/sites/default/files/The%20Scientific%20Method%20in%20Practice%20-%20Reproducibility%20in%20the%20Computational%20Sciences.pdf) \(Stodden, 2010\).
 
 * [The case for open computer programs](https://www.nature.com/articles/nature10836) \(Ince et al., 2012\).
 
@@ -117,7 +117,7 @@ Equívoco comum: colocar simplesmente o código online torna-o software de códi
 
 * [Code Sharing Is Associated with Research Impact in Image Processing](https://infoscience.epfl.ch/record/206184/files/Vandewalle12.pdf) \(Vandewalle, 2012\).
 
-* [Current issues and research trends on open-source software communities](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current issues and research trends.pdf?sequence=1) \(Martinez-Torres and Diaz-Fernandez, 2013\).
+* [Current issues and research trends on open-source software communities](https://idus.us.es/xmlui/bitstream/handle/11441/32245/Current%20issues%20and%20research%20trends.pdf?sequence=1) \(Martinez-Torres and Diaz-Fernandez, 2013\).
 
 * [Ten simple rules for reproducible computational research](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285) \(Sandve et al., 2013\).
 
