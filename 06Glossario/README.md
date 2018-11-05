@@ -27,7 +27,7 @@
 
 **Cadernos de Laboratório Abertos**
 
-* Um modelo de escrever de escrever sobre a investigação de forma regular, de forma que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
+* Um modelo de escrever sobre a investigação de forma regular, de forma que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
 
 **Ciência Aberta**
 
@@ -45,21 +45,23 @@
 
 * Connectivismo é a integração de princípios explorados pelas teorias do caos, de rede, da complexidade e da auto-organização. O conectivismo é impulsionado pelo entendimento de que as decisões são baseadas em fundamentos que mudam rapidamente, à medida que nova informação é continuamente adquirida. 
 
+
+**Construtivismo**
+
+* Construtivismo, em sentido estrito, significa que o mundo não é como é. Em vez disso, o mundo é principalmente o produto das nossas experiências individuais e das nossas mentes. Em contexto de ensino e aprendizagem significa que os estudantes criam eles própios o caminho da aprendizagem. O foco está, portanto, na criatividade do estudante, e a avaliação do seu progresso não se baseia na diferenciação entre certo e errado.
+
 **Copyright**
 
 * O elemento da propriedade intelectual que confere aos criadores o direito de permitir (ou não permitir) a reprodução das suas criações. É distinto dos direitos das marcas registadas ou dos direitos morais.
 
-**Construtivismo**
-
-* Construtivismo, em sentido estrito, significa que o mundo não é como é. Em vez disso, o mundo é principalmente o produto das nossas experiências individuais e das nossas mentes. Em contexto de ensino e aprendizagem significa que os estudantes criam eles própios o caminho da aprendizagem. O foco está, portanto, na criatividade do estudante, sendo que a avaliação do seu progresso não se baseia na diferenciação entre certo e errado.
 
 **Currículo**
 
 * O currículo refere-se a lições e a outros conteúdos formativos ministrados numa escola ou num curso ou programa inserido numa estrutura definida. 
 
-**Dados**
+**Dados (de investigação)**
 
-* Dados, no contexto do presente documento, são todos os objetos disponíveis digitalmente (simples ou complexos) em resultado, ou não, do processo de investigação.
+* Dados, no contexto do presente documento, são todos os objetos disponíveis digitalmente (simples ou complexos) que emeregem ou são resultado do processo de investigação.
 
 **Dados Abertos**
 
