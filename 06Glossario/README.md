@@ -3,15 +3,15 @@
 
 **Acesso Aberto**
 
-* Acesso Aberto refere-se ao acesso gratuito e em linha a conteúdos científicos revistos peor pares com reutilização livre relativamente a restrições de direitos de autor.
+* Acesso Aberto refere-se ao acesso gratuito e em linha a conteúdos científicos revistos por pares com reutilização livre relativamente a restrições de direitos de autor.
 
 **Altmetrics ou Métricas Alternativas**
 
 * Altmetrics (ou métricas alternativas) são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (e.g., Facebook, Twitter, blogues, wikis, etc.), o download de documentos, os links para publicação e investigação em vias de publicação, bem como outra utilização da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
 
-**Assinatura**
+**Subscrição ou Assinatura**
 
-* Uma forma de modelo de negócio em que uma taxa é paga para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
+* Um modelo de negócio em que é pago um preço para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
 
 **Audiência**
 
@@ -27,7 +27,7 @@
 
 **Cadernos de Laboratório Abertos**
 
-* Uma forma regular de escrever em investigação, em que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
+* Um modelo de escrever de escrever sobre a investigação de forma regular, de forma que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
 
 **Ciência Aberta**
 
