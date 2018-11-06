@@ -36,9 +36,9 @@ EMART é um meio de o lembrar que os seus objetivos devem ser:
 
 **E**specíficos — com isto queremos dizer que precisa de estabelecer objetivos específicos para os seus programas
 
-**M**Mensuráveis — os seus objetivos devem ser mensuráveis.
+**M**ensuráveis — os seus objetivos devem ser mensuráveis.
 
-**A*lcançáveis — o objetivo deve ser alcançável ou passível de pôr em prática.
+**A**lcançáveis — o objetivo deve ser alcançável ou passível de pôr em prática.
 
 **R**ealísticos — o que também quer dizer credíveis.
 
@@ -87,7 +87,7 @@ Principais objetivos do programa de promoção e defesa da Ciência Aberta:
 
 * Defender os seus próprios direitos como autor
 
-* Os passos básicos para alcançar uma cultura local de mudança  [http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
+* [Os passos básicos para alcançar uma cultura local de mudança](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
 * Defender os seus pares: escrever cartas e artigos defendendo a Ciência Aberta
 
@@ -101,7 +101,7 @@ Principais objetivos do programa de promoção e defesa da Ciência Aberta:
 
 **Diretos:** fazer lobi perante os decisores, representando terceiros
 
-**Fazer campanha:**gerando uma resposta do grande público e usando uma variedade de técnicas tais como:
+**Fazer campanha:** gerando uma resposta do grande público e usando uma variedade de técnicas tais como:
 
 * carta ou correio eletrónico em cadeia
 
@@ -146,25 +146,27 @@ O formador deverá ser capaz de considerar a atividade de formação no contexto
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) \(CC0, Crowdsourced by OpenCon attendees\)
+* [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) (CC0, Crowdsourced by OpenCon attendees)
 
-* SPARC author addendum - [advocate for your own rights as an author w/ a journal](https://sparcopen.org/our-work/author-rights/)
+* [SPARC author addendum](https://sparcopen.org/our-work/author-rights/) advocate for your own rights as an author with a journal
 
 * Bolick et al. rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA: [https://kuscholarworks.ku.edu/handle/1808/22672](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
-* Perhaps some of the Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization
+* [Language of Protest](https://www.insidehighered.com/news/2015/11/02/editors-and-editorial-board-quit-top-linguistics-journal-protest-subscription-fees)
 
-* Another example of a letter to a scholarly society advocating for Open Access: [Jackie Smith to the American Sociological Association](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html)  and [another article](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons).
+* Another example of a letter to a scholarly society advocating for Open Access: [Jackie Smith to the American Sociological Association](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) 
 
-* eLife ECRwednesday webinar, May 31, about advocating for Open Science - video will be available on YouTube shortly. Featured Gary McDowell, Nick Shockey, Osman Aldirdiri, Corina Logan, Brianne Kent. Advice pitched at early-career researchers.
+* [Defending the global knowledge commons](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
 
-* [Advocating for transparency policies - a toolkit for researchers, staff, and librarians ](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)\(April Clyburne-Sherin \(FSCI2017\)\)
+* [eLife Community webinar series ECRwednesday – Organising and advocating for early-career researcher](https://www.youtube.com/watch?v=uDi7EU_zKbQ)
 
-* [Advocating Open Access - a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf) \(UCL\).
+* [Advocating for transparency policies - a toolkit for researchers, staff, and librarians](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
-* [Open science and its advocacy](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy) \(FOSTER\).
+* [Advocating Open Access - a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
-* [FOSTER Plus: Supporting the practical adoption of Open Science](http://libereurope.eu/our-activities/projects/fosterplus/) \(LIBER\).
+* [Open science and its advocacy](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
+
+* [FOSTER Plus training materials](https://www.fosteropenscience.eu/trainers-materials)
 
 * [Open Science Leadership Workshop](https://github.com/mozillascience/open-science-leadership-workshop), Mozilla Science Lab.
 
@@ -173,6 +175,8 @@ O formador deverá ser capaz de considerar a atividade de formação no contexto
 * [Retraction Watch](http://retractionwatch.com/)
 
 * [8 Steps to Good Advocacy](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
+
+* [PASTEUR4OA/Advocacy Resources](http://www.pasteur4oa.eu/resources) 
 
 
 
