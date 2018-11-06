@@ -84,7 +84,7 @@ Segue-se uma lista indicativa de ideias a reter sobre reprodutibilidade:
 Existem várias dicas práticas para a reprodutibilidade que devemos ter em conta quando definimos as competências específicas necessárias para a garantir.  As boas práticas em reprodutibilidade utilizam as práticas da Ciência Aberta no geral, mas a sua integração oferece benefícios ao investigador individual, quer escolha partilhar a sua investigação ou não. A razão pela qual integrar as boas práticas da reprodutibilidade beneficia o investigador individual é porque estas melhoram o planeamento, a organização e a documentação da investigação.  Em baixo descrevemos um exemplo de implementação de reprodutibilidade num fluxo de trabalho de investigação com referências a estas práticas no manual.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-###### 1. Planeie a reprodutibilidade antes de começar
+##### **1. Planeie a reprodutibilidade antes de começar**
 
 ###### Crie um plano de estudo ou protocolo.
 
@@ -120,7 +120,7 @@ Documente tudo o que foi feito, manualmente, num ficheiro README. Crie um dicion
 Considere usar [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.name/knitr/), [Sweave](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr), ou outras abordagens de programação documentada para integrar o seu código com a sua narrativa e documentação.
 
 ## <img src="/Images/Icons/open_licenses.png" width="150" height="150" />
-##### 3**. Partilhe e licencie a sua investigação**
+##### **3. Partilhe e licencie a sua investigação**
 
 ###### Dados
 
@@ -135,7 +135,7 @@ Partilhe os seus materiais de forma a que possam ser reutilizados. Deposite os  
 Licencie o seu código para informar como este pode ser \(re\)utilizado. Partilhe os _notebooks_ com serviços como [mybinder](http://mybinder.org) que permitam a visualização pública e execução de todo o _notebook_ em recursos partilhados. Partilhe os contentores ou _notebooks_ com serviços como [Rocker](https://arxiv.org/abs/1710.03675) ou [Code Ocean](https://codeocean.com/). Siga as boas práticas descritas em Software aberto usado em investigação e Software de código aberto.
 
 ## <img src="/Images/Icons/open_scholarship.png" width="150" height="150" />
-##### 4**. Reporte a sua investigação de forma transparente**
+##### **4. Reporte a sua investigação de forma transparente**
 
 Reporte e publique os seus métodos e intervenções de forma explícita e transparente e completa para permitir sua replicação. As directrizes de [Equator Network](http://www.equator-network.org/), ferramentas como [Protocols.io](https://www.protocols.io/), ou processos como [Registered Reports](https://cos.io/rr/) podem ajudá-lo a reportar de forma reprodutível. Lembre-se de publicar os resultados na  sua plataforma pública de registo \(tal como [ClinicalTrials.gov](https://www.socialscienceregistry.org/) ou [SocialScienceRegistry](https://www.socialscienceregistry.org/)\) até um ano após terminar o seu estudo seja qual for a natureza ou direção dos seus resultados.
 
@@ -166,7 +166,7 @@ R: Ver Barba \(2018\) para uma discussão sobre terminologia descrevendo reprodu
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* Calcular o seu poder: [Button et al. \(2013\) study of the relationship between reproducibility and power.](https://www.nature.com/articles/nrn3475)
+* Calcular o seu poder: [Button et al. \(2013\) Power failure: why small sample size undermines the reliability of neuroscience.](https://www.nature.com/articles/nrn3475)
 
 * Nomeação informativa: [Karl Broman’s Data Organization module: Choose good names for things](http://kbroman.org/dataorg/pages/names.html)
 
