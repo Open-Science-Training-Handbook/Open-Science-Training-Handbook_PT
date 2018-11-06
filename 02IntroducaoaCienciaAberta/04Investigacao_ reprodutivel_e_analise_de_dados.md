@@ -84,7 +84,7 @@ Segue-se uma lista indicativa de ideias a reter sobre reprodutibilidade:
 Existem várias dicas práticas para a reprodutibilidade que devemos ter em conta quando definimos as competências específicas necessárias para a garantir.  As boas práticas em reprodutibilidade utilizam as práticas da Ciência Aberta no geral, mas a sua integração oferece benefícios ao investigador individual, quer escolha partilhar a sua investigação ou não. A razão pela qual integrar as boas práticas da reprodutibilidade beneficia o investigador individual é porque estas melhoram o planeamento, a organização e a documentação da investigação.  Em baixo descrevemos um exemplo de implementação de reprodutibilidade num fluxo de trabalho de investigação com referências a estas práticas no manual.
 
 ## <img src="/Images/Icons/task.png" width="150" height="150" />
-##### **1. Planeie a reprodutibilidade antes de começar **
+###### 1. Planeie a reprodutibilidade antes de começar
 
 ###### Crie um plano de estudo ou protocolo.
 
