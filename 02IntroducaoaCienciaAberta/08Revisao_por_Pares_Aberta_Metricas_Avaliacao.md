@@ -27,7 +27,7 @@ Ser um revisor oferece aos investigadores a oportunidade de envolverem com novid
 
 No que respeita à avaliação da investigação, as recompensas e métricas atuais não estão (ainda) alinhadas com os pressupostos da Ciência Aberta. As métricas utilizadas para avaliar investigação (por exemplo, o _Journal Impact Factor_, o h-índice) não medem – e por essa razão não premeiam – as práticas de Ciência Aberta. A revisão por pares aberta não é muitas vezes reconhecida como atividade de caráter académico e científico em contextos de avaliação para progressão na carreira \(em muitos casos os avaliadores de pedidos de financiamento não consideram sequer as mais brilhantes revisões abertas como _outputs_ académicos em si mesmos\). Adicionalmente, muitas métricas de avaliação , em especial algumas bibliométricas, não são tão abertas e transparentes como a comunidade desejaria. 
 Nestas circunstâncias, na melhor das hipóteses, as práticas de Ciência Aberta são vistas como uma carga adicional sem recompensas evidentes ou vantagens concretas. Na pior, são consideradas passíveis de prejudicar futuro financiamento e promoção, bem como agregação.
-Um [relatório recente da Comissão Europeia (2017)](https://doi.org/10.2777/75255) identifica duas abordagens na implementação da Ciência Aberta e na forma como os métodos de avaliação podem auxiliar:
+Um [relatório recente da Comissão Europeia](https://doi.org/10.2777/75255) (2017) identifica duas abordagens na implementação da Ciência Aberta e na forma como os métodos de avaliação podem auxiliar:
 
 1. Manter os métodos atuais de avaliação, encorajando práticas mais abertas em relação às métricas e aos resultados de investigação;
 
@@ -72,7 +72,7 @@ Existem alguns riscos potenciais, a saber:
 
 #### Métricas abertas
 
-A [Declaração de São Francisco sobre Avaliação de Investigação\(DORA\)] (https://sfdora.org/) recomenda que se evitem as metodologias de avaliação baseadas em indicadores de prestígio de revistas científicas, que passem a considerar-se todos os tipos de resultados de investigação e a usar-se em paralelo várias formas de métricas e métodos de avaliação qualitativa  Esta declaração foi assinada por milhares de investigadores, instituições, editores e financiadores, que se comprometem a colocar estes princípios em prática.
+A [Declaração de São Francisco sobre Avaliação de Investigação\(DORA\)](https://sfdora.org/) recomenda que se evitem as metodologias de avaliação baseadas em indicadores de prestígio de revistas científicas, que passem a considerar-se todos os tipos de resultados de investigação e a usar-se em paralelo várias formas de métricas e métodos de avaliação qualitativa  Esta declaração foi assinada por milhares de investigadores, instituições, editores e financiadores, que se comprometem a colocar estes princípios em prática.
 O [Manifesto de Leiden](http://www.leidenmanifesto.org/) fornece orientações para um uso responsável das métricas.
 
 Segundo Priem et al. (2010) as métricas alternativas apresentam as seguintes vantagens: são obtidas mais rapidamente que as citações; medem o impacto de resultados de investigação para além dos artigos científicos (por exemplo, conjuntos de dados, código, protocolos, _posts_ de blogues, _tweets_, etc.); e podem fornecer diferentes medidas de impacto por artigo ou item. A celeridade das métricas alternativas apresenta vantagens particularmente para os investigadores em início de carreira, cujo impacto da investigação pode ainda não estar refletido em citações, mas cuja progressão na carreira está muito dependente de boas avaliações. Adicionalmente, as métricas alternativas podem ajudar na identificação precoce de áreas de investigação importantes e de potenciais colaborações entre investigadores. Um relatório recente do Grupo de Especialistas em Altmetria da Comissão Europeia (Direcção-Geral de Investigação e Inovação, 2017) identificou os desafios das métricas alternativas, tais como a falta de robustez e susceptibilidade à manipulação; que quando um indicador ou métrica se torna o objetivo, deixa de ser bom indicador ("Lei de Goodhart"); a falta de uso corrente de redes sociais em algumas áreas científicas ou regiões geográficas; e A dependência de empresas para recolha dos dados primários.
@@ -106,7 +106,7 @@ A:  A avaliação da investigação é tão justa quanto seus métodos e técnic
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* Peer Review the Nuts and Bolts. [A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
+* [Peer Review the Nuts and Bolts. A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
 * [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
 
