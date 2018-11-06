@@ -28,7 +28,7 @@ Cada um destes passos deve ser relatado de forma clara, fornecendo documentaçã
 
 Fatores de caráter geral e dominante podem contribuir ainda mais para as causas da não-reprodutibilidade, mas também podem impulsionar a implementação de medidas específicas para lidar com essas causas. A cultura e o ambiente em que a investigação tem lugar são importantes fatores dominantes _top-down_. De uma perspetiva _bottom-up_, a educação e formação permanente dos investigadores pode aumentar a conscientização e disseminar boas práticas.
 
-Embora a compreensão de todos os fatores que contribuem para a reprodutibilidade seja importante, também pode ser difícil decompor esses fatores em etapas que possam ser imediatamente adotadas por um programa de investigação existente e melhorar imediatamente a sua reprodutibilidade. Um dos primeiros passos a dar é avaliar a situação atual  e acompanhar a melhoria  à medida que são dados passos para aumentar ainda mais a reprodutibilidade. Alguns dos problemas comuns com a reprodutibilidade da investigação são mostrados na figura seqguinte.
+Embora a compreensão de todos os fatores que contribuem para a reprodutibilidade seja importante, também pode ser difícil decompor esses fatores em etapas que possam ser imediatamente adotadas por um programa de investigação existente e melhorar imediatamente a sua reprodutibilidade. Um dos primeiros passos a dar é avaliar a situação atual  e acompanhar a melhoria  à medida que são dados passos para aumentar ainda mais a reprodutibilidade. Alguns dos problemas comuns com a reprodutibilidade da investigação são mostrados na figura seguinte.
 
 ![](/Images/image_2.png)
 
@@ -42,7 +42,7 @@ Isto é distinto de replicabilidade:
 
 _which refers to the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but new data are collected._
 
-Uma forma simples de pensar sobre isto pode ser que a reprodutibilidade é orientada aos métodos, enquanto a replicabilidade é orientada aos resultados 
+Uma forma simples de pensar sobre isto pode ser que a reprodutibilidade é orientada aos métodos, enquanto a replicabilidade é orientada aos resultados. 
 
 A reprodutibilidade pode ser avaliada a diferentes níveis: ao nível de um projeto individual  \(ex., um artigo, uma experiência, um método ou um conjunto de dados\), um investigador individual, um laboratório ou grupo de investigação, uma instituição, ou mesmo uma área de investigação. Critérios e pontos de avaliação ligeiramente diferentes podem aplicar-se a esses diferentes níveis. Por exemplo, uma instituição defende as práticas de reprodutibilidade se instituir políticas que recompensem os investigadores que realizem investigação reprodutível. Por outro lado, um campo de investigação pode ser considerado como tendo um nível mais elevado de reprodutibilidade se desenvolver recursos mantidos pela comunidade que promovam e permitam práticas de pesquisa reproduzíveis, como repositórios de dados ou normativas para partilha de dados. 
 
