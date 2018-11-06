@@ -53,21 +53,21 @@ Uma plataforma colaborativa especialmente importante no contexto da Ciência Abe
 
 **Plataformas de escrita colaborativa**
 
-Na atual cultura de investigação dominante de "publicar ou perecer", a escrita é uma tarefa central na vida dos investigadores. Várias ferramentas e plataformas online permitem que os investigadores trabalhem juntos em tempo real em documentos, evitando assim a confusão de trocas de e-mails de versões de documentos Word de um lado para o outro. Exemplos destas plataformas são [Overleaf] (https://www.overleaf.com/), [Authorea] (https://www.authorea.com/), [Fidus Writer] (https://www.fiduswriter.org/) , [ShareLaTeX] (https://www.sharelatex.com) e [Google Docs] (https://www.google.com/docs). De notar que muitas dessas ferramentas são baseadas em tecnologias proprietárias e algumas exigem pagamento para funcionalidades avançadas.
+Na atual cultura de investigação dominante de "publicar ou perecer", a escrita é uma tarefa central na vida dos investigadores. Várias ferramentas e plataformas online permitem que os investigadores trabalhem juntos em tempo real em documentos, evitando assim a confusão de trocas de e-mails de versões de documentos Word de um lado para o outro. Exemplos destas plataformas são [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/), [Fidus Writer](https://www.fiduswriter.org/), [ShareLaTeX](https://www.sharelatex.com) e [Google Docs](https://www.google.com/docs). De notar que muitas dessas ferramentas são baseadas em tecnologias proprietárias e algumas exigem pagamento para funcionalidades avançadas.
 
 
 **Descoberta e gestão de referências**
 
-Existem muitas ferramentas que permitem armazenar e gerir referências em grupo. Exemplos disso são [Zotero] (https://www.zotero.org/), [Citavi] (http://www.citavi.com/) e [CiteUlike] (http://www.citeulike.org/). O [Mendeley] (http://www.mendeley.com/) incorpora um gestor de referências partilhável, bem como uma rede social e ferramentas de visualização de artigos. De forma semelhante, o [BibSonomy] (http://www.bibsonomy.org/) permite que investigadores partilhem marcadores e listas de literatura.
+Existem muitas ferramentas que permitem armazenar e gerir referências em grupo. Exemplos disso são [Zotero](https://www.zotero.org/), [Citavi](http://www.citavi.com/) e [CiteUlike](http://www.citeulike.org/). O [Mendeley](http://www.mendeley.com/) incorpora um gestor de referências partilhável, bem como uma rede social e ferramentas de visualização de artigos. De forma semelhante, o [BibSonomy](http://www.bibsonomy.org/) permite que investigadores partilhem marcadores e listas de literatura.
 
 **Anotação e revisão**
 
-O poder da Web permite novos modos de revisão colaborativa pós-publicação através de serviços como [PubPeer] (https://pubpeer.com/) e [Academic Karma] (http://academickarma.org/), bem como ferramentas de anotações como [Hypothes.is] (http://hypothes.is/) e [PaperHive] (https://paperhive.org/).
+O poder da Web permite novos modos de revisão colaborativa pós-publicação através de serviços como [PubPeer](https://pubpeer.com/) e [Academic Karma](http://academickarma.org/), bem como ferramentas de anotações como [Hypothes.is](http://hypothes.is/) e [PaperHive](https://paperhive.org/).
 
 
 **Redes sociais académicas**
 
-Os investigadores há muito que usam a Web para estabelecerem as suas redes - quer através de redes sociais mais comuns como o [Twitter] (https://twitter.com/), [Facebook] (https://www.facebook.com/) e [Linkedin ] (https://www.linkedin.com/), quer de redes dedicadas, como as redes sociais académicas [ResearchGate] (https://www.researchgate.net/), [Academia.edu] (http://www.academia.edu /) e [Loop] (http://community.frontiersin.org/).
+Os investigadores há muito que usam a Web para estabelecerem as suas redes - quer através de redes sociais mais comuns como o [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com/) e [Linkedin](https://www.linkedin.com/), quer de redes dedicadas, como as redes sociais académicas [ResearchGate](https://www.researchgate.net/), [Academia.edu](http://www.academia.edu /) e [Loop](http://community.frontiersin.org/).
 
 ## <img src="/Images/Icons/questions.png" width="150" height="150" />
 ### Questões, obstáculos e equívocos comuns 
@@ -89,7 +89,7 @@ R: Não é correto ver as coisas desta forma. Embora possa parecer que está a i
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leituras adicionais
 
-* Open Science Framework. The promise of Open Science collaboration: [https://osf.io/vmrgu/wiki/home/](https://osf.io/vmrgu/wiki/home/)
+* Open Science Framework. [The promise of Open Science collaboration](https://osf.io/vmrgu/wiki/home/)
 
 * Alexander Voss, Rob Procter, \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
 
