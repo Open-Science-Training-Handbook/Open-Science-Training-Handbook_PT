@@ -33,11 +33,11 @@ Em segundo lugar, pode rever qualquer política ou lei nacional que possa afetar
 
 A nível nacional, pode haver algumas leis ou decretos que, direta ou indiretamente, possam influenciar uma política ou impor alguns requisitos. Por exemplo, pode encontrar uma síntese das políticas nacionais de acesso aberto na Europa disponibilizada no [OpenAIRE](https://www.openaire.eu/member-states-overview).
 
-Como a ciência não tem fronteiras, devemos verificar qualquer política internacional que possa afetar o nosso público, principalmente proveniente de financiadores internacionais. Ao nível europeu, temos as políticas emanadas pelo [H2020 research Framework](https://www.google.com/url?q=https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf&sa=D&ust=1521447690441000&usg=AFQjCNHsEo1FZkHkLDRxIUQr7BpfirASbQ) em relação à divulgação dos resultados de investigação, mas poderia existir outras políticas afetando outras partes do ciclo de investigação.
+Como a ciência não tem fronteiras, devemos verificar qualquer política internacional que possa afetar o nosso público, principalmente proveniente de financiadores internacionais. Ao nível europeu, temos as políticas emanadas pelo [H2020 research Framework](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf) em relação à divulgação dos resultados de investigação, mas poderia existir outras políticas afetando outras partes do ciclo de investigação.
 
 Também ao nível internacional, alguns editores introduziram novas políticas, especialmente no que diz respeito à publicação de dados de investigação associados a artigos submetidos.
 
-Se o público-alvo da formação está disposto a desenvolver um roteiro ou uma agenda para implementar uma política nacional de Ciência Aberta, pode ser aconselhável comparar o que foi feito por outras entidades. Como ponto de partida, o 2016 Amsterdam Call for Action pode mostrar alguns dos problemas que devem ser levados em consideração e a quem são dirigidos. Exemplos da  \([Holanda](https://www.openscience.nl/)\), \([Portugal](http://www.ciencia-aberta.pt)\), ou \([Finlândia](https://openscience.fi/)\) podem ajudar a planear políticas nacionais, delinear algumas ações e descobrir como avaliar a sua implementação.
+Se o público-alvo da formação está disposto a desenvolver um roteiro ou uma agenda para implementar uma política nacional de Ciência Aberta, pode ser aconselhável comparar o que foi feito por outras entidades. Como ponto de partida, o 2016 Amsterdam Call for Action pode mostrar alguns dos problemas que devem ser levados em consideração e a quem são dirigidos. Exemplos da  [Holanda](https://www.openscience.nl/), [Portugal](http://www.ciencia-aberta.pt), ou [Finlândia](https://openscience.fi/) podem ajudar a planear políticas nacionais, delinear algumas ações e descobrir como avaliar a sua implementação.
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competências
@@ -55,7 +55,7 @@ A principal questão vinda de investigadores em sessões de formação sobre pol
 
 Outra questão frequentemente levantada é o que acontece quando os investigadores não cumprem os requisitos. Neste caso, pode dar exemplos de projetos monitorizados por financiadores ou de advertências recebidas pelos investigadores.
 
-Um equívoco comum em relação à política de disponibilização de dados de investigação é que os investigadores devem partilhar todos os dados abertamente. Para superá-lo, deve destacar os diferentes trechos no texto de uma política, onde há explicações sobre que dados são afetados pela política e quando devem ser partilhados. Podemos também destacar todas as opções de exclusão que as políticas incluem. Um bom recurso para esclarecer essas questões pode ser um infográfico como o [disponível no Horizonte 2020](https://www.google.com/url?q=https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf&sa=D&ust=1521447690670000&usg=AFQjCNG6Qegy5MwM3bjNJ1ovWp1YlQSswQ).
+Um equívoco comum em relação à política de disponibilização de dados de investigação é que os investigadores devem partilhar todos os dados abertamente. Para superá-lo, deve destacar os diferentes trechos no texto de uma política, onde há explicações sobre que dados são afetados pela política e quando devem ser partilhados. Podemos também destacar todas as opções de exclusão que as políticas incluem. Um bom recurso para esclarecer essas questões pode ser um infográfico como o [disponível no Horizonte 2020](https://ec.europa.eu/research/press/2016/pdf/opendata-infographic_072016.pdf).
 
 Ao planear uma política é importante saber o que se pretende alcançar ou resolver. Às vezes, as políticas são criadas seguindo outras iniciativas sem pensar se há necessidade de outra e se a nova política se sobrepõe a outras existentes. O principal desafio ao criar uma política é alinhá-la com outras iniciativas e evitar contradições com leis ou regulamentos.
 
@@ -71,13 +71,13 @@ Ao planear uma política é importante saber o que se pretende alcançar ou reso
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura Adicional
 
-* Providing researchers with the skills and competencies they need to practise Open Science. [Report of the Working Group on Education and Skills under Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
+* [Providing researchers with the skills and competencies they need to practise Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg) Report of the Working Group on Education and Skills under Open Science.
 
-* Recursos disponíveis em [Pasteur4OA](http://www.pasteur4oa.eu/), e [LEARN](http://learn-rdm.eu)
+* Recursos disponíveis em [Pasteur4OA](http://www.pasteur4oa.eu/) e [LEARN](http://learn-rdm.eu)
 
 * Os cursos FOSTER  [Designing Successful Open Access and Open Data Policies: Introductory](https://www.fosteropenscience.eu/node/2081) e [Designing Successful Open Access and Open Data Policies: Intermediate](https://www.fosteropenscience.eu/node/2075)
 
-* HowOpenIsIt?. [Guide to Research Funders Policies](http://www.orfg.org/resources/) do Open Research Funders Group & SPARC
+* [HowOpenIsIt? Guide to Research Funders Policies](http://www.orfg.org/resources/) do Open Research Funders Group & SPARC
 
 
 
