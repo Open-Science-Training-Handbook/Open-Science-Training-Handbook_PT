@@ -91,7 +91,7 @@ R: Não é correto ver as coisas desta forma. Embora possa parecer que está a i
 
 * Open Science Framework. [The promise of Open Science collaboration](https://osf.io/vmrgu/wiki/home/)
 
-* Alexander Voss, Rob Procter, \(2009\) ["Virtual research environments in scholarly work and communications"](https://www.emeraldinsight.com/doi/abs/10.1108/07378830910968146), Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
+* Alexander Voss, Rob Procter, \(2009\) Virtual research environments in scholarly work and communications Library Hi Tech, Vol. 27 Issue: 2, pp.174-190: [doi.org/10.1108/07378830910968146](https://doi.org/10.1108/07378830910968146)
 
 * Candela, L., Castelli, D. & Pagano, P., \(2013\). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81: [doi.org/10.2481/dsj.GRDI-013](http://doi.org/10.2481/dsj.GRDI-013)
 
