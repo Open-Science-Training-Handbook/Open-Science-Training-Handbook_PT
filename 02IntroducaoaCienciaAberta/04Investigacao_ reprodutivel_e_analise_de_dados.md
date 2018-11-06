@@ -92,13 +92,13 @@ Comece a documentar no início do estudo escrevendo um plano de estudo ou protoc
 
 ###### Escolha ferramentas e materiais reprodutíveis
 
-Escolha anticorpos que funcionem usando um motor de pesquisa de anticorpos como [CiteAb](https://www.citeab.com/). Evite a irreprodutibilidade através de linhas celulares mal identificadas escolhendo as que estão autenticadas pela [International Cell Line Authentication Committee](http://iclac.org/). Sempre que possível, escolha ferramentas de software e hardware nas quais retenha a propriedade da sua investigação e que permitam a exportação da sua investigação para fora da plataforma para sua reutilização \(ver Software aberto usado em investigação e Software de código aberto\).
+Escolha anticorpos que funcionem usando um motor de pesquisa de anticorpos como [CiteAb](https://www.citeab.com/). Evite a irreprodutibilidade através de linhas celulares mal identificadas escolhendo as que estão autenticadas pela [International Cell Line Authentication Committee](http://iclac.org/). Sempre que possível, escolha ferramentas de software e hardware nas quais retenha a propriedade da sua investigação e que permitam a exportação da sua investigação para fora da plataforma para sua reutilização (ver [Software Aberto Usado na Investigação e Software de Código Aberto](/02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na Investigacao_e_Software_de_Codigo_Aberto.md).
 
 ###### Estabeleça um projeto reprodutível
 
-Centralize e organize a gestão do seu projeto usando um plataforma online, um repositório central, ou pasta para todos os ficheiros da investigação. Pode usar o GitHub como local para armazenar todos os ficheiros do projeto ou gerir tudo usando um _notebook_ como [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),ou [SciNote](https://scinote.net/). Dentro do projeto centralizado, siga as boas práticas separando os seus dados do código em pastas diferentes. Torne os seus dados não tratados como apenas de leitura e mantenha-os separados dos dados processados \(referência a Gestão de Dados\).
+Centralize e organize a gestão do seu projeto usando um plataforma online, um repositório central, ou pasta para todos os ficheiros da investigação. Pode usar o GitHub como local para armazenar todos os ficheiros do projeto ou gerir tudo usando um _notebook_ como [Benchling](https://benchling.com/), [Labguru](https://www.labguru.com/),ou [SciNote](https://scinote.net/). Dentro do projeto centralizado, siga as boas práticas separando os seus dados do código em pastas diferentes. Torne os seus dados não tratados como apenas de leitura e mantenha-os separados dos dados processados - veja  [Dados e Materiais de Investigacao Abertos](/02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md).
 
-Ao gravar e arquivar os seus ficheiros de investigação, use formatos e nomes de ficheiros informativos que permitam a reutilização. Os nomes dos ficheiros devem ser legíveis para máquinas e humanos. \(referência a Gestão de Dados\). Na sua análise e código de software use caminhos relativos. Evite formatos de ficheiros proprietários e use formatos de ficheiro abertos \(ver 6 Licenciamento Aberto e Formato de Ficheiros\).
+Ao gravar e arquivar os seus ficheiros de investigação, use formatos e nomes de ficheiros informativos que permitam a reutilização. Os nomes dos ficheiros devem ser legíveis para máquinas e humanos. \(referência a Gestão de Dados\). Na sua análise e código de software use caminhos relativos. Evite formatos de ficheiros proprietários e use formatos de ficheiro abertos - veja [Licenciamento Aberto e Formato de Ficheiros](/02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md).
 
 ## <img src="/Images/Icons/handson.png" width="150" height="150" />
 ##### **2. Mantenha um registo**
@@ -109,11 +109,11 @@ Faça um pré-registo de informação importante do desenho e análise do estudo
 
 ###### Controlo de versões
 
-Registe as alterações aos seus ficheiros, especialmente o código de análise, usando um controlo de versões \(ver Software aberto usado em investigação e Software de código aberto\).
+Registe as alterações aos seus ficheiros, especialmente o código de análise, usando um controlo de versões veja [Software Aberto Usado na Investigacao e Software de Codigo Aberto](/02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na Investigacao_e_Software_de_Codigo_Aberto.md).
 
 ###### Documentação
 
-Documente tudo o que foi feito, manualmente, num ficheiro README. Crie um dicionário de dados \(também conhecido como livro de código\)para descrever informação importante sobre os seus dados. Para uma introdução simples, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) e consulte Gestão de Dados.
+Documente tudo o que foi feito, manualmente, num ficheiro README. Crie um dicionário de dados \(também conhecido como livro de código\)para descrever informação importante sobre os seus dados. Para uma introdução simples, use: [Karl Broman’s Data Organization module](http://kbroman.org/dataorg/pages/dictionary.html) e consulte [Dados e Materiais de Investigacao Abertos](/02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md).
 
 ###### Programação documentada
 
@@ -124,7 +124,7 @@ Considere usar [Jupyter Notebooks](http://jupyter.org/), [KnitR](https://yihui.n
 
 ###### Dados
 
-Evite ficheiros suplementares, decida por um licença permissiva aceitável, e partilhe os seus dados usando um repositório. Siga as boas práticas descritas no capítulo Dados e Materiais de Investigação Abertos.
+Evite ficheiros suplementares, decida por um licença permissiva aceitável, e partilhe os seus dados usando um repositório. Siga as boas práticas descritas no capítulo [Dados e Materiais de Investigacao Abertos](/02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md).
 
 ###### Materiais
 
