@@ -274,7 +274,7 @@ Existem várias estratégias que podem ser empregues durante toda a ação de fo
 ## 
 ## Guia prático
 
-Poderá encontrar mais informação sobre o planeamento concreto e a execução de uma ação de formação sobre Ciência Aberta nos capítulos sobre [Aspectos Organizacionais](https://docs.google.com/document/d/14COBhyFzL934Cs7waAohmLKm977dq-jGnnRHHD4mUjg/edit) e [Exemplos e Guia Prático](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit).
+Poderá encontrar mais informação sobre o planeamento concreto e a execução de uma ação de formação sobre Ciência Aberta nos capítulos sobre [Aspectos Organizativos](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/tree/master/04AspetosOrganizativos) e [Exemplos e Orientação Prática](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/05_Exemplos_e_Orientacao_Pratica.md).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 
@@ -308,9 +308,9 @@ Use um modelo de formação "ao contrário", conhecido como _Backward design_, u
 
 3.  Escolher o melhor formato e modelo de conteúdo para preparar a audiência para o que terá que fazer durante a avaliação sumativa.
 
-4. Ordenar o conteúdo por complexidade crescente e fornecer a matéria e motivação necessários para conciliar o que os alunos sabem e o que necessitam de saber para completar o teste de avaliação sumativa. \([Manual do Formador Carpentry](http://swcarpentry.github.io/instructor-training/19-lessons/)\)
+4. Ordenar o conteúdo por complexidade crescente e fornecer a matéria e motivação necessários para conciliar o que os alunos sabem e o que necessitam de saber para completar o teste de avaliação sumativa. \([Manual do Formador Carpentry](https://carpentries.github.io/instructor-training/)\)
 
-O backward design desafia os métodos “tradicionais” de planeamento curricular. No planeamento curricular tradicional é criada e/ou selecionada uma lista de conteúdos que será lecionada. [\[4\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4) Com o método backward design,  o educador começa com os objetivos, cria ou planeia [avaliações](https://en.wikipedia.org/wiki/Educational_assessment) e, por último, cria [planos de aula](https://en.wikipedia.org/wiki/Lesson_plan). Os adeptos do método de backward design ligam os processos ao uso de um “road map”. [\[5\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) Neste caso, o destino é escolhido em primeiro lugar e o "road map" é usado para planear a viagem ao destino desejado. No planeamento curricular tradicional, por seu lado, não existe um destino formal identificado antes do começo da viagem. 
+O backward design desafia os métodos “tradicionais” de planeamento curricular. No planeamento curricular tradicional é criada e/ou selecionada uma lista de conteúdos que será lecionada. Com o método [\[Backward design\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4),  o educador começa com os objetivos, cria ou planeia [avaliações](https://en.wikipedia.org/wiki/Educational_assessment) e, por último, cria [planos de aula](https://en.wikipedia.org/wiki/Lesson_plan). Os adeptos do método de backward design ligam os processos ao uso de um [\[road map\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) Neste caso, o destino é escolhido em primeiro lugar e o "road map" é usado para planear a viagem ao destino desejado. No planeamento curricular tradicional, por seu lado, não existe um destino formal identificado antes do começo da viagem. 
 
 A ideia no backward design é ensinar até ao “ponto final” ou até serem alcançados os objetivos de aprendizagem, o que normalmente assegura que o conteúdo lecionado permanece conciso e organizado. Este facto, por seu lado, visa promover um melhor entendimento do conteúdo e processos a serem lecionados aos estudantes. O formador é capaz de se focar em abordar os conteúdos que os estudantes necessitam de aprender, em saber que dados podem ser recolhidos para demonstrar que os estudantes aprenderam os objetivos desejados \(ou [modelos ou padrões de aprendizagem](https://en.wikipedia.org/wiki/Learning_standards)\) e em assegurar como é que os estudantes irão aprender. 
 
@@ -321,7 +321,7 @@ A ideia no backward design é ensinar até ao “ponto final” ou até serem al
 
 Antes de começar a ensinar o formador terá que recolher e preparar conteúdos. Atualmente os conteúdos estão disponíveis em massa e o problema reside menos em encontrar ou criar conteúdos, e mais em encontrar conteúdos adequados ou adequar os conteúdos encontrados às necessidades e capacidades do público alvo.
 
-Por favor consulte o capítulo sobre [Exemplos e Guia Prático](https://docs.google.com/document/d/1frhJxLRScfs8BxLLO5wigYVhFmn07Xt9_9YyEGrcvt8/edit?usp=drive_web&ouid=107830280653894512635) que contém informação útil acerca de como adotar, adaptar e desenvolver conteúdos.
+Por favor consulte o capítulo sobre [Exemplos e Orientação Prática](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/05_Exemplos_e_Orientacao_Pratica.md) que contém informação útil acerca de como adotar, adaptar e desenvolver conteúdos.
 
 #### Redução de conteúdos
 
@@ -376,7 +376,7 @@ A aprendizagem ativa ajuda a contornar a diversidade nos estilos de aprendizagem
 
 #### Gamificação
 
-Os fundamentos da metodologia na Aprendizagem Ativa têm base em teorias modernas de aprendizagem \(em parte, no Construtivismo e algum Conetivismo \) e adicionam técnicas de envolvimento na aprendizagem para quebrar barreiras e derrubar tantos obstáculos quanto possível. Por exemplo, gamificar um conteúdo de aprendizagem pode afastar os formandos da aquisição passiva de conteúdo em direção ao pleno envolvimento, conduzindo ao reposicionamento do formador como alguém que se afasta e observa o processo de aprendizagem e como ele funciona. Um exemplo de gamificação na formação é dado aqui:: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), um jogo didático para a consolidação conceptual. Um exemplo adicional pode ser encontrado em [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
+Os fundamentos da metodologia na Aprendizagem Ativa têm base em teorias modernas de aprendizagem \(em parte, no Construtivismo e algum Conetivismo \) e adicionam técnicas de envolvimento na aprendizagem para quebrar barreiras e derrubar tantos obstáculos quanto possível. Por exemplo, gamificar um conteúdo de aprendizagem pode afastar os formandos da aquisição passiva de conteúdo em direção ao pleno envolvimento, conduzindo ao reposicionamento do formador como alguém que se afasta e observa o processo de aprendizagem e como ele funciona. Um exemplo de gamificação na formação é dado aqui: [Key Terms](https://doi.org/10.6084/m9.figshare.1094361.v1), um jogo didático para a consolidação conceptual. Um exemplo adicional pode ser encontrado em [CURATE: The Digital Curator Game](http://www.digcur-education.org/eng/Resources/CURATE-Game).
 
 #### Envolvimento inclusivo
 
@@ -479,7 +479,7 @@ O [Kirkpatrick's Four-Level Training Evaluation Model](https://www.mindtools.com
 
 * Dependendo do tempo disponível, pode também pedir-lhes que criem um cenário imaginário de investigação simples e que determinem os protocolos da Ciência Aberta aplicáveis.
 
-### Reformule o seu cursowork your course
+### Reformule o seu curso
 
 Tinha as suas expetativas antes de lecionar o curso e a experiência mostrar-lhe-á que as coisas nem sempre funcionam como as planeámos. Não fique muito dececionado, pois na primeira vez uma resposta para todos os resultados é quase impossível; em vez disso, aproveite o final do curso como ponto de partida para reformular o seu material e repensar alguns dos seus métodos e exercícios práticos.
 
@@ -542,9 +542,9 @@ Exercícios semelhantes podem ser aplicáveis ao treino de diferentes audiência
 
 * Kirkpatrick, D.L., & Kirkpatrick, J.D. \(1994\). _Evaluating Training Programs_, Berrett-Koehler Publishers.
 
-* R.M. Felder and R. Brent.  [Active learning. An introduction](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Directions.html)
+* R.M. Felder and R. Brent.  [Active learning. An introduction](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
 
-* Michael Prince - Does Active Learning Work? A Review of the Research \([PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)\).
+* Michael Prince - Does Active Learning Work? A Review of the Research \([PDF](https://drive.google.com/file/d/1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m/view)\).
 
 * Mazur's [video](https://www.youtube.com/watch?v=Z9orbxoRofI) on Peer Instruction for Active Learning 
 
