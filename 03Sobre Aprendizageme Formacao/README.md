@@ -91,7 +91,7 @@ A maioria dos alunos espera que o formador:
 
 * Compreenda as expectativas que são levantadas na sociedade sobre o uso dos recursos e resultados das atividades científicas, tais como o seu impacto na ciência do cidadão, a compreensão pública da ciência, a sua influência nos educadores, etc.
 
-* Seja capaz de ensinar e ter um profundo conhecimento acerca de Ciência Aberta. \(Na verdade, é disso que este livro trata. \)
+* Seja capaz de ensinar e ter um profundo conhecimento acerca de Ciência Aberta. \(Na verdade, é disso que este livro trata.\)
 
 * Forneça links para documentos e recursos on-line que apoiem os recém-chegados.
 
@@ -107,7 +107,7 @@ Uma boa maneira de começar a sua formação sobre Ciência Aberta é dirigir-se
 
 * Públicos motivados podem tornar-se “embaixadores” da sua formação.
 
-**Informações que precisa de reunir sobre seu público: **
+**Informações que precisa de reunir sobre seu público:**
 
 1. Manter um ambiente inclusivo e ter em consideração a diversidade de experiências dos potenciais participantes é importante para qualquer formação ser bem-sucedida. Para saber como tornar seu workshop inclusivo, veja o  [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
@@ -161,11 +161,11 @@ A investigação académica é exercida por adultos, pelo que os participantes d
 
 4. **A aprendizagem de adultos centra-se em problemas, que devem ser realistas** Os participantes muitas vezes chegam com um problema e será tarefa do formador descobrir lacunas e tentar resolvê-las.
 
-5. **A experiência afeta a aprendizagem de adultos .** Os adultos têm mais experiência que as crianças, seja ela negativa ou positiva. O formador pode fazer uso dessa experiência prevenindo associações negativas.
+5. **A experiência afeta a aprendizagem de adultos.** Os adultos têm mais experiência que as crianças, seja ela negativa ou positiva. O formador pode fazer uso dessa experiência prevenindo associações negativas.
 
-6. **Os adultos aprendem melhor informalmente. ** Os jovens em idade escolar têm geralmente que seguir um currículo. Muitas vezes, os adultos aprendem apenas o que sentem que precisam saber. O formador deve, portanto, tentar envolver o seu público no processo de aprendizagem. O que pode acontecer ao tornar o ambiente descontraído, informal e convidativo.
+6. **Os adultos aprendem melhor informalmente.** Os jovens em idade escolar têm geralmente que seguir um currículo. Muitas vezes, os adultos aprendem apenas o que sentem que precisam saber. O formador deve, portanto, tentar envolver o seu público no processo de aprendizagem. O que pode acontecer ao tornar o ambiente descontraído, informal e convidativo.
 
-7. **Os adultos querem ser orientados. ** Os adultos querem informação que os ajude a melhorar a sua situação ou a resolver problemas, mas, não querem que lhes seja dito o que têm que fazer, preferem escolher entre opções tendo por base as suas necessidades individuais.
+7. **Os adultos querem ser orientados.** Os adultos querem informação que os ajude a melhorar a sua situação ou a resolver problemas, mas, não querem que lhes seja dito o que têm que fazer, preferem escolher entre opções tendo por base as suas necessidades individuais.
 
 Portanto, o formador precisará de 
 
@@ -236,7 +236,7 @@ Para os Objetivos de Aprendizagem em Open Science, veja-se este documento do FOS
 
 * "Aprender a usar a avaliação e a reação à formação com o máximo de eficácia”
 
-**Exemplo de um resultado de formação: **
+**Exemplo de um resultado de formação:**
 
 * "Ao concluir o curso, o aluno deverá ser capaz de elaborar um exercício prático e de desenhar uma estratégia para avaliar a sua eficácia"
 
@@ -244,7 +244,7 @@ Para os Objetivos de Aprendizagem em Open Science, veja-se este documento do FOS
 
 ### Motivação & desmotivação
 
-Um dos principais componentes de uma ação de formação é garantir que a falta de confiança que os participantes possam ter ao serem apresentados a uma nova área \ (Ciência Aberta, neste caso \) não os desencoraja de prosseguir. Mesmo que alguns participantes estejam familiarizados com os conceitos apresentados na ação de formação, é importante reconhecer quando a matéria está a ser pouco clara para eles. Reconhecer que as apreciações dos participantes, mesmo que mal entendidas, são válidas é fundamental de modo a estimular uma lógica de crescimento e a motivá-los no sentido de aceitar e endossar as práticas da Ciência Aberta.
+Um dos principais componentes de uma ação de formação é garantir que a falta de confiança que os participantes possam ter ao serem apresentados a uma nova área (Ciência Aberta, neste caso) não os desencoraja de prosseguir. Mesmo que alguns participantes estejam familiarizados com os conceitos apresentados na ação de formação, é importante reconhecer quando a matéria está a ser pouco clara para eles. Reconhecer que as apreciações dos participantes, mesmo que mal entendidas, são válidas é fundamental de modo a estimular uma lógica de crescimento e a motivá-los no sentido de aceitar e endossar as práticas da Ciência Aberta.
 
 Existem várias estratégias que podem ser empregues durante toda a ação de formação visando motivar os participantes. \(T\(Retirado do Manual do Formador de Carpentry [https://ca](https://carpentries.github.io/instructor-training/08-motivation/)[rpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/)\)
 
