@@ -23,6 +23,9 @@ Em 2010 e 2011 exerceu funções de Arquivista. De 2012 a 2017, trabalhou na Imp
 ### Carlos Lopes
 É Professor Auxiliar no ISPA e Professor convidado na Universidade Nova de Lisboa. Diretor da pós-graduação em Literacia em Saúde (ISPA-Instituto Universitário). Diretor do Centro de Documentação e Diretor Executivo do Centro de Edições do ISPA.. investigador na APPsyCI - Applied Psychology Research Center Capabilities &  Inclusión.
 
+### Carlos Catalão Alves
+É doutorado em Science Education, pela Universidade de Cambridge, Reino Unido, leciona Ciências da Comunicação e Educação, em programas de mestrado na Universidade Nova de Lisboa, e é investigador associado no CIES do Centro de Investigação e Estudos de Sociologia da UL, focando-se na missão social das universidades e instituições científicas. Desenvolveu um corpo prático de conhecimento e experiência em relação à formulação de políticas e governação pública da ciência, tecnologia e inovação, tendo sido membro do gabinete do Ministro da Ciência e Tecnologia, com responsabilidades no estudo e na criação de programas nacionais de educação científica.
+
 ### Cecília Reis
 Licenciada em Ciências da Informação e da Documentação na Universidade Aberta, é Técnica Superior nas Bibliotecas da Universidade de Aveiro, desde novembro de 1995.
 Na Área de Recursos Eletrónicos e Apoio ao Utilizador, desempenha funções ligadas à
@@ -52,10 +55,12 @@ Possui o Mestrado em Ciências da Informação e Documentação pela Universidad
 ### Isabel Andrade
  É licenciada em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Lisboa (Inglês/Alemão), tem o Curso de Especialização em Ciências Documentais pela mesma Faculdade e o Master of Science in Information Management, pela Universidade de Sheffield, Reino Unido. É Chefe de Divisão do Centro de Documentação e Informação da Escola Nacional de Saúde Pública, Universidade NOVA de Lisboa e Managing Editor da revista Portuguese Journal of Public Health. Desempenha as funções de coordenadora e de docente no Information Literacy Course e no Research Data Management Course da NOVA Doctoral School. Tem apresentado comunicações em várias conferências nacionais e internacionais.
 
-
 ### Liliana dos Santos Gonçalves
 É licenciada em Turismo e Património, Pós-Graduada em Ciências da Informação e Documentação, Especialista em Comunicação e Mestre em Comunicação e Media.
 Atualmente integra o Gabinete de Comunicação e Eventos dos Serviços de Documentação do Politécnico de Leiria, sendo responsável, entre outros, pelo Centro de Documentação Europeia do Instituto, pela gestão de sistemas informáticos (software e hardware) e bases de dados das Bibliotecas do Serviços de Documentação. É ainda front-office na organização e acolhimento de eventos e membro efetivo da equipa de Formação do Utilizador das Bibliotecas do Politécnico de Leiria.
+
+### Manuel Montenegro
+É bibliotecário na Biblioteca ICBAS/FFUP, na Universidade do Porto. Trabalha com informação científico-técnica e médica e fontes de informação em formato eletrónico desde 1995, primeiro no Instituto de Clínica Geral da Zona Norte, em seguida na FEUP, depois na Biblioteca Virtual da UPorto. Foi docente em licenciaturas na área de ciência de informação na UPorto e no Instituto Politécnico do Porto e ministrou cursos de formação para a Associação Portuguesa de Bibliotecários, Arquivistas e Documentalistas, Fundação para a Ciência e Tecnologia e no Grupo de Formação b-on (Biblioteca do Conhecimento Online). É responsável de conteúdos nos portais FreeMedicalJournals (http://www.freemedicaljournals) e Journals4Free (http://www.journals4free.com).
 
 ### Maria da Luz Antunes
 É Diretora da Biblioteca da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa) desde 2000. Investigadora integrada do APPsyCI – Applied Psychology Research Center Capabilities & Inclusion (ISPA – Instituto Universitário). Gestora do Repositório Científico do IPL desde 2011. Revisora editorial da Saúde & Tecnologia (desde 2008) e da Revista Portuguesa de Medicina Geral e Familiar (desde 2014). Membro do Conselho da European Association for Health Information and Libraries. Áreas de investimento: Literacia da informação; Competências de investigação; Ciência Aberta; Bibliometria; e Literacia em saúde, especialmente junto dos idosos e portadores de doenças crónicas.
