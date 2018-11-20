@@ -230,7 +230,7 @@ Apresenta-se, em seguida, uma tentativa de esclarecer esta situação e remover 
 
 \(Adaptado de [ http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes](http://provost.rpi.edu/learning-assessment/learning-outcomes/objectives-vs-outcomes)\)
 
-Para os Objetivos de Aprendizagem em Open Science, veja-se este documento do FOSTER: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(see page 13 & 14\)
+Para os Objetivos de Aprendizagem em Open Science, veja-se este documento do FOSTER: [https://doi.org/10.5281/zenodo.15603](https://doi.org/10.5281/zenodo.15603) \(ver páginas 13 e 14\)
 
 **Exemplo de um objetivo de formação:**
 
@@ -310,7 +310,7 @@ Use um modelo de formação "ao contrário", conhecido como _Backward design_, u
 
 4. Ordenar o conteúdo por complexidade crescente e fornecer a matéria e motivação necessários para conciliar o que os alunos sabem e o que necessitam de saber para completar o teste de avaliação sumativa. \([Manual do Formador Carpentry](https://carpentries.github.io/instructor-training/)\)
 
-O backward design desafia os métodos “tradicionais” de planeamento curricular. No planeamento curricular tradicional é criada e/ou selecionada uma lista de conteúdos que será lecionada. Com o método [\[Backward design\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4),  o educador começa com os objetivos, cria ou planeia [avaliações](https://en.wikipedia.org/wiki/Educational_assessment) e, por último, cria [planos de aula](https://en.wikipedia.org/wiki/Lesson_plan). Os adeptos do método de backward design ligam os processos ao uso de um [\[road map\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) Neste caso, o destino é escolhido em primeiro lugar e o "road map" é usado para planear a viagem ao destino desejado. No planeamento curricular tradicional, por seu lado, não existe um destino formal identificado antes do começo da viagem. 
+O backward design desafia os métodos “tradicionais” de planeamento curricular. No planeamento curricular tradicional é criada e/ou selecionada uma lista de conteúdos que será lecionada. Com o método [\[Backward design\]](https://en.wikipedia.org/wiki/Backward_design#cite_note-4),  o educador começa com os objetivos, cria ou planeia [avaliações](https://en.wikipedia.org/wiki/Educational_assessment) e, por último, cria [planos de aula](https://en.wikipedia.org/wiki/Lesson_plan). Os adeptos do método de backward design ligam os processos ao uso de um [\road map](https://en.wikipedia.org/wiki/Backward_design#cite_note-5) Neste caso, o destino é escolhido em primeiro lugar e o "road map" é usado para planear a viagem ao destino desejado. No planeamento curricular tradicional, por seu lado, não existe um destino formal identificado antes do começo da viagem. 
 
 A ideia no backward design é ensinar até ao “ponto final” ou até serem alcançados os objetivos de aprendizagem, o que normalmente assegura que o conteúdo lecionado permanece conciso e organizado. Este facto, por seu lado, visa promover um melhor entendimento do conteúdo e processos a serem lecionados aos estudantes. O formador é capaz de se focar em abordar os conteúdos que os estudantes necessitam de aprender, em saber que dados podem ser recolhidos para demonstrar que os estudantes aprenderam os objetivos desejados \(ou [modelos ou padrões de aprendizagem](https://en.wikipedia.org/wiki/Learning_standards)\) e em assegurar como é que os estudantes irão aprender. 
 
