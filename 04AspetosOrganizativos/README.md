@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/timetable.png" width="200" height="200" />
-## Aspetos de Organização
+## Aspetos Organizativos
 
-Este capítulo pretende ser um guia prático para a organização de um curso de formação. Claro que o que vai precisar e vai usar depende do tipo de evento que organizar. A checklist, deverá ser adaptada em função do tipo de curso. São fornecidas informações sobre as várias etapas prévias e sobre tarefas de organizaçã necessárias. Não vai ficar só equipado com conhecimentos sobre a organização de eventos, também vai sentir-se mais seguro na preparação dos mesmos. A maior parte do material deste capítulo bem como de todo o manual, está orientada para a realização de workshops de caráter prático. Para realizar eventos de outros tipos pode ter que tomar decisões diferentes das que aqui se descrevem.
+Este capítulo pretende ser um guia prático para a organização de um curso de formação. Claro que o que vai precisar e vai usar depende do tipo de evento que organizar. A checklist deverá ser adaptada em função do tipo de curso. São fornecidas informações sobre as várias etapas prévias e sobre tarefas de organizaçã necessárias. Não vai apenas obter conhecimentos sobre a organização de eventos, também vai sentir-se mais seguro na preparação dos mesmos. A maior parte do material deste capítulo, bem como de todo o manual, está orientada para a realização de workshops de caráter prático. Para realizar eventos de outros tipos pode ter que tomar decisões diferentes das que aqui se descrevem.
 
 ## Aspetos básicos sobre eventos de treino
 
@@ -11,13 +11,13 @@ O primeiro passo crítico na coordenação é decidir o tipo de evento a promove
 
 * Formato da formação: workshop presencial, seminário, palestra, curso online ou composto por uma mistura de módulos presenciais e online?
 
-* Irá ser participativo, formal, autońomo?
+* Irá ser participativo, formal, autonomo?
 
 * Poderá o evento ser integrado em curricula de cursos existentes?
 
 * Irá ter necessidade de convidar especialistas externos? Quais serão os requisitos associados (por exemplo, uma dotação orçamental)?
 
-* Será o evento de treino obrigatório para os participantes, ou será de  participação voluntárial?
+* Será o evento de treino obrigatório para os participantes, ou será de  participação voluntária?
 
 * Os participantes recebem algum tipo de crédito?
 
@@ -193,7 +193,7 @@ A tabela abaixo fornece recomendações de base sobre diferentes tipos de forma�
 
 ### Audiência, oradores convidados e parceiros
 
-Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](/03OnLearningAndTraining/#target-audience) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
+Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/tree/master/03Sobre%20Aprendizageme%20Formacao#p%C3%BAblicos-alvo) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperação
@@ -207,7 +207,7 @@ Estabeleça parcerias com outros serviços ou departamentos da instituição ou 
 
 Num evento que se quer bem sucedido, é importante criar e manter um ambiente inclusivo e abrangente do ponto de vista de áreas de conhecimento e tipo de competência. 
 
-A equipa responsável pela formação deve ter a representação de diferentes identidades de género, disciplinas, origens raciais e regiões geográficas. [Mais informação sobre os formadores.](/03OnLearningAndTraining.md/#expectations-about-a-trainer). Deve ser assegurado também que uma parte das vagas seja reservada para participantes de diferentes origens étnicas, identidades de género, disciplinas e regiões geográficas (see [Inclusive engagement]/03OnLearningAndTraining.md/#inclusive-engagement)). Para saber mais sobre como tornar seu workshop inclusivo, consulte a [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+A equipa responsável pela formação deve ter a representação de diferentes identidades de género, disciplinas, origens raciais e regiões geográficas. [Mais informação sobre os formadores](/03Sobre%20Aprendizageme%20Formacao/README.md#expectativas-sobre-um-formador). Deve ser assegurado também que uma parte das vagas seja reservada para participantes de diferentes origens étnicas, identidades de género, disciplinas e regiões geográficas (ver [Envolvimento Inclusivo](/03Sobre%20Aprendizageme%20Formacao/README.md#envolvimento-inclusivo). Para saber mais sobre como tornar seu workshop inclusivo, consulte a [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Local
@@ -221,14 +221,14 @@ A sala de formação deve estar equipada de forma adequada (veja o capítulo do 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Duração
 
-A duração do curso depende dos conteúdos a transmitir. Deve haver uma estimativa clara do tempo necessário para cada módulo. Defina uma agenda ou cronograma, incluindo pausas para conversas e para apresentação prévia dos participantes, bem como tempo suficiente para almoços e intervalos. Preveja pontualidade nos horários de início e fim. [Consulte o capítulo "Starting the training"](/03OnLearningAndTraining.md/#starting-the-training)). 
+A duração do curso depende dos conteúdos a transmitir. Deve haver uma estimativa clara do tempo necessário para cada módulo. Defina uma agenda ou cronograma, incluindo pausas para conversas e para apresentação prévia dos participantes, bem como tempo suficiente para almoços e intervalos. Preveja pontualidade nos horários de início e fim. [Consulte o capítulo Dar início à formação](/03Sobre%20Aprendizageme%20Formacao#dar-início-à-formação)). 
 
 Antes de calendarizar o evento, pense nos obstáculos que podem impedir ou induzir as pessoas a participar, escolhendo adequadamente a data e horário. Se o curso se realizar numa universidade, tenha em consideração o calendário escolar e os horários das aulas. Para atrair mais atenção e aumentar o número de participantes, considere a possibilidade de agendar o evento juntamente com uma conferência ou outro evento com destaque. 
 
 ## <img src="/Images/Icons/budget.png" width="150" height="150" />
 ### Orçamento
 
-Considere a hipótese de necessidade de recursos financeiros para a realização do curso, como por exemplo para pagamento do local para as sessões, viagens de formadores,  bebidas, materiais de apoio e merchandising etc. Importa referir que os custos associados com recursos humanos tendem a ser os mais elevados. Identifique o tempo necessário que os funcionários precisam para preparar materiais e conteúdos que geralmente não são orçamentados. 
+Considere a hipótese de necessitar de recursos financeiros para a realização do curso, como por exemplo para pagamento do local para as sessões, viagens de formadores,  bebidas, materiais de apoio e merchandising, etc. Importa referir que os custos associados a recursos humanos tendem a ser os mais elevados. Identifique o tempo necessário que os colaboradores precisam para preparar materiais e conteúdos que geralmente não são orçamentados. 
 
 Considere diferentes formas de obter verbas para a formação. Se possível, solicite fundos à sua instituição ou estabeleça uma taxa de inscrição aos participantes.  
 
@@ -242,7 +242,7 @@ Se está a planear cobrar uma taxa, informe-se com os serviços financeiros sobr
 
 Pode obter financiamento através de diferentes fontes: a instituição, patrocinadores externos (empresas), fundos de investigação ou através da cobrança das taxas de inscrição. Confirme se há alguma fonte interna de financiamento ou organizações locais relevantes que possam patrocinar o evento. Se encontrou um potencial patrocinador, verifique as condições de financiamento, que podem incluir publicidade no site e no local do evento.
 
-Considere diferentes níveis de patrocínio (bronze, prata, ouro), no caso de eventos maiores. Analise também outros projetos ou programas para organizar e partilhar custos.#### Financiamento
+Considere diferentes níveis de patrocínio (bronze, prata, ouro), no caso de eventos maiores. Analise também outros projetos ou programas para organizar e partilhar custos.
 
 Pode obter financiamento de diversas fontes: a instituição anfitriã, patrocinadores externos como empresas, fundos de financiamento orçamentados para corpo docente/investigador principal, ou através de taxas de registo. Verifique se existem fontes internas para financiamento, ou organizações locais relevantes que possam patrocinar o seu evento. Se encontrou um potencial parceiro, verifique as condições do financiamento. Podem incluir publicidade no website do evento ou publicidade no próprio evento.
 
@@ -254,7 +254,7 @@ Considere diferentes níveis de patrocínio (bronze, prata, ouro) no caso de eve
 
 #### Preparação a longo prazo
 
-Aqui tem alguns aspetos a considerar:
+Alguns aspetos a considerar:
 
 Os participantes vão necessitar de acesso a WI-FI? Assegure-se que quaisquer requisitos para acesso são tratados com antecedência (ex., fornecer detalhes de acesso a conta de visitante). Verifique se o local tem tomadas de eletricidade suficientes. Assegure-se com antecedência junto do responsável do local da disponibilidade de apoio técnico. Se planeia gravar o evento, certifique-se que possui o equipamento correto, e de que os participantes estão conscientes (e deram o seu consentimento) de serem gravados. Pense em como irá licenciar quaisquer resultados: vai aplicar uma licença CC a imagens, vídeos, e materiais de formação? Os autores estão de acordo? 
 
@@ -360,7 +360,9 @@ Verifique o local e informe o fornecedor onde e quando entregar as refeições.
 
 #### Durante o evento
 
-Certifique-se que tem o contacto do fornecedor caso as refeições não apareçam, tenham enviado o almoço errado ou esquecido alguma coisa.## <img src="/Images/Icons/write.png" width="150" height="150" />
+Certifique-se que tem o contacto do fornecedor caso as refeições não apareçam, tenham enviado o almoço errado ou esquecido alguma coisa.
+
+## <img src="/Images/Icons/write.png" width="150" height="150" />
 ### Código de Conduta
 
 #### Muito antes do evento
@@ -454,7 +456,7 @@ Entreviste os restantes formadores/oradores para uma auto-avaliação sobre a fo
 
 ### Avaliação
 
-Envie aos participantes um inquérito de avaliação da formação (see [Training evaluation](/03OnLearningAndTraining.md/#training-evaluation)) ou distribua um formulário de avaliação durante o evento, e certifique-se de que as pessoas o entregam no final.
+Envie aos participantes um inquérito de avaliação da formação (ver [Avaliação da Formação](/03Sobre%20Aprendizageme%20Formacao#avaliação-da-formação)) ou distribua um formulário de avaliação durante o evento, e certifique-se de que as pessoas o entregam no final.
 
 Leia e contabilize os resultados dos formulários de avaliação. Faça a sua própria auto-avaliação. 
 
