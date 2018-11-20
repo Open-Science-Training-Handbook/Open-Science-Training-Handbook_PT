@@ -153,11 +153,11 @@ Uma boa maneira de começar a sua formação sobre Ciência Aberta é dirigir-se
 
 A investigação académica é exercida por adultos, pelo que os participantes de qualquer formação em Ciência Aberta serão, provavelmente, adultos, frequentemente com um grau do ensino superior (2º ou 3ª ciclos). É interessante, portanto, ver até que ponto ensinar crianças ou adolescentes (pedagogia) difere do ensino de adultos (andragogia). A Rede Canadiana de Literacia e Aprendizagem realizou um trabalho interessante sobre essa diferença e resumiu-a em sete princípios:
 
-1. **Os adultos devem querer aprender. ** Isto significa que a motivação interior e as “mais-valias” são decisivas pelo que pode valer a pena conhecê-los antes de iniciar o curso.
+1. **Os adultos devem querer aprender** Isto significa que a motivação interior e as “mais-valias” são decisivas pelo que pode valer a pena conhecê-los antes de iniciar o curso.
 
-2. **Os adultos aprenderão apenas o que sentem que precisam de aprender. ** Os adultos são práticos na sua abordagem à aprendizagem; eles querem saber: "Como é que isto me vai ajudar agora?" O formador deve, portanto, ser prático e direto.
+2. **Os adultos aprenderão apenas o que sentem que precisam de aprender** Os adultos são práticos na sua abordagem à aprendizagem; eles querem saber: "Como é que isto me vai ajudar agora?" O formador deve, portanto, ser prático e direto.
 
-3. **Os adultos aprendem fazendo. **  Isto é igualmente verdade para as crianças, mas a participação ativa e imediata é mais importante para os adultos.
+3. **Os adultos aprendem fazendo**  Isto é igualmente verdade para as crianças, mas a participação ativa e imediata é mais importante para os adultos.
 
 4. **A aprendizagem de adultos centra-se em problemas, que devem ser realistas** Os participantes muitas vezes chegam com um problema e será tarefa do formador descobrir lacunas e tentar resolvê-las.
 
