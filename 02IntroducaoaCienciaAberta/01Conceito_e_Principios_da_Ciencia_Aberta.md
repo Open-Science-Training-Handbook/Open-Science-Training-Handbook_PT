@@ -39,7 +39,7 @@ A Ciência Aberta, como definida anteriormente, engloba um grande número de  po
 1. Conhecer os desenvolvimentos em torno da Ciência Aberta e do impacto pessoal que aqueles podem ter sobre os investigadores, a investigação e, numa perspetiva mais alargada, na sociedade. 
 
 ###  Componentes-chave
-![](/Images/02 Open Science Basics/02_open_concepts_and_principles.png)
+![](/Images/02 Open%20Science%20Basics/02_open_concepts_and_principles.png)
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
