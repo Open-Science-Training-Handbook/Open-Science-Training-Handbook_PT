@@ -47,7 +47,7 @@ Em 2014, foi elaborado um conjunto de princípios básicos de forma a otimizar a
 
 Ao contrário de iniciativas similares que se concentram no investigador, os princípios FAIR dão ênfase ao aumento da capacidade das máquinas automaticamente encontrarem e usarem os dados ou qualquer objeto digital, além de apoiar a sua reutilização por pessoas. Os princípios FAIR são princípios orientadores, não normas. Os FAIR descrevem qualidades ou comportamentos necessários para tornar os dados reutilizáveis ao máximo. \(ex., descrição, citação\). Estas qualidades podem ser atingidas através de diferentes normas.
 
-![](/Images/02 Open Science Basics/02_open_research_data_material.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_research_data_material.png)
 
 ##### Publicação de dados
 
