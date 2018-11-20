@@ -5,7 +5,7 @@
 
 Podemos definir políticas de Ciência Aberta como aquelas estratégias e ações que visam promover princípios de Ciência Aberta e reconhecer práticas de Ciência Aberta. Essas políticas geralmente são estabelecidas por instituições que fazem investigação, que financiam investigação, governos ou editores. As políticas iniciais tinham como objetivo impor uma divulgação aberta dos resultados da investigação com base na ideia de que os resultados obtidos a partir de investigação financiada com fundos públicos deveriam estar disponíveis ao público sem qualquer restrição. No entanto, agora o âmbito das políticas cresceu e podemos encontrar políticas nacionais que promovem práticas de Ciência Aberta em qualquer ponto do processo de investigação. Além disso, podemos encontrar disposições específicas em novas leis, regulamentos ou diretivas existentes.
 
-## <img src="/Images/02 Open Science Basics/02_open_policies.png" />
+## <img src="/Images/02%20Open%20Science%20Basics/02_open_policies.png" />
 
 ### Fundamentação
 
