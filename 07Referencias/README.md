@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/magnifying_glass.png" width="200" height="200" />
-##Referências
+## Referências
 
-> *Nota:* Esta bibliografia é mantida colaborativamente pela comunidade do *Open Science Training Handbook* em  https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
+*Nota:* Esta bibliografia é mantida colaborativamente pela comunidade do *Open Science Training Handbook* em  https://www.zotero.org/groups/2114699/open_science_book/items/collectionKey/XIUNJBME. 
 
 Balasegaram, Manica, Peter Kolb, John McKew, Jaykumar Menon, Piero Olliaro,
 Tomasz Sablinski, Zakir Thomas, Matthew H. Todd, Els Torreele, and John
@@ -87,7 +87,7 @@ http://dx.doi.org/10.14324/000.learn.00.
 Lionelli, Sabina. ‘Implementing Open Science: Strategies, Experiences and
 Models’. Thematic Report. Mutual Learning Exercise: Open Science – Altmetrics
 and Rewards. European Commission, n.d.
-https://rio.jrc.ec.europa.eu/en/library/mle-open-science-altmetrics-and-rewards-%E2%80%93-implementing-open-science-strategies-experiences.
+https://rio.jrc.ec.europa.eu/en/policy-support-facility/mle-open-science-altmetrics-and-rewards.
 
 Lowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C.
 Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S.
@@ -135,7 +135,7 @@ Running Interactive Workshops’. *PLOS Computational Biology* 10, no. 2 (27
 February 2014): e1003485. https://doi.org/10/gc5sjq.
 
 Picarra, Mafalda, and Alma Swan. ‘Monitoring Compliance with Open Access
-Policies’, December 2015. http://pasteur4oa.eu/resources/162\#.WoL40Z_iZhF.
+Policies’, December 2015. http://pasteur4oa.eu/sites/pasteur4oa/files/resource/Brief_Monitoring%20compliance%20with%20OA%20policies_0.pdf.
 
 Piwowar, Heather, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa
 Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein. ‘The
@@ -204,7 +204,7 @@ https://doi.org/10/fzmph2.
 Union, Publications Office of the European. ‘Evaluation of Research Careers
 Fully Acknowledging Open Science Practices : Rewards, Incentives and/or
 Recognition for Researchers Practicing Open Science.’ Website, 14 November 2017.
-https://publications.europa.eu/en/publication-detail/-/publication/47a3a330-c9cb-11e7-8e69-01aa75ed71a1/language-en.
+https://ec.europa.eu/research/openscience/pdf/os_rewards_wgreport_final.pdf
 
 Vandewalle, Patrick. ‘Code Sharing Is Associated with Research Impact in Image
 Processing’. *Computing in Science & Engineering* 14, no. 4 (July 2012): 42–47.
