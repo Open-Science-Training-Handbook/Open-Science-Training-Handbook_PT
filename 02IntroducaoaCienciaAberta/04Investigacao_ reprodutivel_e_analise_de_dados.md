@@ -22,7 +22,7 @@ O conceito de reprodutibilidade é diretamente aplicado ao método científico, 
 
 Cada um destes passos deve ser relatado de forma clara, fornecendo documentação clara e aberta, tornando o estudo transparente e reprodutível.
 
-![](/Images/02 Open Science Basics/02_reproducible_research_data_analysis.png)
+![](/Images/02%20Open%20Science%20Basics/02_reproducible_research_data_analysis.png)
 
 ### Fundamentação
 
