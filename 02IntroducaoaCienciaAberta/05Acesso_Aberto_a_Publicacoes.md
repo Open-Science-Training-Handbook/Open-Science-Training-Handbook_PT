@@ -51,7 +51,7 @@ Relativamente à versão, algumas revistas permitem a difusão da versão submet
 
 No que se refere ao momento de tornar o artigo publicamente disponível, muitas revistas estabelecem um período de tempo após a publicação: o período de embargo, que pode variar entre zero e sessenta meses. Algumas revistas incluem ou excluem os embargos dependendo das versões. Por exemplo, a versão aceite pode ser disponibilizada publicamente depois da publicação, mas a versão publicada deve esperar doze meses. 
 
-![](/Images/02 Open Science Basics/02_open_access_archives.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_access_archives.png)
 
 **Publicação em Acesso Aberto**
 
