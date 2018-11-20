@@ -9,7 +9,7 @@ Uma licença é um documento legal que concede direitos específicos ao utilizad
 
 Um formato de ficheiro é uma forma padrão de codificar informações para armazenar num ficheiro de computador; contudo, nem todos os formatos têm documentos de especificação disponíveis gratuitamente, em parte porque alguns programadores vêem os seus documentos com especificações como segredos comerciais.
 
-![](/Images/02 Open Science Basics/02_open_licensing.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
 
 ### Fundamentação
 
