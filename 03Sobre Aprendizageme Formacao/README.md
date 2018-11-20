@@ -36,7 +36,7 @@ Contudo...
 
 * A fim de desenvolver competências como profissional, uma pessoa precisa de procurar entender os conceitos teóricos, bem como ter experiência prática. Pelo que, ensino e formação são igualmente importantes e conceitos educacionais complementares.
 
-![](/Images/03 On Learning and Training/03_teaching_vs_learning.png)
+![](/Images/03%20On%20Learning%20and%20Training/03_teaching_vs_learning.png)
 
 ### Estratégias
 
