@@ -4,7 +4,7 @@
 ### O que são?
 As plataformas colaborativas online ligam investigadores geograficamente dispersos possibilitando uma cooperação sem interrupções, a partilha de objetos de investigação bem como de ideias e experiências. As plataformas colaborativas são habitualmente serviços online que disponibilizam um ambiente virtual a partir do qual várias pessoas podem ligar-se e trabalhar na mesma tarefa simultaneamente. Variam desde amplos Ambientes Virtuais de Investigação (AVI) que englobam uma série de ferramentas para facilitar a partilha e a colaboração, por exemplo fóruns ou wikis, alojamento de documentos colaborativos e ferramentas para análise ou visualização de dados e ferramentas  disciplinares que permitem aos investigadores trabalharem em conjunto em tempo real sobre aspetos específicos da investigação \(como escrita ou análise\).
 
-![](/Images/02 Open Science Basics/02_collaborative_platforms.png)
+![](/Images/02%20Open%20Science%20Basics/02_collaborative_platforms.png)
 
 ### Fundamentação
 
