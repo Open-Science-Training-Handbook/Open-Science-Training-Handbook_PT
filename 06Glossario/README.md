@@ -5,14 +5,6 @@
 
 * Acesso Aberto refere-se ao acesso gratuito e em linha a conteúdos científicos revistos por pares com reutilização livre relativamente a restrições de direitos de autor.
 
-**Altmetrics ou Métricas Alternativas**
-
-* Altmetrics (ou métricas alternativas) são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (e.g., Facebook, Twitter, blogues, wikis, etc.), o download de documentos, os links para publicação e investigação em vias de publicação, bem como outra utilização da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
-
-**Subscrição ou Assinatura**
-
-* Um modelo de negócio em que é pago um preço para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
-
 **Audiência**
 
 * O grupo-alvo de uma comunicação (por exemplo, aqueles que participam numa formação sobre Ciência Aberta). A audiência alvo é um grupo de indivíduos a quem se destina a formação.
@@ -23,23 +15,23 @@
 
 **Behaviorismo (Teoria da Aprendizagem)**
 
-* Behaviorismo significa que a aprendizagem é realizada através de exercícios de repetição (drill-and-practice) e resulta melhor mediante o uso de estímulos aos quais os estudantes respondem. Genericamente significa que se pede ao estudante que faça um exercício para o qual exista uma resposta clara ou um caminho claro a seguir. A avaliação é clara e pode ser facilmente realizada com a ajuda de métricas simples.
+* Behaviorismo significa que a aprendizagem é realizada através de exercícios e resulta melhor mediante o uso de estímulos aos quais os estudantes respondem. Genericamente significa que se pede ao estudante que faça um exercício para o qual exista uma resposta clara ou um caminho claro a seguir. A avaliação é clara e pode ser facilmente realizada com a ajuda de métricas simples.
 
 **Cadernos de Laboratório Abertos**
 
-* Um modelo de escrever sobre a investigação de forma regular, de forma que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
+* Um modelo em que a prática consiste de escrever sobre a investigação de forma regular, de forma que as notas e os dados da investigação são acumulados e publicados em linha logo que obtidos.
 
 **Ciência Aberta**
 
-* Ciência Aberta é o movimento para fazer com que a investigação científica, os dados e a disseminação sejam acessíveis a todos os níveis de uma sociedade inquiridora.
+* Ciência Aberta é o movimento para fazer com que a investigação científica, os dados e a publicações sejam acessíveis a todos os níveis de uma sociedade inquiridora.
 
 **Cognitivismo**
 
-* Cognitivismo é baseado na interação entre o mundo exterior e o que o cérebro reflexivo faz a partir da informação percebida em conjugação com o conhecimento que já armazenou. O cognitivismo concentra-se, portanto, na resolução de problemas.
+* Cognitivismo é baseado na interação entre o mundo exterior e o que o cérebro reflexivo constrói, a partir da informação percebida em conjugação com o conhecimento que já armazenou. O cognitivismo concentra-se, assim, na resolução de problemas.
 
 **Comunicação Académica**
 
-* A criação, transformação, disseminação e preservação do conhecimento relacionado com o ensino, investigação e outras atividades académicas; o processo em através do qual os académicos e investigadores partilham e publicam os resultados da sua investigação de modo a que estejam disponíveis para a comunidade académica em geral. 
+* A criação, transformação, disseminação e preservação do conhecimento relativo ao ensino, investigação e outras atividades académicas; o processo em através do qual os académicos e investigadores partilham e publicam os resultados da sua investigação de modo a que fiquem disponíveis para a comunidade académica em geral.
 
 **Conectivismo**
 
@@ -54,22 +46,21 @@
 
 * O elemento da propriedade intelectual que confere aos criadores o direito de permitir (ou não permitir) a reprodução das suas criações. É distinto dos direitos das marcas registadas ou dos direitos morais.
 
-
 **Currículo**
 
 * O currículo refere-se a lições e a outros conteúdos formativos ministrados numa escola ou num curso ou programa inserido numa estrutura definida. 
 
-**Dados (de investigação)**
+**Dados de investigação**
 
 * Dados, no contexto do presente documento, são todos os objetos disponíveis digitalmente (simples ou complexos) que emeregem ou são resultado do processo de investigação.
 
 **Dados Abertos**
 
-* Dados Abertos são dados gratuitos e acessíveis em linha que podem ser usados, reutilizados e distribuídos, assegurando a identificação da fonte de dados. 
+* Dados Abertos são dados acessíveis online, gratuitos e que podem ser usados, reutilizados e distribuídos, desde que corretamente citados. 
 
 **Dados FAIR**
 
-* Dados FAIR (de acordo com [FORCE11 principles](https://www.force11.org/group/fairgroup/fairprinciples) e publicados em [Nature Scientific Data](https://www.nature.com/articles/sdata201618)) são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a facilitar a descoberta de conhecimento, auxiliando homens e máquinas na descoberta, acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
+* Dados FAIR (de acordo com [os princípios da FORCE11](https://www.force11.org/group/fairgroup/fairprinciples) e o artigo da revista [Nature Scientific Data](https://www.nature.com/articles/sdata201618)), são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a permitir avanços no conhecimento, auxiliando homens e máquinas na sua descoberta, acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
 
 **Data Mining ou mineração de dados**
 
@@ -130,6 +121,10 @@
 **Metadados**
 
 * Os metadados fornecem uma descrição básica dos dados, geralmente incluem autoria, datas, título, resumo, palavras-chave e informação sobre a licença. Servem, em primeiro lugar, para assegurar a localização dos dados (e.g., criador, período de tempo, localização geográfica). 
+
+**Métricas Alternativas**
+
+* Métricas Alternativas ou Complementares são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (por exemplo, Facebook, Twitter, blogues, wikis, etc.), o download de documentos, links para publicações concluídas ou em processo de publicação, bem como outras utilizações da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
 
 **Partilha**
 
@@ -193,6 +188,12 @@
 **Controlo de Versão**
 
 * Controlo de versão é a gestão das alterações, de forma lógica e persistente, em documentos, programas de computador, sites de grandes dimensões e outro leque de informação, permitindo não só alterações de revisão como a possibilidade de reverter a informação para uma versão anterior. 
+
+
+**Subscrição ou Assinatura**
+
+* Um modelo de negócio em que é pago um preço para aceder a um produto ou serviço - neste caso, os resultados da investigação académica.
+
 
 ## Recursos Adicionais
 
