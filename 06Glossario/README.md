@@ -88,7 +88,7 @@
 
 **Gamificação**
 
-* Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um compromisso extra.
+* Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um maior envolvimento.
 
 **Identificador Persistente (PID - Persistent Identifier)**
 
@@ -108,7 +108,7 @@
 
 **Licenças Creative Commons**
 
-* Um conjunto de licenças padronizadas que permite aos detendores de direitos de autor a concessão, por defeito,  de alguns direitos aos utilizadores. As licenças CC são amplamente utilizadas, simples de usar, legíveis por máquina e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são compatíveis com o Acesso Aberto, de acordo cno sentido de Budapeste (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não (detentoras da cláusula NC). 
+* Um conjunto de licenças padronizadas que permite aos detendores de direitos de autor conceder, por defeito,  de alguns direitos aos utilizadores. As licenças CC são amplamente utilizadas, simples de usar, legíveis por máquina e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são em maior grau compatíveis com o Acesso Aberto (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não o são (detentoras da cláusula NC). 
 
 **Materiais Abertos**
 
