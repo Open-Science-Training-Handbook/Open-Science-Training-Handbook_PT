@@ -60,33 +60,29 @@
 
 **Dados FAIR**
 
-* Dados FAIR (de acordo com [os princípios da FORCE11](https://www.force11.org/group/fairgroup/fairprinciples) e o artigo da revista [Nature Scientific Data](https://www.nature.com/articles/sdata201618)), são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a permitir avanços no conhecimento, auxiliando homens e máquinas na sua descoberta, acesso, integração e análise de dados científicos e seus algoritmos e fluxos de trabalho associados. 
-
-**Data Mining ou mineração de dados**
-
-* Um processo analítico concebido para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
+* Dados FAIR (de acordo com [os princípios da FORCE11](https://www.force11.org/group/fairgroup/fairprinciples) e o artigo da revista [Nature Scientific Data](https://www.nature.com/articles/sdata201618)), são Localizáveis (Findable), Acessíveis (Accessible), Interoperáveis (Interoperable) e Reutilizáveis (Reusable), de modo a permitir avanços no conhecimento, auxiliando homens e máquinas na sua descoberta, acesso, análise e integração de dados científicos, seus algoritmos e fluxos de trabalho associados. 
 
 **Documentação**
 
-* Documentação é informação detalhada, bem como contexto e abordagem metodológica sobre os dados ou código (por exemplo, descrição de projeto, variáveis e instrumentos de medida).  
+* Documentação é informação detalhada de contexto e abordagem metodológica sobre os dados ou código (por exemplo, descrição de projeto, variáveis e instrumentos de medida).  
 
-**DOI (Digital Object Identifier /Identificador de Objeto Digital)**
+**DOI (Digital Object Identifier/ Identificador de Objeto Digital)**
 
 * Uma cadeia de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
 
 **Fator de Impactor**
 
-* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua transferência para o impacto de artigos individuais publicados numa revista. 
+* Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua aplicação ao impacto de artigos individuais publicados numa revista. 
 
 **Ficheiro README**
 
-* Ficheiro onde são documentados os dados de investigação. A documentação deve ser suficiente para permitir que outros investigadores entendam, repliquem ou reproduzam os dados ou reutilizá-los de qualquer outra forma. 
+* Ficheiro onde são documentados os dados de investigação. Esta documentação deve ser suficiente para permitir que outros investigadores entendam, repliquem ou reproduzam os dados ou reutilizem-nos de qualquer outra forma. 
 
 **Financiador de Investigação**
 
 * Instituto, organização ou órgão governamental que providencia apoio financeiro destinado à investigação. 
 
-**Formatos de Ficheiros Preferidos/Persistentes**
+**Formatos de Ficheiros Preferíveis/ Persistentes**
 
 * Formatos não proprietários que seguem padrões internacionais documentados, são comummente usados pela comunidade de investigadores, usam codificação padronizada de caracteres (e.g., ASCII, UTF-8) e onde a compressão, quando usada, não implica a perda de dados. 
 
@@ -100,17 +96,17 @@
 
 **Impacto da Investigação**
 
-* Envolve aspetos académicos, económicos e sociais ou ainda uma combinação dos três. O impacto é o contributo demonstrável de que a investigação altera a compreensão e o avanço científico, o método, a teoria e aplicação através e dentro das disciplinas, e o papel mais amplo que desempenha fora do sistema de investigação. 
+* Envolve aspetos académicos, económicos e sociais ou ainda uma combinação dos três. O impacto é a contribuição demonstrável que a pesquisa faz na mudança da compreensão e no avanço científico, método, teoria e aplicação através e nas disciplinas, e o papel mais amplo que desempenha fora do sistema de investigação. 
 
 **Investigação Reprodutível**
 
-* A reprodutibilidade é um espectro e os investigadores devem escolher a definição mais usada pelo seu público. De um modo geral, a investigação reprodutível possibilita obter resultados semelhantes de um estudo ou experiência e resultados independentes obtidos com os mesmos métodos, mas sob condições diferentes (i.e., aplicáveis aos resultados). A definição pode ser decomposta ao nível da reprodutibilidade, incluindo a reprodução ao nível computacional (também designada «reproduzível»), em que o código e os dados podem ser analisados de maneira semelhante à investigação original de modo a obter os mesmos resultados; e ao nível do empiricamente reproduzível (também designado «replicável») , em que um investigador independente pode repetir um estudo usando os mesmos métodos, mas criando novos dados. 
+* A reprodutibilidade é algo bastante abrangente e os investigadores devem escolher a definição mais usada pelo seu público. De um modo geral, a investigação reprodutível possibilita obter resultados semelhantes de um estudo ou experiência e resultados independentes obtidos com os mesmos métodos, mas sob condições diferentes (i.e., aplicáveis aos resultados). A definição pode ser decomposta ao nível da reprodutibilidade, incluindo a reprodução ao nível computacional (também designada «reproduzível»), em que o código e os dados podem ser analisados de maneira semelhante à investigação original de modo a obter os mesmos resultados; e ao nível do empiricamente reproduzível (também designado «replicável») , em que um investigador independente pode repetir um estudo usando os mesmos métodos, mas criando novos dados. 
 
 **Licença**
 
 * Uma licença permite que terceiros executem determinadas ações com um trabalho ou dados. A licença informa sobre os direitos de uso de um recurso (e.g., texto, dados, códigos-fonte).
 
-**Licença Creative Commons**
+**Licenças Creative Commons**
 
 * Um conjunto de licenças padronizadas que permite aos detendores de direitos de autor a concessão, por defeito,  de alguns direitos aos utilizadores. As licenças CC são amplamente utilizadas, simples de usar, legíveis por máquina e foram criadas por peritos legais. Existem várias licenças CC, cada uma das quais usa uma ou mais cláusulas. Algumas licenças são compatíveis com o Acesso Aberto, de acordo cno sentido de Budapeste (CC0 ou as detentoras das cláusulas BY, SA e ND), outras não (detentoras da cláusula NC). 
 
@@ -125,6 +121,10 @@
 **Métricas Alternativas**
 
 * Métricas Alternativas ou Complementares são formas alternativas de registar e medir o uso e o impacto do conhecimento académico. Em vez de contar apenas o número de vezes que um trabalho é citado na literatura académica, as métricas alternativas também medem e analisam as redes sociais (por exemplo, Facebook, Twitter, blogues, wikis, etc.), o download de documentos, links para publicações concluídas ou em processo de publicação, bem como outras utilizações da literatura científica, a fim de fornecer uma medida mais abrangente do seu alcance e impacto.
+
+**Mineração de dados**
+
+* Um processo analítico concebido para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
 
 **Partilha**
 
