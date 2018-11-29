@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/public.png" width="200" height="200" /> <img src="/Images/Icons/handson.png" width="200" height="200" />
 # Sobre a presente versão do Manual de Formação em Ciência Aberta
 
-Esta versão do Manual de Formação em Ciência Aberta (que ainda se encontra em fase de revisão) resulta da tradução do [Open Science Training Handbook](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN) inicialmente desenvolvido por um [grupo de 14 autores](./AbouttheAuthors&Facilitators.md), reunidos e apoiados pelo projeto FOSTERPlus, em Fevereiro de 2018.
+Esta versão do Manual de Formação em Ciência Aberta resulta da tradução do [Open Science Training Handbook](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN) inicialmente desenvolvido por um [grupo de 14 autores](./AbouttheAuthors&Facilitators.md), reunidos e apoiados pelo projeto FOSTERPlus, em Fevereiro de 2018.
 
 A presente tradução foi realizada por um grupo de 23 tradutores voluntários, sob a coordenação de responsáveis portugueses do projeto FOSTERPlus e um dos autores do Handbook original.
 
