@@ -25,9 +25,9 @@ Por favor considere fazer a referência bibliográfica quando usar o conteúdo d
 
 * https://doi.org/10.5281/zenodo.1212496, que é a forma citável com o DOI através da referência ao arquivo (menos compreensível) do livro.
 
-## Os autores e colaboradores deste manual colaborativo
+## Os autores, colaboradores e tradutores deste manual colaborativo
 
-Saiba mais sobre os autores e facilitadores do livro, suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, no [último capítulo do Manual](./08FichaTecnica) .  
+Saiba mais sobre os autores e facilitadores do livro, suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, bem como sobre os tradutores desta versão portuguesa no [último capítulo do Manual](./08FichaTecnica) .  
 
 ## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
@@ -51,4 +51,4 @@ Tentámos referenciar todas as nossas fontes, mas se por algum motivo nos esquec
 
 ## Financiamento
 
-Este projeto foi financiado pelo programa de investigação e inovação Horizonte 2020 da União Europeia, sob o acordo de subvenção número 741839.
+Este projeto foi financiado pelo programa de investigação e inovação Horizonte 2020 da União Europeia, projeto [FOSTER Plus](https://www.fosteropenscience.eu/about) (Fostering the practical implementation of Open Science in Horizon 2020 and beyond), sob o acordo de subvenção número 741839.
