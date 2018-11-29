@@ -80,7 +80,7 @@
 * Uso de elementos de design de jogos e de mecânica de jogos em contextos não relacionados com jogos, como a educação, onde podem ser usados para gerar um maior envolvimento.
 
 **Identificador Persistente (PID - Persistent Identifier)**
-* Um identificador persistente (também intitulado PID) é uma denominação (referência) única e estável de um recurso digital (e.g., dados de investigação) por meio da atribuição de um código que pode ser referenciado de forma persistente e explícita na Internet. 
+* Um identificador persistente (também intitulado PID) é uma denominação (referência) única e estável de um recurso digital (por exemplo, dados de investigação) por meio da atribuição de um código que pode ser referenciado de forma persistente e explícita na Internet. 
 
 **Impacto da Investigação**
 * Envolve aspetos académicos, económicos e sociais ou ainda uma combinação dos três. O impacto é a contribuição demonstrável que a pesquisa faz na mudança da compreensão e no avanço científico, método, teoria e aplicação através e nas disciplinas, e o papel mais amplo que desempenha fora do sistema de investigação. 
