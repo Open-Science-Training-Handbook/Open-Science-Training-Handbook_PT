@@ -113,7 +113,7 @@
 * Versão de um manuscrito que ainda não foi submetido a revisão formal por pares, distribuído com o intuito de receber feedback dos pares. 
 
 **Pré-registo**
-* Os investigadores têm a opção ou são convidados a enviar informação relevante sobre o seu estudo (e.g., fundamentos da investigação, hipóteses, desenho e estratégia analítica) para um registo público antes de iniciar o estudo. O pré-registo pode ajudar a combater o viés nos relatórios. 
+* Os investigadores têm a opção ou são obrigados a enviar informação relevante sobre o seu estudo (por exemplo, fundamentos da investigação, hipóteses, desenho e estratégia analítica) para um registo público antes de iniciar o estudo. O pré-registo pode ajudar a combater o viés nos relatórios. 
 
 **Propriedade Intelectual**
 * Um termo legal que se refere a criações próprias. Exemplos de propriedade intelectual incluem música, literatura, pintura, escultura, vídeo e outros trabalhos artísticos; descobertas e invenções; e frases, símbolos e designs.
