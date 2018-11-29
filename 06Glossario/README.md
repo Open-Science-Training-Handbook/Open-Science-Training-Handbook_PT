@@ -55,7 +55,7 @@
 **DOI (Digital Object Identifier/ Identificador de Objeto Digital)**
 * Uma cadeia de texto exclusiva usada para identificar objetos digitais, como artigos de revistas, conjuntos de dados ou versões de software de código aberto. Um DOI é um tipo de Identificador Persistente (PID - Persistent Identifier). 
 
-**Fator de Impactor**
+**Fator de Impacto**
 * Medida numérica que indica o número médio de citações de artigos publicados nos dois anos anteriores numa revista. É frequentemente usado como um indicador para a importância relativa de uma revista. Considera-se problemática a sua aplicação ao impacto de artigos individuais publicados numa revista. 
 
 **Ficheiro README**
