@@ -125,7 +125,7 @@
 * Processo em que um artigo de investigação é examinado por especialistas da comunidade antes da sua publicação. 
 
 **Revisão por pares Aberta**
-* Um termo abrangente para várias formas de sobreposição em que os modelos de revisão por pares podem ser adaptados de acordo com os objetivos da Ciência Aberta, incluindo a identidade aberta de revisores e autores e a publicação de relatórios de revisão, possibilitando uma maior participação no processo de revisão pelos pares. 
+* Um termo abrangente para várias formas sobrepostas nas quais os modelos de revisão por pares podem ser adaptados de acordo com os objetivos da Ciência Aberta, incluindo a identidade aberta de revisores e autores e a publicação de relatórios de revisão, possibilitando uma maior participação no processo de revisão pelos pares. 
 
 **Revista**
 * Série de artigos de investigação publicados, usualmente dividida em volumes e números.
