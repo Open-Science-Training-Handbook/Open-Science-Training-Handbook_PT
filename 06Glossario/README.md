@@ -64,11 +64,11 @@
 **Financiador de Investigação**
 * Instituto, organização ou órgão governamental que providencia apoio financeiro destinado à investigação. 
 
-**Formador**
-* Moderador e instrutor de uma formação, cujo papel é assegurar que os objetivos da formação são cumpridos, executar a prática e garantir o envolvimento de todos os formandos. 
-
 **Formação**
 * Formação é qualquer atividade organizada que ensine, informe ou desenvolva habilidades ou conhecimento sobre competências úteis específicas por intermédio de aprendizagem ativa e pró-ativa.  
+
+**Formador**
+* Moderador e instrutor de uma formação, cujo papel é assegurar que os objetivos da formação são cumpridos, executar a prática e garantir o envolvimento de todos os formandos. 
 
 **Formato de Formação**
 * Método de formação padronizado, convencionalmente assim designado, que é usado pelo formador e que inclui quaisquer das ferramentas pedagógicas necessárias (i.e., motivação / desmotivação, abordagens práticas, etc.). 
