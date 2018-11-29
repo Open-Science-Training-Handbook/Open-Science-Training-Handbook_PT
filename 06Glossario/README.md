@@ -107,7 +107,7 @@
 * Um processo analítico concebido para explorar dados em busca de padrões consistentes ou relações sistemáticas entre variáveis, transformando dados em informação para uso futuro.
 
 **Partilha**
-* Uso conjunto de um recurso ou espaço. Trata-se de um aspeto fundamental da investigação colaborativa. Como a maior parte da investigação tem uma autoria digital e é publicada digitalmente, o conteúdo digital resultante não é concorrencial e pode ser partilhado sem qualquer prejuízo para o criador original. 
+* Uso conjunto de um recurso ou espaço. Trata-se de um aspeto fundamental da investigação colaborativa. Como a maior parte da investigação tem  autoria e publicação digital, o conteúdo digital resultante não é concorrencial e pode ser partilhado sem qualquer prejuízo para o criador original. 
 
 **Preprint**
 * Versão de um manuscrito que ainda não foi submetido a revisão formal por pares, distribuído com o intuito de receber feedback dos pares. 
