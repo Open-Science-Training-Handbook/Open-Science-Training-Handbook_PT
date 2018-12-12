@@ -49,10 +49,10 @@ R: Não há resposta definitiva. Ainda não há selo de qualidade para materiais
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-Butcher, Neil (2015): A Basic Guide to Open Educational Resources (OER): [hdl.handle.net/11599/36](http://hdl.handle.net/11599/36)
+* Butcher (2015). A Basic Guide to Open Educational Resources (OER). [hdl.handle.net](http://hdl.handle.net/11599/36)
 
-Miao, Fengchun; Mishra, Sanjaya; McGreal, Rory (2016): Open Educational Resources: Policy, Costs and Transformation: [hdl.handle.net/11599/2306](http://hdl.handle.net/11599/2306)
+* Miao et al. (2016). Open Educational Resources: Policy, Costs and Transformation. [hdl.handle.net](http://hdl.handle.net/11599/2306)
 
-OECD (2007): Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris: [/dx.doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
+* OECD (2007). Giving Knowledge for Free: The Emergence of Open Educational Resources. OECD Publishing, Paris. [doi.org/10.1787/9789264032125-en](http://dx.doi.org/10.1787/9789264032125-en)
 
-Open Knowledge Foundation (2014): Open Education Handbook 2014: [education.okfn.org/handbooks/handbook/](https://education.okfn.org/handbooks/handbook/)
+* Open Knowledge Foundation (2014). Open Education Handbook 2014. [education.okfn.org](https://education.okfn.org/handbooks/handbook/)
