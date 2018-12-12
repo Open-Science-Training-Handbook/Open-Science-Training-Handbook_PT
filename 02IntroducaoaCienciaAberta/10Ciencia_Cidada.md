@@ -91,8 +91,8 @@ practitioners. Bürger Schaffen Wissen (GEWISS) publication. [PDF from buergersc
 
 * Panorâmica de projetos de ciência cidadã :
 
- * [https://crowdcrafting.org/](https://crowdcrafting.org/)
+  * [https://crowdcrafting.org/](https://crowdcrafting.org/)
  
- * [http://socientize.eu/](http://socientize.eu/)
+  * [http://socientize.eu/](http://socientize.eu/)
 
   * [https://www.zooniverse.org/projects](https://www.zooniverse.org/projects)
