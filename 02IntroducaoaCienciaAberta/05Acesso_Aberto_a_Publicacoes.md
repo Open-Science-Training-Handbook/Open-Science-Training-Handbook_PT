@@ -104,12 +104,11 @@ O futuro da comunicação académica pode ser discutido apresentando alguns dos 
 
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
-
-* [The Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page)
+* Björk (2017). Growth of hybrid open access, 2009–2016. _PeerJ_ 5:e3878 [doi.org/10.7717/peerj.3878](https://doi.org/10.7717/peerj.3878)
 
 * Piwowar H, Priem J, Larivière V, Alperin JP, Matthias L, Norlander B, Farley A, West J, Haustein S. \(2018\) The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles. _PeerJ_ 6:e4375 [https://doi.org/10.7717/peerj.4375](https://doi.org/10.7717/peerj.4375)
 
-* Björk B. \(2017\) Growth of hybrid open access, 2009–2016. _PeerJ_ 5:e3878 [https://doi.org/10.7717/peerj.3878](https://doi.org/10.7717/peerj.3878)
+* The Open Access Directory. [oad.simmons.edu/oadwiki](http://oad.simmons.edu/oadwiki/Main_Page)
 
 
 
