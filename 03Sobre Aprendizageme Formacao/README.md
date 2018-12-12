@@ -517,45 +517,45 @@ Exercícios semelhantes podem ser aplicáveis ao treino de diferentes audiência
 
 ### Leitura adicional
 
-**Sobrea a Taxonomia de Bloom:**
+**Sobre a Taxonomia de Bloom:**
 
-* [https://www.pearsoened.com/using-blooms-taxonomy-to-write-learning-outcomes/](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
-* [https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
+* Davis (2014). Using Bloom’s Taxonomy to Write Learning Outcomes. [pearsoened.com](https://www.pearsoned.com/using-blooms-taxonomy-to-write-learning-outcomes/)
+* Clinton Community College (1966-2017). List of Measurable Verbs Used to Assess Learning Outcomes. [clinton.edu](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)
 
-**Recursos/Exercícios para querbrar o gelo**
+**Recursos/Exercícios para quebrar o gelo**
 
-* [https://www.mindtools.com/pages/article/newLDR\_76.htm](https://www.mindtools.com/pages/article/newLDR_76.htm)
-* [http://documents.manchester.ac.uk/display.aspx?DocID=7582](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
-* [https://www.thebalance.com/top-ice-breakers-1918426](https://www.thebalance.com/top-ice-breakers-1918426)
+* Mindtools. Ice Breakers. Easing Group Contribution. [mindtools.com](https://www.mindtools.com/pages/article/newLDR_76.htm)
+* Students as Partners, Teaching, Learning and Support Office. Peer Support Icebreakers. [documents.manchester.ac.uk](http://documents.manchester.ac.uk/display.aspx?DocID=7582)
+* The balance careers. The 10 Best Icebreaker Activities for Any Work Event. Activities for Meetings, Training, and Team Building Sessions. [thebalance.com](https://www.thebalance.com/top-ice-breakers-1918426)
 
 **Referências**
 
-* Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, Marie K. Norman, Richard E. Mayer. [How learning works](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4.  
+* Ambrose, Bridges, DiPietro, Lovett, Norman and Mayer. How learning works. [Highlights summarized by Brent and Felder](http://bit.ly/2El88Im). Seven research-based principles for smart teaching";  ISBN: 978-0-470-48410-4. 
 
-* George Siemens \(2006\). [Knowing Knowledge](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
+* Dale (1969). Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, p.10.
 
-* [Flipped Class technique](https://thesecondprinciple.com/teaching-essentials/models-of-teaching/the-flipped-classroom/)
+* Döring (2008). Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\).
 
-* Dilly Fung, UCL Press \(2017\). [A Connected Curriculum for Higher Education](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
+* Fung (2017). A Connected Curriculum for Higher Education. UCL Press. [ucl.ac.uk](http://www.ucl.ac.uk/ucl-press/browse-books/a-connected-curriculum-for-higher-education)
 
-* Rowe, M. B. \(1986\). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50: [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
+* Felder and Brent (n.y.).  Active learning. An introduction. [PDF](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
 
-* Kirkpatrick, D.L., & Kirkpatrick, J.D. \(1994\). _Evaluating Training Programs_, Berrett-Koehler Publishers.
+* Kirkpatrick and Kirkpatrick (1994). Evaluating Training Programs, Berrett-Koehler Publishers.
 
-* R.M. Felder and R. Brent.  [Active learning. An introduction](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Tutorials/Active/Active-learning.pdf)
+* Mazur (2014). Peer Instruction for Active Learning. Serious science. [video](https://www.youtube.com/watch?v=Z9orbxoRofI)
 
-* Michael Prince - Does Active Learning Work? A Review of the Research \([PDF](https://drive.google.com/file/d/1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m/view)\).
+* Owen Wilson (2018). The Flipped Classroom. [thesecondprinciple.com](https://thesecondprinciple.com/teaching-essentials/models-of-teaching/the-flipped-classroom/)
 
-* Mazur's [video](https://www.youtube.com/watch?v=Z9orbxoRofI) on Peer Instruction for Active Learning 
+* Prince (2004). Does Active Learning Work? A Review of the Research. [PDF](https://drive.google.com/open?id=1trrxEgF7RLYw2FTCe82oxlXvfm_MfY7m)
 
-* Dale, Edgar. Audio-Visual Methods in Teaching, 3rd ed., Holt, Rinehart & Winston, New York, 1969, p.10.
+* Rowe (1986). Wait Time: Slowing Down May Be A Way of Speeding Up! Journal of Teacher Education, 37\(1\), 43–50. [doi.org/10.1177/002248718603700110](https://doi.org/10.1177/002248718603700110)
 
-* Klaus W. Döring: Handbuch Lehren und Trainieren in der Weiterbildung. Beltz Verlag \(Weinheim, Basel\) 2008.
+* Siemens (2006). Knowing Knowledge. [PDF](http://www.elearnspace.org/KnowingKnowledge_LowRes.pdf)
 
-Para um conhecimento mais aprofundado do assunto:
 
-* Knowles, Malcolm S, Elwood F Holton, and Richard A Swanson. The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann, 2011.
+For a deeper understanding of the matter:
 
+* Knowles, Holton, and Swanson (2011). The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development. Oxford: Butterworth-Heinemann.
 
 
 
