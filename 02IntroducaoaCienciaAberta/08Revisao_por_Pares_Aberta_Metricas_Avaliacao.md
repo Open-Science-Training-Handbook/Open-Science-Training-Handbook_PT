@@ -106,27 +106,31 @@ A:  A avaliação da investigação é tão justa quanto seus métodos e técnic
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* [Peer Review the Nuts and Bolts. A Guide for Early Career Researchers](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
+* Directorate-General for Research and Innovation (European Commission) (2017). Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
 
-* [Peer Reviewers’ Openness Initiative](https://opennessinitiative.org/)
+* Hicks et al. (2015) Bibliometrics: The Leiden Manifesto for research metrics. [doi.org/10.1038/520429a](www.doi.org/10.1038/520429a), [leidenmanifesto.org](http://www.leidenmanifesto.org/)
 
-* [Open Rev](https://www.openrev.org/)
+* Peer Review the Nuts and Bolts (2012). A Guide for Early Career Researchers. [PDF](http://senseaboutscience.org/wp-content/uploads/2016/09/peer-review-the-nuts-and-bolts.pdf)
 
-* [Peerage of Science](https://www.peerageofscience.org/)
 
-* [Make Data Count](https://makedatacount.org/)
+### Iniciativas e projetos
 
-* [OpenUP Hub](https://www.openuphub.eu/review)
+* Make Data Count. [makedatacount.org](https://makedatacount.org/)
 
-* [Leiden Manifesto for Research Metrics](http://www.leidenmanifesto.org/)
+* NISO Alternative Assessment Metrics \(Altmetrics\) Initiative. [niso.org](http://www.niso.org/standards-committees/altmetrics)
 
-* [Responsible Metrics](https://responsiblemetrics.org/)
+* Open Rev. [openrev.org](https://en.wikipedia.org/wiki/Open_Rev)
 
-* [NISO Alternative Assessment Metrics \(Altmetrics\) Initiative](http://www.niso.org/standards-committees/altmetrics)
+* OpenUP Hub. [openuphub.eu](https://www.openuphub.eu/review)
 
-* [Snowball Metrics](https://www.snowballmetrics.com/)
+* Peer Reviewers’ Openness Initiative. [opennessinitiative.org](https://opennessinitiative.org/)
 
-* Directorate-General for Research and Innovation (European Commission): Evaluation of Research Careers Fully Acknowledging Open Science Practices: Rewards, Incentives and/or Recognition for Researchers Practicing Open Science. Report, 14 November 2017: [doi.org/10.2777/75255](https://doi.org/10.2777/75255)
+* Peerage of Science. A free service for scientific peer review and publishing. [peerageofscience.org](https://www.peerageofscience.org/)
+
+* Responsible Metrics. [responsiblemetrics.org](https://responsiblemetrics.org/)
+
+* Snowball Metrics. Standardized research metrics - by the sector for the sector. [snowballmetrics.com](https://www.snowballmetrics.com/)
+
 
 
 
