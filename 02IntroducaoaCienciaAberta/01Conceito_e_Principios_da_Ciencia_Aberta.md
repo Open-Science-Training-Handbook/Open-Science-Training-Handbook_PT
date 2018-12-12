@@ -108,15 +108,13 @@ A: É melhor ter muita informação e lidar com isso, do que ter muito pouca e v
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* [Open Science: one term, five schools of thought](https://doi.org/10.1007/978-3-319-00026-8_2) \(Fecher and Friesike, 2014\).
+* European Commission's Directorate-General for Research & Innovation (RTD) (2016). Open innovation, Open Science, open to the world - a vision for Europe. [ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe)
 
-* [When will ‘Open Science’ become simply ‘science’?](https://doi.org/10.1186/s13059-015-0669-2) \(Watson, 2015\).
+* Fecher and Friesike (2014). Open Science: One Term, Five Schools of Thought. [doi.org/10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
 
-* [Open innovation, Open Science, open to the world - a vision for Europe](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe) \(2016\)
+* High Level Group (2017). Europe's future. Open innovation, Open Science, open to the world: reflections of the Research, Innovation and Science Policy Experts \(RISE\). [doi.org/10.2777/79895](https://doi.org/10.2777/79895) 
 
-* [Do you speak Open Science? Resources and tips to learn the language](https://doi.org/10.7287/peerj.preprints.2689v1) \(Masuzzo and Martens, 2017\).
+* Masuzzo and Martens (2017). Do you speak Open Science? Resources and tips to learn the language. [doi.org/10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
 
-* [Europe's future. Open innovation, Open Science, open to the world](https://doi.org/10.2777/79895): reflections of the Research, Innovation and Science Policy Experts \(RISE\) High Level Group \(2017\)
-
-
+* Watson (2015). When will ‘Open Science’ become simply ‘science’?. [doi.org/10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
 
