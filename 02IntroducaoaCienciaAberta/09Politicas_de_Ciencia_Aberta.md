@@ -71,13 +71,16 @@ Ao planear uma política é importante saber o que se pretende alcançar ou reso
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura Adicional
 
-* [Providing researchers with the skills and competencies they need to practise Open Science](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg) Report of the Working Group on Education and Skills under Open Science.
+* EC Working Group on Education and Skills under Open Science (2017). Providing researchers with the skills and competencies they need to practise Open Science. [ec.europa.eu](https://ec.europa.eu/research/openscience/index.cfm?pg=skills_wg).
 
-* Recursos disponíveis em [Pasteur4OA](http://www.pasteur4oa.eu/) e [LEARN](http://learn-rdm.eu)
+* Open Research Funders Group & SPARC. Open Policies 101. [PDF from orfg.org](https://static1.squarespace.com/static/5817749f8419c25c3b5b318d/t/5b75bfc1352f53d3f2e4409f/1534443459039/Grantee.pdf) 
 
-* Os cursos FOSTER  [Designing Successful Open Access and Open Data Policies: Introductory](https://www.fosteropenscience.eu/node/2081) e [Designing Successful Open Access and Open Data Policies: Intermediate](https://www.fosteropenscience.eu/node/2075)
+### Iniciativas e Projetos
 
-* [HowOpenIsIt? Guide to Research Funders Policies](http://www.orfg.org/resources/) do Open Research Funders Group & SPARC
+* FOSTER. Designing Successful Open Access and Open Data Policies: Introductory. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2081) 
 
+* FOSTER. Designing Successful Open Access and Open Data Policies: Intermediate. [fosteropenscience.eu](https://www.fosteropenscience.eu/node/2075)
 
+* LEARN. [learn-rdm.eu](http://learn-rdm.eu)
 
+* Pasteur4OA. [pasteur4oa.eu](http://www.pasteur4oa.eu/)
