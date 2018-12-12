@@ -146,37 +146,40 @@ O formador deverá ser capaz de considerar a atividade de formação no contexto
 ## <img src="/Images/Icons/magnifying_glass.png" width="150" height="150" />
 ### Leitura adicional
 
-* [Starting Open Projects From Scratch](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) (CC0, Crowdsourced by OpenCon attendees)
+* A Crowdsourced Resource by OpenCon attendees. Starting Open Projects From Scratch. [CC Zero Google Doc](https://docs.google.com/document/d/1qSXBZa3-uBKdkFCkukt5lxRsYoREWNYf0_2OpOnh3mQ/edit?usp=sharing) 
 
-* [SPARC author addendum](https://sparcopen.org/our-work/author-rights/) advocate for your own rights as an author with a journal
+* Bolick et al. (2017). How open access is crucial to the future of science. [doi.org/10.1002/jwmg.21216](https://doi.org/10.1002/jwmg.21216) (comment by authors: rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA)
 
-* Bolick et al. rebuttal article written in the Journal of Wildlife Management after a misleading / fear mongering article about OA: [https://kuscholarworks.ku.edu/handle/1808/22672](https://kuscholarworks.ku.edu/handle/1808/22672?utm_content=buffer40244&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* Clyburne-Sherin (FSCI2017). Advocating for transparency policies - a toolkit for researchers, staff, and librarians. [github.com](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
 
-* [Language of Protest](https://www.insidehighered.com/news/2015/11/02/editors-and-editorial-board-quit-top-linguistics-journal-protest-subscription-fees)
+*  JISC Pathfinder project Pathways to Open Access (n.y.). Advocating Open Access - a toolkit for librarians and research support staff. [PDF](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
 
-* Another example of a letter to a scholarly society advocating for Open Access: [Jackie Smith to the American Sociological Association](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) 
+* Jones (2015). Open science and its advocacy. [fosteropenscience.eu](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
 
-* [Defending the global knowledge commons](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
+* Kotter (n.y.). Kotter's 8-Step Change Model of Managementt. [study.com](http://study.com/academy/lesson/kotters-8-step-change-model-of-management.html)
 
-* [eLife Community webinar series ECRwednesday – Organising and advocating for early-career researcher](https://www.youtube.com/watch?v=uDi7EU_zKbQ)
+* Lingua / Glossa articles on their move away from Elsevier - their advocacy as editors with a publishing organization [Wikipedia](https://en.wikipedia.org/wiki/Lingua_(journal))
 
-* [Advocating for transparency policies - a toolkit for researchers, staff, and librarians](https://github.com/AllTrialsUSA/FSCI2017/blob/master/Transparency-advocacy-toolkit.md)
-
-* [Advocating Open Access - a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf)
-
-* [Open science and its advocacy](https://www.fosteropenscience.eu/content/open-science-and-its-advocacy)
-
-* [FOSTER Plus training materials](https://www.fosteropenscience.eu/trainers-materials)
-
-* [Open Science Leadership Workshop](https://github.com/mozillascience/open-science-leadership-workshop), Mozilla Science Lab.
-
-* [Strengthen Advocacy](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/) Capacity \(PATH\).
-
-* [Retraction Watch](http://retractionwatch.com/)
-
-* [8 Steps to Good Advocacy](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
+* Mozilla Science Lab (2015). Open Science Leadership Workshop. Working OpenProject Guide. [github.com](https://github.com/mozillascience/open-science-leadership-workshop)
 
 * [PASTEUR4OA/Advocacy Resources](http://www.pasteur4oa.eu/resources) 
 
+* Smith (2014). The Open Access Movement and Activism for the “Knowledge Commons”. [asanet.org](http://www.asanet.org/sites/default/files/savvy/footnotes/mayjun14/asaforum_0514.html) (comment by authors: example of a letter to a scholarly society advocating for Open Access) 
 
+* Smith (2015). Defending the global knowledge commons. [opendemocracy.net](https://www.opendemocracy.net/jackie-smith/defending-global-knowledge-commons)
+
+* SPARC*. Author Rights & the SPARC Author Addendum. Your work, your rights. [sparcopen.org](https://sparcopen.org/our-work/author-rights/)
+
+* Webinar Report: Organising and advocating (2018). How can early-career researchers make their voices heard? eLife ECRwednesday webinar. [elifesciences.org](https://elifesciences.org/inside-elife/c458eb7c/webinar-report-organising-and-advocating)
+
+* 8 Steps to Good Advocacy. [PDF](http://www.chpca.net/media/7413/8_Steps_to_Good_Advocacy.pdf)
+
+
+### Iniciativas e projetos
+
+* FOSTER Plus Project (2017-2019). Fostering the practical implementation of Open Science in Horizon 2020 and beyond. [fosteropenscience.eu](https://www.fosteropenscience.eu/about)
+
+* PATH. Strengthen Advocacy. [sites.path.org](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/)
+
+* Retraction Watch. [retractionwatch.com](http://retractionwatch.com/) 
 
