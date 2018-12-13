@@ -319,7 +319,7 @@ Plataformas Colaborativas</td>
   </tr>
 </table>
 
-##### **Exemplo 1: Alinhar! **
+##### **Exemplo 1: Alinhar!**
 
 * Formato, duração 
 
@@ -665,7 +665,7 @@ Plataformas Colaborativas</td>
 
     * O mesmo formato poderá ser facilmente adaptado para muitos outros elementos da Ciência Aberta, e.g., Acesso Aberto (porque não publicar em Acesso Aberto, etc.)
 
-##### **Exemplo 8: Bingo "Desculpas para não compartilhar dados de Investigação" **
+##### **Exemplo 8: Bingo "Desculpas para não compartilhar dados de Investigação"**
 
 * Formato, duração
 
@@ -911,7 +911,7 @@ Plataformas Colaborativas</td>
 
     * Não aplicável
 
-##### **Exemplo 14: Criar um fluxo de trabalho de análise de dados reprodutível **
+##### **Exemplo 14: Criar um fluxo de trabalho de análise de dados reprodutível**
 
 * Formato, duração
 
@@ -953,7 +953,7 @@ Plataformas Colaborativas</td>
 
     * O workshop pode ser alargado para introduzir conceitos adicionais da Ciência Aberta,  como sejam os Identificadores Persistentes para software (como atribuir um DOI do Zenodo ao repositório do Git), assim como para a integração de todos os aspetos sob uma plataforma comum (como o OSF). 
 
-##### **Exemplo 15: Escolha a versão correta para o repositório **
+##### **Exemplo 15: Escolha a versão correta para o repositório**
 
 * Formato, duração
 
@@ -996,7 +996,7 @@ Plataformas Colaborativas</td>
     * Pode ser adaptado a sessões de formação com investigadores usando os seus próprios artigos. 
 
 
-##### **Exemplo 16: Formatos de ficheiros abertos **
+##### **Exemplo 16: Formatos de ficheiros abertos**
 
 * Formato, duração
 
@@ -1031,7 +1031,7 @@ Plataformas Colaborativas</td>
     *  Também pode usar ferramentas da Web, tais como [PINGO] (http://trypingo.com) para a recolha de formatos de arquivo ou deixá-los anotar os seus formatos de arquivo numa folha de papel e recolhê-los, se não quiser usar post-its
     
 
-##### **Exemplo 17: Combinação de Licenças _Creative Commons_ **
+##### **Exemplo 17: Combinação de Licenças _Creative Commons_**
 
 * Formato, duração
 
@@ -1067,7 +1067,7 @@ Plataformas Colaborativas</td>
 
     * Use outras licenças.    
     
- ##### **Exemplo 18: Combinações de Recursos Educativos Abertos **
+ ##### **Exemplo 18: Combinações de Recursos Educativos Abertos**
 
 * Formato, duração
 
@@ -1113,7 +1113,7 @@ Plataformas Colaborativas</td>
 
     * Pode-se usar outras licenças, incluindo novos conteúdos ou definindo quais os conteúdos que devem constar do trabalho final. 
 
-##### **Exemplo 19: Revisão por pares aberta **
+##### **Exemplo 19: Revisão por pares aberta**
 
 * Formato, duração
 
@@ -1209,7 +1209,7 @@ Plataformas Colaborativas</td>
 
     * O conceito de uma votação por moedas ("os teus dois cêntimos") pode ser aplicado a outros a assuntos, assim como a distribuição de papeis numa discusssão num grupo pequeno. 
 
-##### **Exemplo 21: Tomar posição ** 
+##### **Exemplo 21: Tomar posição** 
 
 * Formato, duração
 
@@ -1360,46 +1360,47 @@ Uma última nota: muitas ferramentas e plataformas suportam práticas de ciênci
 
 Alguns recursos que listam ferramentas e plataformas de investigação:
 
-* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (todas as disciplinas)
+* [Connected Researchers](http://connectedresearchers.com/online-tools-for-researchers/) (all disciplines)
 
-* [DIRT Directory](http://dirtdirectory.org/) (Humanidades)
+* [DIRT Directory](http://dirtdirectory.org/) (Humanities)
 
-* [ResearchStash](https://www.researchstash.com/) (Ciências, Tecnologia e Medicina)
+* [ResearchStash](https://www.researchstash.com/) (Science, Technology and Medicine)
 
-* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (todas as disciplinas)
+* [400+ Tools and innovations in scholarly communication](http://bit.ly/innoscholcomm-list) (all disciplines)
 
-* [Tool combinations](https://tinyurl.com/toolcombinations-cb) (que ferramentas são habitualmente usadas em conjunto) [adequado a daltónicos]
+* [Tool combinations](https://tinyurl.com/toolcombinations-cb) (which tools are commonly used together) [colour-blind safe]
 
 ![image alt text](/Images/image_16.png)
-Figura x - Arco-íris das práticas de ciência aberta (disponível no Zenodo em diferentes formatos, incluindo diapositivos editáveis:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+Figure x - Rainbow of open science practices (available on Zenodo in different formats, including as editable slide:[10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025))
+
 
 #### Outros recursos
 
-* Open Science MOOC - recursos [https://opensciencemooc.eu/open-science-resources/](https://opensciencemooc.eu/open-science-resources/)
-
-* "Open Science, Open Data, Open Source" (2017) 21st century skills for the life sciences [http://osodos.org](http://osodos.org)
+* Ask Open Science. [ask-open-science.org](https://ask-open-science.org/)
 
 * Dicas para construir e publicar uma nova versão livro eletrónico/e-book são dadas no repositório do github [https://github.com/Pfern/OSODOS](https://github.com/Pfern/OSODOS) - Também disponível em GitHub Pages como website [https://pfern.github.io/OSODOS/SUMMARY](https://pfern.github.io/OSODOS/SUMMARY). PDF, e-Pub e versões Mobi foram disponibilizadas por Unglue.it [https://unglue.it/work/229980/](https://unglue.it/work/229980/)
 
-* Open Science Training Initiative - Graduate Training in Open Science. [http://www.opensciencetraining.com/](http://www.opensciencetraining.com/)
+* Digital Curation Centre. Because good research needs good data. [dcc.ac.uk](http://www.dcc.ac.uk)
 
-* MANTRA - formação em Gestão de Dados de Investigação [https://mantra.edina.ac.uk/](https://mantra.edina.ac.uk/)
+* Fernandes and Rutger (2017). Open Science, Open Data, Open Source. 21st century skills for the life sciences. [osodos.org](http://osodos.org)
 
-* Recursos educacionais em Gestão de Dados de Investigação [https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
+* Forschung und Daten managen (German information website about research data management).[forschungsdaten.info](https://www.forschungsdaten.info/)
 
-* Website com informação sobre gestão de dados de investigação:[ https://www.forschungsdaten.info/en/](https://www.forschungsdaten.info/)
+* MANTRA - Research Management Training. [mantra.edina.ac.uk](https://mantra.edina.ac.uk/)
 
-* Módulo de ensino a distância (Alemão e Francês):[ http://www.researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
+* Materials for ELIXIR-EXCELERATE Train The Trainer workshops and courses. [github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT) (*comment by authors: A complete repository of materials and methods, selected for training instructors, only a small part is specific to Bioinformatics*) 
 
-* Digital Curation Centre:[ ](http://www.dcc.ac.uk/)[http://www.dcc.ac.uk](http://www.dcc.ac.uk)
+* Open Science MOOC. [opensciencemooc.eu](https://opensciencemooc.eu/open-science-resources/)
 
-* Comunidade Zenodo  com materiais de formação abertos em Gestão de Dados de Investigação (RDM) [https://zenodo.org/communities/dcc-rdm-training-materials/](https://zenodo.org/communities/dcc-rdm-training-materials/)
+* Open Science Training Initiative. Graduate Training in Open Science. [opensciencetraining.com](http://www.opensciencetraining.com/)
 
-* Um repositório completo de materiais e métodos selecionados para formadores, dos quais uma pequena parte é específica da Bioinformática[https://github.com/TrainTheTrainer/EXCELERATE-TtT](https://github.com/TrainTheTrainer/EXCELERATE-TtT)
+* Research Data E-Learning Platform. (German and French) [researchdatamanagement.ch](http://www.researchdatamanagement.ch/)
 
-* Sewell, Claire. ‘Research Data Management: Activity Cards’, 23 November 2017. https://doi.org/10.17863/CAM.10074.
+* Research Data Management Educational Efforts. [docs.google.com](https://docs.google.com/spreadsheets/d/10RTW-nZk0x_mpQw2VAlttcc656MV9EeCaDe2lM4umb4/edit#gid=0)
 
-* [Open Science Q&A](https://openscience.uni-bielefeld.de/)
+* Research data management (RDM) open training materials. [Zenodo Community](https://zenodo.org/communities/dcc-rdm-training-materials/)
+
+* Sewell (2017). Research Data Management: Activity Cards. [doi.org/10.17863/CAM.10074](https://doi.org/10.17863/CAM.10074).
 
 ---------------------------------------------------------------------------------------------------------------
 
