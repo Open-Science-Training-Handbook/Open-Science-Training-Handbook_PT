@@ -189,11 +189,11 @@ A tabela abaixo fornece recomendações de base sobre diferentes tipos de forma�
   </tr>
 </table>
 
-
+03Sobre%20Aprendizageme%20Formacao#p%C3%BAblicos-alvo
 
 ### Audiência, oradores convidados e parceiros
 
-Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/tree/master/03Sobre%20Aprendizageme%20Formacao#p%C3%BAblicos-alvo) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
+Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](../03Sobre%20Aprendizageme%20Formacao#p%C3%BAblicos-alvo) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperação
@@ -207,7 +207,7 @@ Estabeleça parcerias com outros serviços ou departamentos da instituição ou 
 
 Num evento que se quer bem sucedido, é importante criar e manter um ambiente inclusivo e abrangente do ponto de vista de áreas de conhecimento e tipo de competência. 
 
-A equipa responsável pela formação deve ter a representação de diferentes identidades de género, disciplinas, origens raciais e regiões geográficas. [Mais informação sobre os formadores](/03Sobre%20Aprendizageme%20Formacao/README.md#expectativas-sobre-um-formador). Deve ser assegurado também que uma parte das vagas seja reservada para participantes de diferentes origens étnicas, identidades de género, disciplinas e regiões geográficas (ver [Envolvimento Inclusivo](/03Sobre%20Aprendizageme%20Formacao/README.md#envolvimento-inclusivo). Para saber mais sobre como tornar seu workshop inclusivo, consulte a [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
+A equipa responsável pela formação deve ter a representação de diferentes identidades de género, disciplinas, origens raciais e regiões geográficas. [Mais informação sobre os formadores](../03Sobre%20Aprendizageme%20Formacao/README.md#expectativas-sobre-um-formador). Deve ser assegurado também que uma parte das vagas seja reservada para participantes de diferentes origens étnicas, identidades de género, disciplinas e regiões geográficas (ver [Envolvimento Inclusivo](../03Sobre%20Aprendizageme%20Formacao/README.md#envolvimento-inclusivo). Para saber mais sobre como tornar seu workshop inclusivo, consulte a [Conference Planning Checklist by SPARC](https://sparcopen.github.io/opencon-dei-report/checklist.html).
 
 ## <img src="/Images/Icons/home.png" width="150" height="150" />
 ### Local
@@ -221,7 +221,7 @@ A sala de formação deve estar equipada de forma adequada (veja o capítulo do 
 ## <img src="/Images/Icons/break.png" width="150" height="150" />
 ### Duração
 
-A duração do curso depende dos conteúdos a transmitir. Deve haver uma estimativa clara do tempo necessário para cada módulo. Defina uma agenda ou cronograma, incluindo pausas para conversas e para apresentação prévia dos participantes, bem como tempo suficiente para almoços e intervalos. Preveja pontualidade nos horários de início e fim. [Consulte o capítulo Dar início à formação](/03Sobre%20Aprendizageme%20Formacao#dar-início-à-formação)). 
+A duração do curso depende dos conteúdos a transmitir. Deve haver uma estimativa clara do tempo necessário para cada módulo. Defina uma agenda ou cronograma, incluindo pausas para conversas e para apresentação prévia dos participantes, bem como tempo suficiente para almoços e intervalos. Preveja pontualidade nos horários de início e fim. [Consulte o capítulo Dar início à formação](../03Sobre%20Aprendizageme%20Formacao#dar-início-à-formação)). 
 
 Antes de calendarizar o evento, pense nos obstáculos que podem impedir ou induzir as pessoas a participar, escolhendo adequadamente a data e horário. Se o curso se realizar numa universidade, tenha em consideração o calendário escolar e os horários das aulas. Para atrair mais atenção e aumentar o número de participantes, considere a possibilidade de agendar o evento juntamente com uma conferência ou outro evento com destaque. 
 
@@ -456,7 +456,7 @@ Entreviste os restantes formadores/oradores para uma auto-avaliação sobre a fo
 
 ### Avaliação
 
-Envie aos participantes um inquérito de avaliação da formação (ver [Avaliação da Formação](/03Sobre%20Aprendizageme%20Formacao#avaliação-da-formação)) ou distribua um formulário de avaliação durante o evento, e certifique-se de que as pessoas o entregam no final.
+Envie aos participantes um inquérito de avaliação da formação (ver [Avaliação da Formação](../03Sobre%20Aprendizageme%20Formacao#avaliação-da-formação)) ou distribua um formulário de avaliação durante o evento, e certifique-se de que as pessoas o entregam no final.
 
 Leia e contabilize os resultados dos formulários de avaliação. Faça a sua própria auto-avaliação. 
 
