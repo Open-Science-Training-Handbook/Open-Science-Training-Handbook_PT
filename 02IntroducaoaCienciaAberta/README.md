@@ -5,9 +5,9 @@ Este capítulo tem como objetivo contextualizar e apresentar os pontos principai
 
 Cada seção está estruturada de modo a incluir uma breve descrição do tópico, uma explicação da sua relevância para a Ciência Aberta, os principais objetivos de aprendizagem  que devem ser considerados em contexto formativo, os principais componentes  (conhecimentos e competências) que devem ser implicados, algumas perguntas/ obstáculos/ equívocos mais frequentes no âmbito desse tópico e, finalmente, os resultados esperados de uma sessão de formação e algumas sugestões de leitura adicional.
 
-## Chapters
+## Capítulos
 
-* [1. Conceito e Princípios da Ciência Aberta](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/02IntroducaoaCienciaAberta/01Conceito_e_Principios_da_Ciencia_Aberta.md)
+* [1. Conceito e Princípios da Ciência Aberta](01Conceito_e_Principios_da_Ciencia_Aberta.md)
 * [2. Dados e Materiais de Investigação Abertos](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md)
 * [3. Software Aberto Usado na Investigação e Software de Código Aberto](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na%20Investigacao_e_Software_de_Codigo_Aberto.md)
 * [4. Investigação Reprodutível e Análise de Dados](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/02IntroducaoaCienciaAberta/04Investigacao_%20reprodutivel_e_analise_de_dados.md)
