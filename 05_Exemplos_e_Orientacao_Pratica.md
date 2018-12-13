@@ -14,8 +14,7 @@ Recursos Educativos Abertos para que outros formadores os possam reutilizar e ad
 A Rede de Ciência Aberta de Göttingen, um grupo de investigadores e de bibliotecários que desenvolvem práticas de ciência aberta e de partilha de conhecimento, 
 organizam regularmente estes encontros nos quais vários tópicos da ciência aberta são discutidos. A rede reúne pessoas interessadas em assuntos relativos à Ciência Aberta no Campus de Göttingen,  estando aberta a qualquer pessoa.  Tornaram-se 
 bastante populares atraindo académicos de vários domínios científicos ansiosos por discutir as suas experiências de educação científica aberta e por aprender sobre novos métodos, ferramentas e práticas.  Os temas são apresentados por oradores convidados e, de seguida, pequenos grupos de discussão procuram aprofundar os temas abordados. 
-Mais informação: [https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-
-science/)
+Mais informação: [https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science/](https://www.sub.uni-goettingen.de/en/electronic-publishing/open-science)
 
 **Grupos de estudo Mozilla** (um conjunto de reuniões de 2–3 horas)
 
