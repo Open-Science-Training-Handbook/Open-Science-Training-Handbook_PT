@@ -3,7 +3,7 @@
 
 Em fevereiro de 2018, um grupo de catorze autores reuniram-se na Biblioteca Nacional Alemã de Ciência e Tecnologia (Technische Informationsbibliothek - TIB), em Hanover, para criar um manual aberto e vivo sobre formação em Ciência Aberta. As formações de elevada qualidade são fundamentais quando se pretende uma mudança cultural em direção à implementação dos princípios da Ciência Aberta. Os recursos de formação são um suporte fundamental para instrutores e formadores. O Manual de Formação em Ciência Aberta será um recurso chave e um primeiro passo para o desenvolvimento de programas curriculares e na educação contínua em Acesso Aberto e Ciência Aberta. Apoiando e interligando uma comunidade emergente na área da Ciência Aberta que deseja transmitir o seu saber e funcionar como multiplicadora do conhecimento, este manual irá enriquecer as atividades de formação e desbloquear o potencial desta comunidade.
 
-Ao partilhar a sua experiência e perícia na difusão dos princípios da Ciência Aberta, os autores ([ver abaixo](#the-authors-and-the-book-sprint-facilitators)\) produziram um recurso educativo aberto orientado para o ensino prático. O objetivo fundamental deste novo manual não é divulgar as ideias da Ciência Aberta mas mostrar **como** divulgar estas ideias de forma eficaz. O formato de um livro elaborado rápida e colaborativamente (book sprint) maximizou a criatividade e a inovação e assegurou a produção de um recurso valioso em apenas alguns dias.
+Ao partilhar a sua experiência e perícia na difusão dos princípios da Ciência Aberta, os autores ([ver abaixo](#Os-autores,-colaboradores-e-tradutores-deste-manual-colaborativo)\) produziram um recurso educativo aberto orientado para o ensino prático. O objetivo fundamental deste novo manual não é divulgar as ideias da Ciência Aberta mas mostrar **como** divulgar estas ideias de forma eficaz. O formato de um livro elaborado rápida e colaborativamente (book sprint) maximizou a criatividade e a inovação e assegurou a produção de um recurso valioso em apenas alguns dias.
 
 Este manual pretende apoiar os formadores em Ciência Aberta juntando um conjunto de métodos, técnicas e práticas. O resultado pretendido é que seja um guia útil em como divulgar o conhecimento sobre os princípios da Ciência Aberta às nossas redes, instituições, colegas e estudantes. Irá igualmente instruir e inspirar os formadores para a criação de sessões envolventes e de grande qualidade. Abordando desafios e fornecendo soluções, irá fortalecer a comunidade de formadores em Ciência Aberta que se encontram num processo de autoeducação, autoinformação e autoinspiração.
 
@@ -27,7 +27,7 @@ Por favor considere fazer a referência bibliográfica quando usar o conteúdo d
 
 ## Os autores, colaboradores e tradutores deste manual colaborativo
 
-Saiba mais sobre os [autores e facilitadores do livro](08FichaTecnica/AbouttheAuthors&Facilitators.md), suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, bem como sobre os [tradutores e revisores desta versão portuguesa](./08FichaTecnica) no último capítulo do Manual.  
+Saiba mais sobre os [autores e facilitadores do livro](./08FichaTecnica/AbouttheAuthors&Facilitators.md), suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, bem como sobre os [tradutores e revisores desta versão portuguesa](./08FichaTecnica/README.md) no último capítulo do Manual.  
 
  ## <img src="/Images/Icons/heart.png" width="150" height="150" />	
  
