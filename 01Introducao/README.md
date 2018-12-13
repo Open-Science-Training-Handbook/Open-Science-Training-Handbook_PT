@@ -35,7 +35,7 @@ De acordo com [FOSTER taxonomy](https://www.fosteropenscience.eu/taxonomy/term/7
 
 Este manual foi concebido de forma modular. Sinta-se à vontade para escolher capítulos e saltar outros que possam não ser relevantes para si ou para a sua formação.
 
-O [Capítulo 2](02IntroducaoaCienciaAberta/README.md) centra-se no conteúdo da sua formação. Todos os tópicos relativos à Ciência Aberta são apresentados e explicados nesta parte do manual. Já está familiarizado com um ou dois tópicos? Ótimo, analise se existem outros tópicos que pode ainda não conhecer. Mesmo que não esteja a planear formações sobre esses tópicos irá perceber que os mesmos serão úteis, visto que existe alguma sobreposição entre os tópicos sobre a Ciência Aberta.
+O [Capítulo 2](./02IntroducaoaCienciaAberta/README.md) centra-se no conteúdo da sua formação. Todos os tópicos relativos à Ciência Aberta são apresentados e explicados nesta parte do manual. Já está familiarizado com um ou dois tópicos? Ótimo, analise se existem outros tópicos que pode ainda não conhecer. Mesmo que não esteja a planear formações sobre esses tópicos irá perceber que os mesmos serão úteis, visto que existe alguma sobreposição entre os tópicos sobre a Ciência Aberta.
 
 Se tem pouco ou nenhum tipo de conhecimento prévio sobre formação em geral, por favor consulte o [Capítulo 3: Sobre Aprendizagem e Formação](03Sobre%20Aprendizageme%20Formacao/README.md). Este capítulo oferece uma visão geral das técnicas de formação, além de dicas práticas para construir o seu plano de formação. Se já tem alguma experiência, pode também utilizá-lo não só para reciclar os seus conhecimentos, mas também para conhecer outros tipos de abordagem ao nível do ensino.   
 
