@@ -274,7 +274,7 @@ Existem várias estratégias que podem ser empregues durante toda a ação de fo
 ## 
 ## Guia prático
 
-Poderá encontrar mais informação sobre o planeamento concreto e a execução de uma ação de formação sobre Ciência Aberta nos capítulos sobre [Aspectos Organizativos](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/tree/master/04AspetosOrganizativos) e [Exemplos e Orientação Prática](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/05_Exemplos_e_Orientacao_Pratica.md).
+Poderá encontrar mais informação sobre o planeamento concreto e a execução de uma ação de formação sobre Ciência Aberta nos capítulos sobre [Aspectos Organizativos](../04AspetosOrganizativos) e [Exemplos e Orientação Prática](../05_Exemplos_e_Orientacao_Pratica.md).
 
 ## <img src="/Images/Icons/pen_paper.png" width="150" height="150" />
 
@@ -321,7 +321,7 @@ A ideia no backward design é ensinar até ao “ponto final” ou até serem al
 
 Antes de começar a ensinar o formador terá que recolher e preparar conteúdos. Atualmente os conteúdos estão disponíveis em massa e o problema reside menos em encontrar ou criar conteúdos, e mais em encontrar conteúdos adequados ou adequar os conteúdos encontrados às necessidades e capacidades do público alvo.
 
-Por favor consulte o capítulo sobre [Exemplos e Orientação Prática](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT/blob/master/05_Exemplos_e_Orientacao_Pratica.md) que contém informação útil acerca de como adotar, adaptar e desenvolver conteúdos.
+Por favor consulte o capítulo sobre [Exemplos e Orientação Prática](../05_Exemplos_e_Orientacao_Pratica.md) que contém informação útil acerca de como adotar, adaptar e desenvolver conteúdos.
 
 #### Redução de conteúdos
 
