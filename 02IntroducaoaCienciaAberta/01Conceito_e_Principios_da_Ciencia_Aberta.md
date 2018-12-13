@@ -42,7 +42,7 @@ A Ciência Aberta, como definida anteriormente, engloba um grande número de  po
 
 ## <img src="/Images/Icons/brain.png" width="150" height="150" /><img src="/Images/Icons/gears.png" width="150" height="150" />
 
-![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles.png)
+![](/Images/02%20Open%20Science%20Basics/02_open_concepts_and_principles_pt.png)
 
 #### Conhecimentos e Competências 
 * A Ciência Aberta é o movimento que ajuda a tornar os resultados da investigação académica mais acessíveis, incluindo código, dados e artigos científicos. 
