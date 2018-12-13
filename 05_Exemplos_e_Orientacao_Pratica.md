@@ -69,7 +69,7 @@ Várias universidades em toda a Europa organizam escolas de verão com a duraç�
 
 * Formato, duração 
 
-* Tema \([ver Introdução à Ciência Aberta](/02OpenScienceBasics/README.md)\)
+* Tema \([ver Introdução à Ciência Aberta](02OpenScienceBasics/README.md)\)
 
 * Objetivos de aprendizagem  
 
@@ -869,7 +869,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Software Aberto Usado na Investigação e Software de Código Aberto](/02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na Investigacao_e_Software_de_Codigo_Aberto.md)
+    * [Software Aberto Usado na Investigação e Software de Código Aberto](02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na Investigacao_e_Software_de_Codigo_Aberto.md)
 
 * Objetivos de aprendizagem
 
@@ -919,7 +919,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Investigação reprodutível e análise de dados](/02IntroducaoaCienciaAberta/04Investigacao_ reprodutivel_e_analise_de_dados.md)
+    * [Investigação reprodutível e análise de dados](02IntroducaoaCienciaAberta/04Investigacao_ reprodutivel_e_analise_de_dados.md)
 
 * Objetivos de aprendizagem 
 
@@ -961,7 +961,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Acesso Aberto a Publicações](/02IntroducaoaCienciaAberta/05Acesso_Aberto_a_Publicacoes.md)
+    * [Acesso Aberto a Publicações](02IntroducaoaCienciaAberta/05Acesso_Aberto_a_Publicacoes.md)
 
 * Objetivos de aprendizagem
 
@@ -1004,7 +1004,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Licenciamento Aberto e Formatos de Ficheiros](/02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
+    * [Licenciamento Aberto e Formatos de Ficheiros](02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
 
 * Objetivos de aprendizagem:
 
@@ -1039,7 +1039,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Licenciamento Aberto e Formatos de Ficheiros](/02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
+    * [Licenciamento Aberto e Formatos de Ficheiros](02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
 
 * Objetivos de aprendizagem:
 
@@ -1075,9 +1075,9 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Licenciamento Aberto e Formatos de Ficheiros](/02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
+    * [Licenciamento Aberto e Formatos de Ficheiros](02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
 
-    * [Recursos Educativos Abertos](/02IntroducaoaCienciaAberta/11Recursos_Educativos_Abertos.md)
+    * [Recursos Educativos Abertos](02IntroducaoaCienciaAberta/11Recursos_Educativos_Abertos.md)
 
 * Objetivos de aprendizagem
 
@@ -1121,7 +1121,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Revisão por Pares Aberta, Métricas e Avaliação](/02IntroducaoaCienciaAberta/08Revisao_por_Pares_Aberta_Metricas_Avaliacao.md)
+    * [Revisão por Pares Aberta, Métricas e Avaliação](02IntroducaoaCienciaAberta/08Revisao_por_Pares_Aberta_Metricas_Avaliacao.md)
 
 * Objetivos de aprendizagem
 
@@ -1159,7 +1159,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Revisão por Pares Aberta, Métricas e Avaliação](/02IntroducaoaCienciaAberta/08Revisao_por_Pares_Aberta_Metricas_Avaliacao.md)
+    * [Revisão por Pares Aberta, Métricas e Avaliação](02IntroducaoaCienciaAberta/08Revisao_por_Pares_Aberta_Metricas_Avaliacao.md)
 
 * Objetivos de aprendizagem
 
@@ -1217,7 +1217,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Políticas de Ciência Aberta](/02IntroducaoaCienciaAberta/09Politicas_de_Ciencia_Aberta.md)
+    * [Políticas de Ciência Aberta](02IntroducaoaCienciaAberta/09Politicas_de_Ciencia_Aberta.md)
 
 * Objetivos de aprendizagem 
 
@@ -1277,9 +1277,9 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Ciência Cidadã](/02IntroducaoaCienciaAberta/10Ciencia_Cidada.md)
+    * [Ciência Cidadã](02IntroducaoaCienciaAberta/10Ciencia_Cidada.md)
 
-    * [Plataformas Colaborativas](/02IntroducaoaCienciaAberta/07Plataformas_Colaborativas.md)
+    * [Plataformas Colaborativas](02IntroducaoaCienciaAberta/07Plataformas_Colaborativas.md)
 
 * Objetivos de aprendizagem 
 
@@ -1301,7 +1301,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Defesa e promoção da Ciência Aberta](/02IntroducaoaCienciaAberta/12Defesa_Promocao_CienciaAberta.md)
+    * [Defesa e promoção da Ciência Aberta](02IntroducaoaCienciaAberta/12Defesa_Promocao_CienciaAberta.md)
 
 * Objetivos de aprendizagem
 
