@@ -596,7 +596,7 @@ Plataformas Colaborativas</td>
 
     * Uma mesa com capacidade para 6-8 pessoas
 
-##### **Exemplo 6: O que são dados de investigação para mim?*
+##### **Exemplo 6: O que são dados de investigação para mim?**
 
 * Formato, duração
 
