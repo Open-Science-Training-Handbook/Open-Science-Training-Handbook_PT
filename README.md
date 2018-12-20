@@ -9,20 +9,20 @@ Este manual pretende apoiar os formadores em Ciência Aberta juntando um conjunt
 
 ## Ajude-nos a melhorar o manual
 
-Agradecemos os comentários e opiniões de todas as pessoas, independentemente da sua área de competência ou formação. A forma mais fácil de o fazer é deixar um comentário [aqui](https://book.fosteropenscience.eu/) clicando em qualquer parágrafo com o apontador do rato e clicando depois no sinal “mais” que aparece junto desse parágrafo. Se não funcionar, pode considerar usar [hypothes.is](https://via.hypothes.is/https://open-science-training-handbook.gitbook.io/book). Poderá ainda usar a funcionalidade “Pull request” (que equivale a propor modificações) dentro do website ou aplicação Gitbook, ou com outra aplicação. O conteúdo do manual é mantido no [repositório GitHub](https://github.com/Open-Science-Training-Handbook).
+Agradecemos os comentários e opiniões de todas as pessoas, independentemente da sua área de competência ou formação. A forma mais fácil de o fazer é [contactar-nos](mailto:openaccess@sdum.uminho.pt). Poderá ainda usar a funcionalidade “Pull request” (que equivale a propor modificações) dentro do website ou aplicação Gitbook, ou com outra aplicação. O conteúdo do manual é mantido no [repositório GitHub](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_PT).
 
 ## Vamos fazer juntos uma formação sobre Ciência Aberta
 
-Está interessado em organizar ou participar em formações ou webinars que tiram partido do Manual de Formação em Ciência Aberta? Contacte-nos em  [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) – adoraríamos receber o seu contacto.
+Está interessado em organizar ou participar em formações ou webinars que tiram partido do Manual de Formação em Ciência Aberta? Contacte-nos em  [openaccess@sdum.uminho.pt](mailto:openaccess@sdum.uminho.pt) – adoraríamos receber o seu contacto.
 
 ## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
 ## Como referenciar o manual
 
 Por favor considere fazer a referência bibliográfica quando usar o conteúdo deste manual. Para referenciar este manual recomendamos a menção a: 
-
+<!-- 
 * https://foster.gitbook.io/manual-de-formacao-em-ciencia-aberta/, que é a forma mais amigável para ler este livro  (também disponível em [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) e [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), para comentar ou propor alterações, _ou_ 
-
+-->
 * https://doi.org/10.5281/zenodo.1212496, que é a forma citável com o DOI através da referência ao arquivo (menos compreensível) do livro.
 
 ## Os autores, colaboradores e tradutores deste manual colaborativo
@@ -42,7 +42,7 @@ Saiba mais sobre os [autores e facilitadores do livro](./08FichaTecnica/Aboutthe
  ## Declaração de direitos de autor 	
  
  O Manual de Formação em Ciência Aberta é um Recurso Educativo Aberto, pelo que é disponibilizado sob a licença [Creative Commons Dedicação ao Domínio Público \(CC0 1.0 Universal\)](https://creativecommons.org/publicdomain/zero/1.0/). Não é necessário obter permissão para reutilizar e copiar informação deste manual. No entanto, alguns materiais referidos neste livro poderão estar protegidos por direitos de autor – nesses casos será dada indicação no texto.  	
- Tentámos referenciar todas as nossas fontes, mas se por algum motivo nos esquecemos de atribuir os créditos devidos, tal não foi feito com intenção maliciosa. Poderá contactar-nos pelo endereço eletrónico [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) no caso de haver correções a fazer.	
+ Tentámos referenciar todas as nossas fontes, mas se por algum motivo nos esquecemos de atribuir os créditos devidos, tal não foi feito com intenção maliciosa. Poderá contactar-nos pelo endereço eletrónico [openaccess@sdum.uminho.pt](mailto:openaccess@sdum.uminho.pt) no caso de haver correções a fazer.	
  
  ## Financiamento	
  
