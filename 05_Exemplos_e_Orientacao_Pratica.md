@@ -316,6 +316,27 @@ Plataformas Colaborativas</td>
     <td>Ciência Cidadã</td>
     <td>individualmente ou em pares</td>
     <td>60 min</td>
+     </tr>
+  <tr>
+   <td>25</td>
+    <td>A armadilha da publicação (em progresso)</td>
+    <td>Acesso Aberto a Publicações</td>
+    <td>pequenos grupos</td>
+    <td>2 horas</td>
+  </tr>
+   <tr>
+    <td>26</td>
+    <td>(em progresso)</td>
+    <td>Dados e Materiais de Investigação Abertos</td>
+    <td>pequenos grupos</td>
+    <td>4 dias (5 horas/dia)</td>
+  </tr>
+   <tr>
+    <td>27</td>
+    <td>Train-the-trainer card game for Open Science training</td>
+    <td>Defesa e Promoção da Ciência Aberta</td>
+    <td>pequenos grupos</td>
+    <td>2 horas</td>
   </tr>
 </table>
 
@@ -1336,8 +1357,7 @@ Plataformas Colaborativas</td>
 * Como adaptar para outros objetivos
 
     * Este exercício pode ser focado em aspetos específicos da ciência aberta.
-    
-
+   
 ##### **Exemplo 24: Configurar um projeto OSF e vincular a outras plataformas**
 
 * Crie um ambiente colaborativo OSF de dados para publicação.
@@ -1348,6 +1368,133 @@ Plataformas Colaborativas</td>
 
     * Obtenha um DOI e um identificador ARK para o seu projeto.
 
+##### **Example 25: The publishing trap - in progress**
+* Format, time needed 
+
+    * Small group exercise, 2 h
+
+* Topic 
+
+    * [Open Access to Published Research Results](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/05OpenAccessToPublishedResearchResults.md)
+
+* Learning objectives 
+   * "The game lets you explore the impact of scholarly communications choices and discuss the role of open access in research by following the lives of four researchers, from doctoral research to their academic legacies." [blogs.kent.ac.uk](https://blogs.kent.ac.uk/osc/2017/10/09/publishing-trap/)
+
+* Exercise description
+
+   * "It is played by four teams of up to four people – sat around a game board and using a playbook to guide the decisions the teams must make. The workshop leader acts as a host and presents the scenarios to the teams during each round. Each round involves making three decisions about publishing choices. After hearing the scenario, each team chooses from the pre-determined options. At the end of each round, the teams discuss the decisions they have reached and are asked to justify their choices." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+   
+* Materials and tools needed
+
+   * The board, cards, booklets, points and other object has to be downloaded, printed and cut out. They plan to also have a professionally produced game available to purchase. Materials are available here: [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/the-publishing-trap-resources/)
+
+* Level of prior knowledge needed
+   
+   * "The Publishing Trap is aimed at early career researchers and academics, as well as anyone who has a vested interested in understanding how access to information works and how the whole scholarly communication system in higher education operates." [copyrightliteracy.org](https://copyrightliteracy.org/resources/the-publishing-trap/)
+
+* Things to bear in mind
+   
+   * Maybe stimulate discussions during the game play
+   
+* How to adapt for other purposes
+
+* Licensing conditions
+   
+   * The beta version of the game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Licence.
+   
+   
+##### **Example 26: - in progress**
+
+* Format, time needed 
+
+    * Small groups, 4 days (5 hours/day)
+
+* Topic 
+
+    * [Open Research Data and Materials](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/02OpenResearchDataAndMaterials.md)
+
+* Learning objectives 
+   
+   * The participants understand the basics of open data and reproducible research, understand the stages to setup a research data management plan, and can build their own data repository. 
+
+* Exercise description
+
+1. the knowledge about repository and licensing
+2. data assessment: types, sum, sensitivity
+3. setting up a research data management plan using DMPtool
+4. setting up an OSF repository
+5. using Git for version control
+6. integrating GitHub, Google Drive, and other services to OSF project 
+7. using R, R Studio, and R Markdown to create a reproducible research
+8. exercise in creating a citizen science project 
+
+* Materials and tools needed
+
+   * Registration of: ORCID, OSF, GitHub, and DMPTool
+   * Downloading and installing: Git, R, and R Studio
+
+* Level of prior knowledge needed
+
+   * A basic knowledge in R, R Studio, and Git would be a plus.
+   
+* Things to bear in mind
+
+   * He/she may have to put more time in explaining the concept of open data and why people should do it. Most debates occur in this preliminary stage.
+
+* How to adapt for other purposes
+
+   * The exercise is made especially for geo/spatial sciences, but most part of it can used for any science, including citizen science project.
+   
+ * Licensing conditions
+ 
+   * CC BY - [Dasapta Erwin Irawan](dasaptaerwin@gmail.com), INArxiv, Institut Teknologi Bandung; [Willem Vervoort](willem.vervoort@sydney.edu.au), The University of Sydney; [Gene Melzack](gene.melzack@sydney.edu.au), The University of Sydney
+
+
+##### **Example 27: Train-the-trainer card game for Open Science training**
+
+* Format, time needed 
+
+    * Small groups, 2 hours
+
+* Topic 
+
+    * [Open Advocacy](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/blob/master/02OpenScienceBasics/12OpenAdvocacy.md)
+
+* Learning objectives 
+
+   * Trainers can use this game to facilitate ‘train-the-trainer’ workshops. Participants design a usable framework for a training – which will they deliver themselves at a later stage -  on (a) topic(s) of their choice. The card game offers the participants the option to preselect audience type, audience size, training type and audience knowledge level. In addition, two ‘unforeseen’ circumstances can be added: audience mood, and ‘trouble’ (uh-oh!).  Apart from going home with a usable design for a training, the audience of this workshop will also benefit from the input and experience of the other participants.  
+
+* Exercise description
+
+   * INSTRUCTIONS: 
+      * Have each group pick a card (blind) determining: audience type, audience size, audience knowledge level and training type. It is possible that the different cards turn out a training situation that is impossible or that is not in line with to the interests of the group. It can be useful to allow some flexibility and allow people to change cards or switch cards with another group. In most cases, there is an empty card or an ‘other’ card available as well, allowing people to modify the exercise according to their own needs. 
+      * Hand out the persona pages: every member of the group should create one persona according to the conditions laid out on the cards (no longer than 15 mins). 
+      * The group has 1,5 hour to prepare the training according to the conditions laid out by the cards, keeping in mind their target audience(s), with help of the persona pages created. 
+      * Have each group present their training (take note: they don’t have to give the actual training, they only have to describe what they will do!) . Ask the other groups to give feedback afterwards: Is the proposed training suitable for the conditions laid out by the cards? What would they do differently? Do they have any experiences that they can share?
+      * Extra challenge: How would each group deal with unexpected/unpredictable circumstances during the training? Right before their presentation, each group picks (blind) an 'audience mood' card and a 'trouble' card and gives them to the moderator, who will either during the presentation or afterwards discuss these cards with the entire group – allowing the audience to learn from the experience of their colleagues.
+
+* Materials and tools needed
+
+   * https://www.fosteropenscience.eu/node/2570
+   
+   * You can download the files in pdf and png format via this public dropbox link: https://www.dropbox.com/sh/k314ebvqpb6mqq8/AAABEcJqYF_2PYJxqmYf3mmna?dl=0&fbclid=IwAR0DBmnArU8raKlaoJa7RKPEGRNEv2y74PQRR2Ft_y4Oy7DLfdawF_n5LbQ
+
+* Level of prior knowledge needed
+
+   * Participants are expected to be knowledgeable about the topic(s) they will create the training about
+
+* Things to bear in mind
+
+   * Timekeeping is essential; limit the time people will work on persona's and training design. Clarify that the presentation should be a description of all the elements of the training they have designed, not actually giving the training. When evaluating with the group, make sure everybody gives input.
+
+* How to adapt for other purposes
+
+   * In principle, all parameters can be adapted and changed to suit a specific training, by creating new cards, new categories, or by removing existing ones. 
+   
+* Licensing conditions
+
+   * CC BY-SA 4.0. Creator: [Gwen Franck](gwenfranckgcv@gmail.com)
+   
 ### Recursos
 
 #### Que ferramentas e plataformas usar/recomendar?
