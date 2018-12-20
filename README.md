@@ -21,7 +21,7 @@ Está interessado em organizar ou participar em formações ou webinars que tira
 
 Por favor considere fazer a referência bibliográfica quando usar o conteúdo deste manual. Para referenciar este manual recomendamos a menção a: 
 
-* https://book.fosteropenscience.eu/, que é a forma mais amigável para ler este livro  (também disponível em [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) e [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), para comentar ou propor alterações, _ou_ 
+* https://foster.gitbook.io/manual-de-formacao-em-ciencia-aberta/, que é a forma mais amigável para ler este livro  (também disponível em [PDF](https://legacy.gitbook.com/download/pdf/book/open-science-training-handbook/book), [ePub](https://legacy.gitbook.com/download/epub/book/open-science-training-handbook/book) e [Mobi](https://legacy.gitbook.com/download/mobi/book/open-science-training-handbook/book)), para comentar ou propor alterações, _ou_ 
 
 * https://doi.org/10.5281/zenodo.1212496, que é a forma citável com o DOI através da referência ao arquivo (menos compreensível) do livro.
 
