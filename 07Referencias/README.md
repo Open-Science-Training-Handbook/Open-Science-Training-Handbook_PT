@@ -28,6 +28,8 @@ In *Wavelets and Statistics*, edited by Anestis Antoniadis and Georges
 Oppenheim, 103:55–81. New York, NY: Springer New York, 1995.
 https://doi.org/10.1007/978-1-4612-2544-7_5.
 
+Candela, Leonardo, Donatella Castelli,  and Pasquale Pagano (2013). Virtual Research Environments: An Overview and a Research Agenda. Data Science Journal. 12, pp.GRDI75–GRDI81. [doi.org/10.2481/dsj.GRDI-013]( https://doi.org/10.2481/dsj.GRDI-013 ).
+
 Christodoulou, Michail, Stefanos Kachrilas, Ahmed Dina, Andreas Bourdoumis,
 Junaid Masood, Noor Buchholz, and Athanasios Papatsoris. ‘How to Conduct a
 Successful Workshop: The Trainees’ Perspective’. *Arab Journal of Urology*,
@@ -95,6 +97,8 @@ Halpern. ‘Our Path to Better Science in Less Time Using Open Data Science
 Tools’. *Nature Ecology & Evolution* 1, no. 6 (23 May 2017): 0160.
 https://doi.org/10/gc4jb3.
 
+Luther J. The Stars Are Aligning for Preprints. The Scholarly Kitchen. 2017. [December 2018].  [scholarlykitchen.sspnet.org](https://scholarlykitchen.sspnet.org/2017/04/18/stars-aligning-preprints)
+
 Martinez-Torres, M.R., and M.C. Diaz-Fernandez. ‘Current Issues and Research
 Trends on Open-Source Software Communities’. *Technology Analysis & Strategic
 Management* 26, no. 1 (2 January 2014): 55–68. https://doi.org/10/gc5sjj.
@@ -142,14 +146,15 @@ Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein. ‘T
 State of OA: A Large-Scale Analysis of the Prevalence and Impact of Open Access
 Articles’. *PeerJ* 6 (13 February 2018): e4375. https://doi.org/10/ckh5.
 
-‘Point of View: How Open Science Helps Researchers Succeed’, n.d.
-https://doi.org/10/gc5sjc.
+Point of View: How Open Science Helps Researchers Succeed, n.d.https://doi.org/10/gc5sjc.
 
 Pontika, Nancy, Petr Knoth, Matteo Cancellieri, and Samuel Pearce. ‘Fostering
 Open Science to Research Using a Taxonomy and an ELearning Portal’. In
 *Proceedings of the 15th International Conference on Knowledge Technologies and
 Data-Driven Business*, 11:1–11:8. I-KNOW ’15. New York, NY, USA: ACM, 2015.
 https://doi.org/10.1145/2809563.2809571.
+
+Priem, Jason, D. Taraborelli, P. Groth, C. Neylon (2010). Altmetrics: A manifesto, 26 October 2010. [altmetrics.org/manifesto](http://altmetrics.org/manifesto)
 
 Prins, Pjotr, Joep de Ligt, Artem Tarasov, Ritsert C Jansen, Edwin Cuppen, and
 Philip E Bourne. ‘Toward Effective Software Solutions for Big Biology’. *Nature
@@ -232,6 +237,8 @@ Wilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and
 Tracy K. Teal. ‘Good Enough Practices in Scientific Computing’. Edited by
 Francis Ouellette. *PLOS Computational Biology* 13, no. 6 (22 June 2017):
 e1005510. https://doi.org/10/gbkbwp.
+
+Wilsdon, James, Judit Bar-Ilan,  Robert Frodeman, Elisabeth Lex, Isabella Peters, Paul Wouters (2017). Next-generation metrics: Responsible metrics and evaluation for open science.    Directorate-General for Research and Innovation.European Commission Expert Group on Altmetrics. [PDF](https://ec.europa.eu/research/openscience/pdf/report.pdf)
 
 Wilson, Paul M., Mark Petticrew, Mike W. Calnan, and Irwin Nazareth.
 ‘Disseminating Research Findings: What Should Researchers Do? A Systematic
