@@ -76,7 +76,7 @@ Segue-se uma lista indicativa de ideias a reter sobre reprodutibilidade:
 
 * Ambientes de análise reprodutíveis \(virtualização\).
 
-* Abordar os "Researcher Degrees of Freedom" \(Wicherts et al., 2016\).
+* Abordar os _Researcher Degrees of Freedom_ [Wicherts et al., 2016](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01832/full).
 
 ## <img src="/Images/Icons/gears.png" width="150" height="150" />
 #### Competências
