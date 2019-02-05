@@ -18,7 +18,7 @@
   * [2.11 - Recursos Educativos Abertos](02IntroducaoaCienciaAberta/11Recursos_Educativos_Abertos.md)
   * [2.11 - Defesa e Promoção da Ciência Aberta](02IntroducaoaCienciaAberta/12Defesa_Promocao_CienciaAberta.md)
 
-* [3 - Sobre Aprendizagem e Formação](03Sobre%20Aprendizageme%20Formacao/README.md)
+* [3 - Sobre Aprendizagem e Formação](03SobreAprendizagemeFormacao/README.md)
 
 * [4 - Aspetos Organizativos](04AspetosOrganizativos/README.md)
 
