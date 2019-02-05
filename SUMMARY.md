@@ -7,7 +7,7 @@
 * [2 - Introdução à Ciência Aberta](02IntroducaoaCienciaAberta/README.md)
   * [2.1 - Conceito e Princípios da Ciência Aberta](02IntroducaoaCienciaAberta/01Conceito_e_Principios_da_Ciencia_Aberta.md)
   * [2.2 - Dados e Materiais de Investigação Abertos](02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md)
-  * [2.3 - Software Aberto na Investigação](02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na%20Investigacao_e_Software_de_Codigo_Aberto.md)
+  * [2.3 - Software Aberto na Investigação](02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na_Investigacao_e_Software_de_Codigo_Aberto.md)
   * [2.4 - Investigação Reprodutível e Análise de Dados](02IntroducaoaCienciaAberta/04Investigacao_%20reprodutivel_e_analise_de_dados.md)
   * [2.5 - Acesso Aberto a Publicações](02IntroducaoaCienciaAberta/05Acesso_Aberto_a_Publicacoes.md)
   * [2.6 - Licenciamento Aberto e Formatos de Ficheiro](02IntroducaoaCienciaAberta/06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
