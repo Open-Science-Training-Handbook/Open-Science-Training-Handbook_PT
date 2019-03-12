@@ -92,7 +92,7 @@ Comece a documentar no início do estudo escrevendo um plano de estudo ou protoc
 
 ###### Escolha ferramentas e materiais reprodutíveis
 
-Escolha anticorpos que funcionem usando um motor de pesquisa de anticorpos como [CiteAb](https://www.citeab.com/). Evite a irreprodutibilidade através de linhas celulares mal identificadas escolhendo as que estão autenticadas pela [International Cell Line Authentication Committee](http://iclac.org/). Sempre que possível, escolha ferramentas de software e hardware nas quais retenha a propriedade da sua investigação e que permitam a exportação da sua investigação para fora da plataforma para sua reutilização - veja [Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na%20Investigacao_e_Software_de_Codigo_Aberto.md).
+Escolha anticorpos que funcionem usando um motor de pesquisa de anticorpos como [CiteAb](https://www.citeab.com/). Evite a irreprodutibilidade através de linhas celulares mal identificadas escolhendo as que estão autenticadas pela [International Cell Line Authentication Committee](http://iclac.org/). Sempre que possível, escolha ferramentas de software e hardware nas quais retenha a propriedade da sua investigação e que permitam a exportação da sua investigação para fora da plataforma para sua reutilização - veja [Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na_Investigacao_e_Software_de_Codigo_Aberto.md).
 
 ###### Estabeleça um projeto reprodutível
 
@@ -109,7 +109,7 @@ Faça um pré-registo de informação importante do desenho e análise do estudo
 
 ###### Controlo de versões
 
-Registe as alterações aos seus ficheiros, especialmente o código de análise, usando um controlo de versões veja [Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na%20Investigacao_e_Software_de_Codigo_Aberto.md).
+Registe as alterações aos seus ficheiros, especialmente o código de análise, usando um controlo de versões veja [Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na_Investigacao_e_Software_de_Codigo_Aberto.md).
 
 ###### Documentação
 
