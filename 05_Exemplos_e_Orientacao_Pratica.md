@@ -69,7 +69,7 @@ Várias universidades em toda a Europa organizam escolas de verão com a duraç�
 
 * Formato, duração 
 
-* Tema \([ver Introdução à Ciência Aberta](02OpenScienceBasics/README.md)\)
+* Tema \([ver Introdução à Ciência Aberta](02IntroducaoaCienciaAberta/README.md)\)
 
 * Objetivos de aprendizagem  
 
@@ -1374,7 +1374,7 @@ Plataformas Colaborativas</td>
 
     * Pequenos grupos, 2h
 
-    * Tópico: [Acesso Aberto a Publicações](05Acesso_Aberto_a_Publicacoes.md)
+    * Tópico: [Acesso Aberto a Publicações](02IntroducaoaCienciaAberta/05Acesso_Aberto_a_Publicacoes.md)
 
    * Objetivos de aprendizagem
    * "O jogo permite explorar o impacto das opções de comunicação acadêmica e discutir o papel do acesso aberto na pesquisa, seguindo a vida de quatro pesquisadores, desde a pesquisa de doutorado até seus legados académicos.." https://blogs.kent.ac.uk/osc/2017/10/27/introducing-the-publishing-trap/
@@ -1404,7 +1404,7 @@ Plataformas Colaborativas</td>
     * pequenos grupos, 4 dias (5 horas/dia)
 
 * Tema
-    * [Dados e Materiais de Investigação Abertos](02Dados_e_Materiais_de_Investigacao_Abertos.md)
+    * [Dados e Materiais de Investigação Abertos](02IntroducaoaCienciaAberta/02Dados_e_Materiais_de_Investigacao_Abertos.md)
 
 * Objetivos de aprendizagem
       * Que os participantes compreendam os conceitos básicos de dados abertos e pesquisa reproduzível, saibam fazer um plano de gestão de dados e consigam localizar um repositório para depositar os seus dados.
@@ -1442,7 +1442,7 @@ Plataformas Colaborativas</td>
     * equenos grupos, 2 horas
 
 * Tema
-    * [Defesa e promoção da Ciência Aberta](12Defesa_Promocao_CienciaAberta.md)
+    * [Defesa e promoção da Ciência Aberta](02IntroducaoaCienciaAberta/12Defesa_Promocao_CienciaAberta.md)
 
 * Objectivos de aprendizagem
    * Este jogo pode ser usado para worskshops de formação de formadores. Os participantes projetam a estrutura para uma formação - que será entregue num estágio posterior - sobre o(s) tópico (s) de sua escolha.O jogo de cartas oferece aos participantes a opção de pré-selecionar o tipo de público, o tamanho do público, o tipo de formação e o nível de conhecimento do público. Além disso, duas circunstâncias "imprevistas" podem ser adicionadas: o humor do público e os "problemas" (uh-oh!). Além de poder adaptar esta estrutura a sessões  posteriores, o público deste workshop também beneficiará da contribuição e experiência dos outros participantes.  
