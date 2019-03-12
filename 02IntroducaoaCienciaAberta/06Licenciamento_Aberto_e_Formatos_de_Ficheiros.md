@@ -5,7 +5,7 @@
 
 Uma licença é um documento legal que concede direitos específicos ao utilizador para reutilizar e redistribuir um material licenciado sob determinadas condições. Qualquer direito não concedido por defeito pelo licenciador através da licença pode ser solicitado. As licenças podem ser aplicadas a qualquer material \(por exemplo: som, texto, imagem, multimédia, software\) que tenha alguns direitos de exploração ou uso.
 
-[Free content license](https://en.wikipedia.org/wiki/List_of_free_content_licenses)(https://en.wikipedia.org/wiki/List_of_free_content_licenses)[s](https://en.wikipedia.org/wiki/List_of_free_content_licenses) são licenças que concedem permissão para aceder, reutilizar e redistribuir material com poucas ou nenhumas restrições. Estas licenças variam de muito abertas a muito restritivas. Quanto mais restrições, mais difícil se torna combinar conteúdos de licenças diferentes - impedindo potencialmente a interoperabilidade.
+[Free content licenses](https://en.wikipedia.org/wiki/List_of_free_content_licenses) são licenças que concedem permissão para aceder, reutilizar e redistribuir material com poucas ou nenhumas restrições. Estas licenças variam de muito abertas a muito restritivas. Quanto mais restrições, mais difícil se torna combinar conteúdos de licenças diferentes - impedindo potencialmente a interoperabilidade.
 
 Um formato de ficheiro é uma forma padrão de codificar informações para armazenar num ficheiro de computador; contudo, nem todos os formatos têm documentos de especificação disponíveis gratuitamente, em parte porque alguns programadores vêem os seus documentos com especificações como segredos comerciais.
 
