@@ -887,12 +887,12 @@ Plataformas Colaborativas</td>
 
 * Formato, duração
 
-    * Individual /pares, 20–30 minutos
+    * Individual ou pares, 20–30 minutos
 
 * Tema
 
-    * [Software Aberto Usado na Investigação e Software de Código Aberto](02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na Investigacao_e_Software_de_Codigo_Aberto.md)
-
+    * [Software Aberto Usado na Investigação e Software de Código Aberto]    (02IntroducaoaCienciaAberta/03Software_Aberto_Usado_na_Investigacao_e_Software_de_Codigo_Aberto.md)
+    
 * Objetivos de aprendizagem
 
     * Aprender a usar ferramentas e serviços para compartilhar código de investigação abertamente.
