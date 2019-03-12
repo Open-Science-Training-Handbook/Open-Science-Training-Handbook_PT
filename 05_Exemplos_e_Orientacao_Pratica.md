@@ -941,7 +941,7 @@ Plataformas Colaborativas</td>
 
 * Tema
 
-    * [Investigação reprodutível e análise de dados](02IntroducaoaCienciaAberta/04Investigacao_ reprodutivel_e_analise_de_dados.md)
+    * [Investigação reprodutível e análise de dados](02IntroducaoaCienciaAberta/04Investigacao_reprodutivel_e_analise_de_dados.md)
 
 * Objetivos de aprendizagem 
 
