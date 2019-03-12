@@ -193,7 +193,7 @@ A tabela abaixo fornece recomendações de base sobre diferentes tipos de forma�
 
 ### Audiência, oradores convidados e parceiros
 
-Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](../03Sobre%20Aprendizageme%20Formacao#p%C3%BAblicos-alvo) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
+Antes de se comprometer a coordenar um evento de formação, defina o [público-alvo](../03SobreAprendizagemeFormacao#publicos-alvo) e certifique-se de que conhece as suas necessidades. Identifique o público, qual o número máximo de participantes, quantos os formadores convidados e qual a sua área de competência. 
 
 ## <img src="/Images/Icons/collaborate.png" width="150" height="150" />
 #### Cooperação
