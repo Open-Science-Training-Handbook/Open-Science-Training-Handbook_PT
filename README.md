@@ -27,7 +27,7 @@ Por favor considere fazer a referência bibliográfica quando usar o conteúdo d
 
 ## Os autores, colaboradores e tradutores deste manual colaborativo
 
-Saiba mais sobre os [autores e facilitadores do livro](./08FichaTecnica/AbouttheAuthors&Facilitators.md), suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, bem como sobre os [tradutores e revisores desta versão portuguesa](./08FichaTecnica/README.md) no último capítulo do Manual.  
+Saiba mais sobre os [autores e facilitadores do livro](./08FichaTecnica/), suas experiências e fontes de inspiração, sua afiliação, informação de contacto, perfis Twitter e ORCID, bem como sobre os [tradutores e revisores desta versão portuguesa](./08FichaTecnica/README.md) no último capítulo do Manual.  
 
  ## <img src="/Images/Icons/heart.png" width="150" height="150" />	
  
