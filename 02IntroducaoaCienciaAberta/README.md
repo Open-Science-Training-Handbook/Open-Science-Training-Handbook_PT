@@ -9,8 +9,8 @@ Cada seção está estruturada de modo a incluir uma breve descrição do tópic
 
 * [1. Conceito e Princípios da Ciência Aberta](01Conceito_e_Principios_da_Ciencia_Aberta.md)
 * [2. Dados e Materiais de Investigação Abertos](02Dados_e_Materiais_de_Investigacao_Abertos.md)
-* [3. Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na%20Investigacao_e_Software_de_Codigo_Aberto.md)
-* [4. Investigação Reprodutível e Análise de Dados](04Investigacao_%20reprodutivel_e_analise_de_dados.md)
+* [3. Software Aberto Usado na Investigação e Software de Código Aberto](03Software_Aberto_Usado_na_Investigacao_e_Software_de_Codigo_Aberto.md)
+* [4. Investigação Reprodutível e Análise de Dados](04Investigacao__reprodutivel_e_analise_de_dados.md)
 * [5. Acesso Aberto a Publicações](05Acesso_Aberto_a_Publicacoes.md)
 * [6. Licenciamento Aberto e Formatos de Ficheiros](06Licenciamento_Aberto_e_Formatos_de_Ficheiros.md)
 * [7. Plataformas Colaborativas](07Plataformas_Colaborativas.md)
