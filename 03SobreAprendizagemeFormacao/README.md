@@ -246,7 +246,8 @@ Para os Objetivos de Aprendizagem em Open Science, veja-se este documento do FOS
 
 Um dos principais componentes de uma ação de formação é garantir que a falta de confiança que os participantes possam ter ao serem apresentados a uma nova área (Ciência Aberta, neste caso) não os desencoraja de prosseguir. Mesmo que alguns participantes estejam familiarizados com os conceitos apresentados na ação de formação, é importante reconhecer quando a matéria está a ser pouco clara para eles. Reconhecer que as apreciações dos participantes, mesmo que mal entendidas, são válidas é fundamental de modo a estimular uma lógica de crescimento e a motivá-los no sentido de aceitar e endossar as práticas da Ciência Aberta.
 
-Existem várias estratégias que podem ser empregues durante toda a ação de formação visando motivar os participantes. \(T\(Retirado do Manual do Formador de Carpentry [https://carpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/).
+Existem várias estratégias que podem ser empregues durante toda a ação de formação visando motivar os participantes. 
+\(Retirado do Manual do Formador de Carpentry [https://carpentries.github.io/instructor-training/08-motivation/](https://carpentries.github.io/instructor-training/08-motivation/\).
 
 * **Estratégias para criar valor**
 
