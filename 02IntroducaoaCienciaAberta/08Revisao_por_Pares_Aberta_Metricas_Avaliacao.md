@@ -33,7 +33,7 @@ Um [relatório recente da Comissão Europeia](https://doi.org/10.2777/75255) (20
 
 2. Implementar métodos de avaliação com recurso a métricas alternativas, dados abertos, ciência cidadã e aprendizagem aberta.
 
-Cada vez mais financiadores e instituições estão a caminhar nesta direção, por exemplo, afastando-se das contagens e incluindo indicadores de impacto social nos processos de avaliação. Outros passos que as entidades financiadoras estão a implementar são permitir que sejam inluídos mais tipos de resultados de investigação (como _preprints_) nas candidaturas e financiar diferentes tipos de investigação (como estudos de replicabilidade).
+Cada vez mais financiadores e instituições estão a caminhar nesta direção, por exemplo, afastando-se das contagens e incluindo indicadores de impacto social nos processos de avaliação. Outros passos que as entidades financiadoras estão a implementar são permitir que sejam incluídos mais tipos de resultados de investigação (como _preprints_) nas candidaturas e financiar diferentes tipos de investigação (como estudos de replicabilidade).
 
 ## <img src="/Images/Icons/finish.png" width="150" height="150" />
 ### Objetivos de aprendizagem
